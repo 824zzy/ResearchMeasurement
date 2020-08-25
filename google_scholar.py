@@ -27,9 +27,6 @@ sum_g_citation = g_selector.xpath('//*[@id="gsc_rsb_st"]/tbody/tr[1]/td[2]/text(
 curr = ''
 
 for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()')):
-    # calculating total publication quantity
-    g_pub_num += 1
-    
     # normalize paper title
     g_title = quote.lower()
     for c in string.punctuation:
@@ -49,8 +46,8 @@ for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()
     venue = venue[0] if venue else None 
     
     # append infomation
+    same_pub = False
     if quote not in g_citations: # make sure the original paper title are not the same
-        same_pub = False
         for k, v in g_citations.items():
             for info in v:
                 if g_title==info[0]: # If the paper title are similar
@@ -74,8 +71,6 @@ for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()
             g_citations[quote].append([g_title, cnt, year, venue])
                     
     else: # if have same original paper titles, then compare year and venue
-        
-        same_pub = False
         for info in g_citations[quote]:
             cur_year = info[2]
             curr_venue = info[3]
@@ -93,7 +88,10 @@ for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()
         if not same_pub:
             g_citations[quote].append([g_title, cnt, year, venue])
         
-
+    # calculating total publication quantity
+    if not same_pub:
+        g_pub_num += 1
+    
 g_citations = OrderedDict(sorted(g_citations.items()))
 
 # Test
