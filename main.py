@@ -54,7 +54,7 @@ if __name__ == "__main__":
     print("There are {} papers in Google Scholar and {} papers in Microsoft Academic".format(g_pub_num, m_pub_num))
     print("Total citations from Google Scholar is {}, Microsoft Academic is {}".format(g_citation_num, m_citation_num))
     print('------'*20)
-    print('Please note that although the paper title may appear in the other source, but ')
+    print('Please note that the duplicated paper titles may appear in the other source')
     print("There are {} Papers appear in Microsoft Academic but not in Google Scholar:".format(len(ms1g0_origin)))
     for i, v in enumerate(sorted(ms1g0_origin)):
         print("\t{}: {}. Microfost Academic citation: {}".format(i+1, v[0], v[1]))
