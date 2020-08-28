@@ -7,10 +7,11 @@ from collections import Counter
 if __name__ == "__main__":
     """ Generate Report
     """
-    print("Report For google scholar:")
+    # print("Report For google scholar:")
     g_citations, g_pub_num, g_pub_origin, g_citation_num = get_google_scholar()
-    print("-----"*10)
-    print("Report For Microsoft academic:")
+    
+    # print("-----"*10)
+    # print("Report For Microsoft academic:")
     m_citations, m_pub_num, m_pub_origin, m_citation_num = get_MS_academic()
     
     # For testing
@@ -51,16 +52,21 @@ if __name__ == "__main__":
     ms0g1_origin = gen_diff_origin(g_origin, ms0g1, g_citations)
 
 
-    print("There are {} papers in Google Scholar and {} papers in Microsoft Academic".format(g_pub_num, m_pub_num))
-    print("Total citations from Google Scholar is {}, Microsoft Academic is {}".format(g_citation_num, m_citation_num))
+    print("There are {} papers in Google Scholar and {} papers in Microsoft Academic"
+          .format(g_pub_num, m_pub_num))
+    print("Total citations from Google Scholar is {}, Microsoft Academic is {}"
+          .format(g_citation_num, m_citation_num))
     print('------'*20)
     print('Please note that the duplicated paper titles may appear in the other source')
-    print("There are {} Papers appear in Microsoft Academic but not in Google Scholar:".format(len(ms1g0_origin)))
+    print("There are {} Papers appear in Microsoft Academic but not in Google Scholar:"
+          .format(len(ms1g0_origin)))
     for i, v in enumerate(sorted(ms1g0_origin)):
-        print("\t{}: {}. Microfost Academic citation: {}".format(i+1, v[0], v[1]))
+        print("\t{}: {}\n\t\tMicrofost Academic citation: {}; Published year: {}; Published venue: {}."
+              .format(i+1, v[0], v[1], v[2], v[3]))
     print("There are {} Papers appear in Google Schoolar but not in MS Academic".format(len(ms0g1_origin)))
     for i, v in enumerate(sorted(ms0g1_origin)):
-        print("\t{}: {}. Google Scholar citation: {}".format(i+1, v[0], v[1]))
+        print("\t{}: {}\n\t\tGoogle Scholar citation: {}; Published year: {}; Published venue: {}."
+              .format(i+1, v[0], v[1], v[2], v[3]))
     print('------'*20)
 
     g_t_c = {v[0][0]:v[0][1] for k, v in g_citations.items() if v[0][0] in overlap and len(v)==1}
@@ -71,7 +77,8 @@ if __name__ == "__main__":
         if t in overlap:
             try:
                 if g_t_c[t] != m_t_c[t]:
-                    print("{}\ngoogle scholar citation: {}, microsoft academic citation: {}".format(g_origin[t], g_t_c[t], m_t_c[t]))
+                    print("{}\ngoogle scholar citation: {}, microsoft academic citation: {}"
+                          .format(g_origin[t], g_t_c[t], m_t_c[t]))
                     print("------"*10)
             except:
                 pass

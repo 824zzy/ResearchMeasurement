@@ -60,17 +60,29 @@ def gen_title(citation):
     return t
 
 def gen_origin(origin, titles, citations):
-        res = []
-        for t in titles:
-            res.append([origin[t], citations[origin[t]][1]])
-        return res
+    res = []
+    for t in titles:
+        res.append([origin[t], citations[origin[t]][1]])
+    return res
 
-# TODO: change this function
+
 def gen_diff_origin(origin, titles, citations):
-        res = []
-        for t in titles:
-            res.append([origin[t], citations[origin[t]][0][1]])
-        return res
+    res = []
+    for t in titles:
+        orgn_title = origin[t]
+        citation_num = citations[origin[t]][0][1]
+        pub_year = citations[origin[t]][0][2]
+        
+        if not citations[origin[t]][0][3]:
+            pub_venue = "Null"
+        else:    
+            pub_venue = citations[origin[t]][0][3]
+        res.append([orgn_title, 
+                    citation_num, 
+                    pub_year,
+                    pub_venue] 
+                    )
+    return res
     
 def check_duplicate(prc1, prc2):
     dedup1 = []

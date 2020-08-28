@@ -9,6 +9,8 @@ from selenium import webdriver
 import string
 import time
 from checker import check_same_title, check_diff_title
+from selenium import webdriver
+import re
 
 headers = {
     'USER-AGENT':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'
@@ -19,8 +21,20 @@ g_citations = {
     'original paper title': 'processed paper title', 'citation number', 'publish year', 'venue'
 }
 """
-def get_google_scholar():
-    google_src = requests.get('https://scholar.google.com/citations?hl=en&user=v8ZQDf8AAAAJ&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000', headers=headers).text                           
+def get_google_scholar(name):
+    # Get user id
+    driver = webdriver.Chrome()
+    profile_url = 'https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q={}+UTA'.format(name)
+    driver.get(profile_url)
+    profile_html = driver.page_source
+    # profile_html = requests.get(profile_url, headers=headers).text
+    profile_selector = etree.HTML(profile_html) 
+    user_url = profile_selector.xpath('//*[@id="gs_res_ccl_mid"]/div[1]/table/tbody/tr/td[2]/h4/a/@href')[0]
+    user_id = re.findall("\?(.*)\&hl", user_url)[0]
+    driver.close()
+    
+    google_url = 'https://scholar.google.com/citations?hl=en&{}&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000'.format(user_id)
+    google_src = requests.get(google_url, headers=headers).text
     g_selector = etree.HTML(google_src) 
     g_citations = defaultdict(list)
     g_res = defaultdict(list)
@@ -80,10 +94,9 @@ please check:
 2. different paper title
 """ 
 if __name__ == "__main__":
-    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar()
+    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("Won Hwa Kim")
     # Test
     for k, v in g_citations.items():
-        # print(k, v)
-        print(v)
+        print(k, v)
     
     print(g_pub_num, g_pub_origin, sum_g_citation)
