@@ -19,52 +19,59 @@ g_citations = {
     'original paper title': 'processed paper title', 'citation number', 'publish year', 'venue'
 }
 """
-google_src = requests.get('https://scholar.google.com/citations?hl=en&user=v8ZQDf8AAAAJ&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000', headers=headers).text                           
-g_selector = etree.HTML(google_src) 
-g_citations = defaultdict(list)
-g_pub_num = 0
-flag = True
-sum_g_citation = g_selector.xpath('//*[@id="gsc_rsb_st"]/tbody/tr[1]/td[2]/text()')[0]
-curr = ''
+def get_google_scholar():
+    google_src = requests.get('https://scholar.google.com/citations?hl=en&user=v8ZQDf8AAAAJ&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000', headers=headers).text                           
+    g_selector = etree.HTML(google_src) 
+    g_citations = defaultdict(list)
+    g_res = defaultdict(list)
+    g_pub_num = 0
+    g_pub_origin = 0
+    flag = True
+    sum_g_citation = g_selector.xpath('//*[@id="gsc_rsb_st"]/tbody/tr[1]/td[2]/text()')[0]
+    curr = ''
 
-for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()')):
-    # normalize paper title
-    g_title = quote.lower()
-    for c in string.punctuation:
-        g_title = g_title.replace(c, '')
-    g_title = g_title.replace(' ', '')
-    
-    # xpath for citation number
-    cnt = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[2]/a/text()'.format(i+1))
-    cnt = str(cnt[0]) if cnt else '0'
-    
-    # xpath for publish year
-    year = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[3]/span/text()'.format(i+1))
-    year = str(year[0]) if year else None
-    
-    # xpath for publish venue
-    venue = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[1]/div[2]/text()'.format(i+1))
-    venue = venue[0] if venue else None 
-    
-    # append infomation
-    if quote not in g_citations: # make sure the original paper title are not the same
-        same_pub = check_diff_title(g_citations, quote, g_title, year, venue)
-        if not same_pub:
-            g_citations[quote].append([g_title, cnt, year, venue])
-    else: # if have same original paper titles, then compare year and venue
-        same_pub = check_same_title(g_citations, quote, year, venue)
-        if not same_pub:
-            g_citations[quote].append([g_title, cnt, year, venue])
+    for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()')):
+        # original paper number
+        g_pub_origin += 1
+        # normalize paper title
+        g_title = quote.lower()
+        for c in string.punctuation:
+            g_title = g_title.replace(c, '')
+        g_title = g_title.replace(' ', '')
         
-    # calculating total publication quantity
-    if not same_pub:
-        g_pub_num += 1
-    
-g_citations = OrderedDict(sorted(g_citations.items()))
+        # xpath for citation number
+        c_num = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[2]/a/text()'.format(i+1))
+        c_num = str(c_num[0]) if c_num else '0'
+        
+        # xpath for publish year
+        year = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[3]/span/text()'.format(i+1))
+        year = str(year[0]) if year else None
+        
+        # xpath for publish venue
+        venue = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[1]/div[2]/text()'.format(i+1))
+        venue = venue[0] if venue else None 
+        
+        # add infomation to dict
+        if quote not in g_citations: # make sure the original paper title are not the same
+            same_pub = check_diff_title(g_citations, quote, g_title, year, venue)
+            if not same_pub:
+                g_citations[quote].append([g_title, c_num, year, venue])
+                g_res[g_title].append([quote, c_num, year, venue])
+        else: # if have same original paper titles, then compare year and venue
+            same_pub = check_same_title(g_citations, quote, year, venue)
+            if not same_pub:
+                g_citations[quote].append([g_title, c_num, year, venue])
+                g_res[g_title].append([quote, c_num, year, venue])
+        # calculating total publication quantity
+        if not same_pub:
+            g_pub_num += 1
+        
+    g_res = OrderedDict(sorted(g_res.items()))
+    g_citations = OrderedDict(sorted(g_citations.items()))
+    return g_citations, g_pub_num, g_pub_origin, sum_g_citation
+    # return g_res, g_pub_num, g_pub_origin, sum_g_citation
 
-# Test
-# for k, v in g_citations.items():
-#     print(k, v)
+
 """
 please check:
 1. same paper title
@@ -72,3 +79,11 @@ please check:
     2. Discovering and learning sensational episodes of news events
 2. different paper title
 """ 
+if __name__ == "__main__":
+    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar()
+    # Test
+    for k, v in g_citations.items():
+        # print(k, v)
+        print(v)
+    
+    print(g_pub_num, g_pub_origin, sum_g_citation)
