@@ -13,7 +13,10 @@ from selenium import webdriver
 import re
 
 headers = {
-    'USER-AGENT':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36'
+    'USER-AGENT':'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/67.0.3396.99 Safari/537.36',
+    'cookie': 'CONSENT=YES+CN.zh-CN+20161016-15-2; ANID=AHWqTUnVQhoVBPnJQYoCcORm65SwC1wGWDJkgZYP71DdguUMtEnSdlEcF61v0mZu; GSP=LM=1590885779:S=chPQMZ8Oa_0roIgY; HSID=AMMhz5In4VkzrQcHv; SSID=AcctHpUKuD-MP7GwW; APISID=cMVmBSA-KnEtFSST/Ah84vthXMgghX_uF2; SAPISID=Sc4J6syXW3EEmZQO/AZLInF6oRVcetG6l9; __Secure-3PAPISID=Sc4J6syXW3EEmZQO/AZLInF6oRVcetG6l9; OGP=-19018928:; SEARCH_SAMESITE=CgQIrpAB; OGPC=19018621-1:19018928-1:19019681-1:; SID=0gcVx4hUqogXPbay2DED_knyTzM1GbcvP9TLDDpz7ZfIF2ALZr-izFA0Ge5q4yH05Y5Ayg.; __Secure-3PSID=0gcVx4hUqogXPbay2DED_knyTzM1GbcvP9TLDDpz7ZfIF2AL00AWmTKOSRtQZGm5PZJ4RQ.; NID=204=yqFzImrMWMyFskFz-FZOKzWV1hGmqWzYh6nXTEMNrkkh7Az7RqyRtTiqG7UgR1zXTCazIBErE2oZAPBYkpGhXcuHUEq4RKqw6axx__giNp5gbM9wMGm-pr4HqT2PeNrDDvh81do8tCBOQza7fKwMc0XLSoj8U4JcPvMUOu9r89qA9PwPFKRWOq7X-KPzntF_G-mqpWjOQWBqOxcY2PdHFfcTr7xkwkvpEBIT1izKomXVa4K1ogSobqFAb3xmrMWD1HpftoaBMCXd5P1hPbkBAzyGLgdx29wZUoNWe6lAnBW2nGRIYfWZjCpfggQ; 1P_JAR=2020-08-29-04; SIDCC=AJi4QfHgh9DalG8ReHL8NB9t2mx1c-fcABJRBQ9UGTab-4puP6E4V0GJSreVxLpyA0nJZ_1JAaao; __Secure-3PSIDCC=AJi4QfHBNRHAJ_VfFlQ920cmW4iHFSSfZUv0rCdY452Bt-jhEpAjTUovzVwY0i0EvMIa_wDAenU',
+    'x-client-data': 'CKe1yQEIibbJAQimtskBCMS2yQEIqZ3KAQiZocoBCIa1ygEImbXKAQj+vMoBCOfGygEI58jKAQjpyMoBCJXWygEIvNfKAQ==',
+    'upgrade-insecure-requests': '1',
     }
 
 """ Google Schoolar
@@ -22,20 +25,39 @@ g_citations = {
 }
 """
 def get_google_scholar(name):
-    # Get user id
+    # TODO: blocked by google
+    # # Get user id
     driver = webdriver.Chrome()
-    profile_url = 'https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q={}+UTA'.format(name)
-    driver.get(profile_url)
-    profile_html = driver.page_source
+    # profile_url = 'https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q={}+UTA'.format(name)
+    # print(profile_url)
+    # # driver.get(profile_url)
+    # # time.sleep(4)
+    # # profile_html = driver.page_source
     # profile_html = requests.get(profile_url, headers=headers).text
-    profile_selector = etree.HTML(profile_html) 
-    user_url = profile_selector.xpath('//*[@id="gs_res_ccl_mid"]/div[1]/table/tbody/tr/td[2]/h4/a/@href')[0]
-    user_id = re.findall("\?(.*)\&hl", user_url)[0]
+    # print(profile_html)
+    # profile_selector = etree.HTML(profile_html)
+    # user_url = profile_selector.xpath('//*[@id="gs_res_ccl_mid"]/div[1]/table/tbody/tr/td[2]/h4/a/@href')[0]
+    # user_id = re.findall("\?(.*)\&hl", user_url)[0]
+    
+    
+    # google_url = 'https://scholar.google.com/citations?hl=en&{}&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000'.format(user_id)
+    
+    # google_url = 'https://scholar.google.com/citations?user=X7KrguAAAAAJ&hl=en&oi=ao&cstart=0&pagesize=200'
+    # driver.get(google_url)
+    driver.get(name)
+    # TODO: maybe 10 is not enough
+    for _ in range(10):
+        try:
+            driver.find_element_by_xpath('//*[@id="gsc_bpf_more"]/span/span[2]').click()
+            time.sleep(1)
+        except:
+            break
+    
+    # google_src = requests.get(google_url, headers=headers).text
+    google_src = driver.page_source
+    g_selector = etree.HTML(google_src) 
     driver.close()
     
-    google_url = 'https://scholar.google.com/citations?hl=en&{}&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000'.format(user_id)
-    google_src = requests.get(google_url, headers=headers).text
-    g_selector = etree.HTML(google_src) 
     g_citations = defaultdict(list)
     g_res = defaultdict(list)
     g_pub_num = 0
@@ -51,7 +73,7 @@ def get_google_scholar(name):
         g_title = quote.lower()
         for c in string.punctuation:
             g_title = g_title.replace(c, '')
-        g_title = g_title.replace(' ', '')
+        g_title = g_title.replace(' ', '').encode('ascii', 'ignore')
         
         # xpath for citation number
         c_num = g_selector.xpath('//*[@id="gsc_a_b"]/tr[{}]/td[2]/a/text()'.format(i+1))
@@ -94,9 +116,10 @@ please check:
 2. different paper title
 """ 
 if __name__ == "__main__":
-    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("Won Hwa Kim")
+    # g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("Junzhou Huang")
+    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("https://scholar.google.com/citations?user=vhpbMX8AAAAJ")
     # Test
     for k, v in g_citations.items():
-        print(k, v)
+        print(v)
     
     print(g_pub_num, g_pub_origin, sum_g_citation)

@@ -1,3 +1,5 @@
+# -*- coding: utf-8 -*-
+
 def check_diff_title(source_dict, query_title, prc_title, pub_year, pub_venue):
     same_pub = False
     similar_title = ''
