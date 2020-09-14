@@ -1,0 +1,803 @@
+There are 336 papers in Google Scholar and 218 papers in Microsoft Academic
+Total citations from Google Scholar is 6791, Microsoft Academic is 4,457
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 33 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: A LAYERED OPTIMIZER FOR MINING ASSOCIATION RULES OVER RELATIONAL DATABASE MANAGEMENT SYSTEMS
+		Microfost Academic citation: 2; Published year: 2003; Published venue: Proceedings of the International Conference on Information and Knowledge Engineering 2003.
+	2: A framework for supporting quality of service requirements in a data stream management system
+		Microfost Academic citation: 9; Published year: 2005; Published venue: Null.
+	3: Active Data/Knowledge Bases Research At the University of Florida.
+		Microfost Academic citation: 12; Published year: 1992; Published venue: IEEE Data(base) Engineering Bulletin.
+	4: Active and Heterogenous Database Systems.
+		Microfost Academic citation: 0; Published year: 1990; Published venue: ER.
+	5: Agent-based approach to extending the native active capability of relational database systems
+		Microfost Academic citation: 0; Published year: 1999; Published venue: Null.
+	6: ER-R: An Enhanced ER Model with Situation-Action Rules to Capture Application Semantics.
+		Microfost Academic citation: 27; Published year: 1991; Published venue: ER.
+	7: Efficient dynamic load balancing algorithms for adaptive mesh applications
+		Microfost Academic citation: 0; Published year: 1994; Published venue: Null.
+	8: Enhanced DB-subdue : Supporting subtle aspects of graph mining using a relational approach
+		Microfost Academic citation: 7; Published year: 2006; Published venue: Lecture Notes in Computer Science.
+	9: Events and Rules for Java: Using a Seamless and Dynamic Approach.
+		Microfost Academic citation: 0; Published year: 2006; Published venue: DB&amp;IS.
+	10: Expressive profile specification and its semantics for a web monitoring system
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	11: Expressive profile specification and its semantics for a web monitoring system
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	12: Extensions to stream processing architecture for supporting event processing
+		Microfost Academic citation: 7; Published year: 2006; Published venue: Lecture Notes in Computer Science.
+	13: Formal semantics of composite events for distributed environments
+		Microfost Academic citation: 32; Published year: 1999; Published venue: International Conference on Data Engineering.
+	14: Fragmentation techniques for distributing object-oriented databases
+		Microfost Academic citation: 0; Published year: 1997; Published venue: Lecture Notes in Computer Science.
+	15: Generalization and enforcement of role-based access control using a novel event-based approach
+		Microfost Academic citation: 5; Published year: 2006; Published venue: Null.
+	16: Generic Multilayer Network Data Analysis with the Fusion of Content and Structure.
+		Microfost Academic citation: 2; Published year: 2019; Published venue: International Conference on Computational Linguistics.
+	17: Graph Mining Techniques and Their Application.
+		Microfost Academic citation: 0; Published year: 2008; Published venue: Conference on Management of Data.
+	18: Information security: Using a novel event-based approach
+		Microfost Academic citation: 2; Published year: 2004; Published venue: Proceedings of the International Conference on Information and Knowledge Engineering, IKE'04.
+	19: Just-in-Time Information: To Push or Not to Push (Abstract)
+		Microfost Academic citation: 1; Published year: 2000; Published venue: British National Conference on Databases.
+	20: Letter from the Guest Issue Editor.
+		Microfost Academic citation: 3; Published year: 1992; Published venue: IEEE Data(base) Engineering Bulletin.
+	21: Maintenance Policy Selection in Heterogeneous Data Warehouse Environments
+		Microfost Academic citation: 0; Published year: 2003; Published venue: Null.
+	22: ODBASE 2009 --- PC Co-chairs' Message
+		Microfost Academic citation: 0; Published year: 2009; Published venue: OTM '09 Proceedings of the Confederated International Conferences, CoopIS, DOA, IS, and ODBASE 2009 on On the Move to Meaningful Internet Systems: Part II.
+	23: ODBASE 2009 --- PC Co-chairs' Message
+		Microfost Academic citation: 0; Published year: 2009; Published venue: OTM '09 Proceedings of the Confederated International Conferences, CoopIS, DOA, IS, and ODBASE 2009 on On the Move to Meaningful Internet Systems: Part II.
+	24: Partitioned approach to association rule mining over multiple databases
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science.
+	25: Partitioned approach to association rule mining over multiple databases
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science.
+	26: Performance evaluation of SQL-OR variants for association rule mining
+		Microfost Academic citation: 0; Published year: 2003; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	27: Proceedings of the Fourth ACM International Conference on Distributed Event-Based Systems
+		Microfost Academic citation: 0; Published year: 2010; Published venue: Distributed Event-Based Systems.
+	28: Query processing on large graphs: Approaches to scalability and response time trade offs
+		Microfost Academic citation: 1; Published year: 2020; Published venue: Data and Knowledge Engineering.
+	29: Relational Schema Inte gration : Dealing with Inter-relation
+		Microfost Academic citation: 0; Published year: 1993; Published venue: Null.
+	30: Scheduling strategies for processing continuous queries over streams
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	31: SnoopIB: interval-based event specification and detection for active databases
+		Microfost Academic citation: 218; Published year: 2006; Published venue: Data and Knowledge Engineering.
+	32: SnoopIB:アクティブデータベースのためのインターバルベースのイベント特定および検出(原標題は英語)
+		Microfost Academic citation: 0; Published year: 2003; Published venue: Lect Notes Comput Sci.
+	33: WebVigiL: user profile-based change detection for HTML/XML documents
+		Microfost Academic citation: 12; Published year: 2003; Published venue: British National Conference on Databases.
+There are 151 Papers appear in Google Schoolar but not in MS Academic
+	1: 110 CHAKRAVARTHY AND WIDOM
+		Google Scholar citation: 0; Published year: 1996; Published venue: Journal of Intelligent Information Systems 7, 109-110.
+	2: 2012 Index IEEE Transactions on Knowledge and Data Engineering Vol. 24
+		Google Scholar citation: 0; Published year: 2013; Published venue: IEEE Transactions on Knowledge and Data Engineering 25 (1), 1.
+	3: A Distributed Middleware-Based Architecture for Fault-Tolerant Computing Over Distributed Repositories
+		Google Scholar citation: 0; Published year: 2011; Published venue: TEXAS UNIV AT ARLINGTON.
+	4: A Federated Multimedia DBMS for Medical Research: Architecture and Functionality
+		Google Scholar citation: 17; Published year: 1993; Published venue: Technical Report UF-CIS-TR-93-006, Department of Computer and Information ….
+	5: A Framework for Supporting and Enforcing RBAC and its Extensions in a Seamless Manner
+		Google Scholar citation: 1; Published year: 2004; Published venue: Null.
+	6: A GENERALIZED FRAMEWORK FOR MONITORING CHANGES TO DATABASE RELATIONS USING ACTIVE CAPABILITY
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	7: A SOA-Driven Content Discovery and Retrieval Platform
+		Google Scholar citation: 1; Published year: 2008; Published venue: 2008 10th IEEE Conference on E-Commerce Technology and the Fifth IEEE ….
+	8: A Utility Cognizant Approach to Handling Mixed Transaction Workload in Database Systems
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	9: A comparative evaluation of active relational databases
+		Google Scholar citation: 19; Published year: 1993; Published venue: Gainesville: University of Florida.
+	10: A confluent rule execution model for active databases
+		Google Scholar citation: 16; Published year: 1995; Published venue: Technical Report UF-CIS-TR-95-032, University of Florida, 1995. http://www ….
+	11: A formal approach to the vertical partitioning problem in distributed database design
+		Google Scholar citation: 52; Published year: 1993; Published venue: Proceedings of the second international conference on Parallel and ….
+	12: A framework for supporting load shedding in data stream management systems
+		Google Scholar citation: 6; Published year: 2004; Published venue: Tr cse-2004-19, UT Arlington.
+	13: A generalized RuleML-based Declarative Policy specification language for Web Services
+		Google Scholar citation: 8; Published year: 2004; Published venue: W3C Workshop on Constraints and Capabilities for Web Services.
+	14: A holistic approach to the evaluation of data warehouse maintenance policies
+		Google Scholar citation: 15; Published year: 2000; Published venue: Institutionen för kommunikation och information.
+	15: A practical approach to static analysis and execution of rules in active databases
+		Google Scholar citation: 11; Published year: 1997; Published venue: Proceedings of the sixth international conference on Information and ….
+	16: A retrospective analysis of time concepts in temporal databases
+		Google Scholar citation: 3; Published year: 1992; Published venue: Univ. of Florida, Tech. Report UF-CIS-TR-92 44.
+	17: APPROACHES TO IMPROVE THE PERFORMANCE OF STORAGE AND PROCESSING-SUBSYSTEMS IN WEBVIGIL
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	18: ASSOCIATION RULE MINING OVER MULTIPLE DATABASES: PARTITIONED AND INCREMENTAL APPROACHES
+		Google Scholar citation: 0; Published year: 2003; Published venue: Null.
+	19: Active database architectures and the design of sentinel for constraint management(Final Report, Mar. 1992- Jul. 1993)
+		Google Scholar citation: 0; Published year: 1993; Published venue: Null.
+	20: Active database management systems: requirements, state-of-the-art, and an evaluation
+		Google Scholar citation: 15; Published year: 1990; Published venue: ER Conference.
+	21: Alternative Version Concurrency Control (AVCC) for rm real-time database system
+		Google Scholar citation: 5; Published year: 1995; Published venue: Null.
+	22: An Event Based Architecture to Support Cooperative Distributed Business Processes
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	23: An event specification language (snoop) for active databases and its detection
+		Google Scholar citation: 69; Published year: 1991; Published venue: University of Florida CIS Tech. Rep.-91-23.
+	24: An extensible approach to realizing advanced transaction models
+		Google Scholar citation: 8; Published year: 1997; Published venue: Advanced Transaction Models and Architectures, 259-276.
+	25: An interpretation and implementation of temporal databases with two-dimensional time
+		Google Scholar citation: 12; Published year: 1993; Published venue: UF-CIS Technical Report 93-030.
+	26: An open architecture for optimizing active and deductive rules
+		Google Scholar citation: 2; Published year: 1993; Published venue: Technical Report TR93-039, University of Florida.
+	27: Analysis and validation of continuous queries over data streams
+		Google Scholar citation: 10; Published year: 2003; Published venue: TR CSE-2003–7, CSE Dept., Univ. of Texas at Arlington.
+	28: Anatomy of a composite event detector
+		Google Scholar citation: 70; Published year: 1993; Published venue: Technical Report UF-CIS-TR-93-039.
+	29: Antoniou, G., see Papadakis, N. 397–434 Bhowmick, SS, see Chen, L. 320–347 Bhowmick, SS, see Leonardi, E. 476–507
+		Google Scholar citation: 0; Published year: 2006; Published venue: Data & Knowledge Engineering 59, 789-790.
+	30: Applications of Database Systems and Information Systems II-Event Specification and Processing for Advanced Applications: Generalization and Formalization
+		Google Scholar citation: 0; Published year: 2007; Published venue: Lecture Notes in Computer Science 4653, 369-379.
+	31: Automating change detection and notification of Web pages
+		Google Scholar citation: 19; Published year: 2006; Published venue: 17th International Workshop on Database and Expert Systems Applications ….
+	32: Big Data Analytics
+		Google Scholar citation: 0; Published year: 2015; Published venue: Null.
+	33: Big Data Analytics and Knowledge Discovery: 19th International Conference, DaWaK 2017, Lyon, France, August 28–31, 2017, Proceedings
+		Google Scholar citation: 0; Published year: 2017; Published venue: Springer.
+	34: Big Data Analytics: 5th International Conference, BDA 2017, Hyderabad, India, December 12-15, 2017, Proceedings
+		Google Scholar citation: 0; Published year: 2017; Published venue: Springer.
+	35: Capacitor based digital to analog converter layout design for high speed analog to digital converter
+		Google Scholar citation: 0; Published year: 2012; Published venue: US Patent 8,149,152.
+	36: Classification of cytochrome P450s in common bean (Phaseolus vulgaris L.)
+		Google Scholar citation: 9; Published year: 2015; Published venue: Plant systematics and evolution 301 (1), 211-216.
+	37: Community Detection in Multiplex Networks
+		Google Scholar citation: 1; Published year: 2019; Published venue: arXiv preprint arXiv:1910.07646.
+	38: Composite Event Specification and Detection for Supporting Active Capability in an OODBMS: Semantics Architecture and Implementation.
+		Google Scholar citation: 0; Published year: 1995; Published venue: FLORIDA UNIV GAINESVILLE COLL OF ENGINEERING.
+	39: Computer and Information Science and Engineering
+		Google Scholar citation: 0; Published year: 1995; Published venue: Null.
+	40: Computer and Information Sciences
+		Google Scholar citation: 0; Published year: 1993; Published venue: Null.
+	41: Conference Organisers
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	42: Connectivity-tolerant query optimization over distributed mobile repositories
+		Google Scholar citation: 0; Published year: 2012; Published venue: Proceedings of the 18th International Conference on Management of Data, 21-31.
+	43: Context Based Subscriptions Among Component ISs Using ECA Rules
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	44: Coordination among agents using reactive rules
+		Google Scholar citation: 8; Published year: 1996; Published venue: Technical Report HS-IDA-TR-96-011, Department of Computer Science ….
+	45: Curriculum Vitae Of Sharma Chakravarthy
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	46: DESIGN AND IMPLEMENTATION OF SCHEDULING STRATEGIES AND THEIR EVALUAION IN MAVSTREAM
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	47: DSMS CHALLENGES
+		Google Scholar citation: 0; Published year: 2009; Published venue: Stream Data Processing: A Quality of Service Perspective, 23-31.
+	48: Database Research at UT Arlington (ITLab@ CSE. UTA)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	49: Database Systems Research and Development Center Computer and Information Science and Engineering Department University of Florida, Gainesville FL 32611
+		Google Scholar citation: 0; Published year: 1995; Published venue: Null.
+	50: Database and Expert Systems Applications: 30th International Conference, DEXA 2019, Linz, Austria, August 26–29, 2019, Proceedings
+		Google Scholar citation: 0; Published year: 2019; Published venue: Springer.
+	51: Design and implementation of a dynamic programming environment for active rules
+		Google Scholar citation: 2; Published year: 2003; Published venue: Null.
+	52: Design and implementation of active capability for an object-oriented database
+		Google Scholar citation: 4; Published year: 1993; Published venue: UF-CIS Technical Report TR-93 1.
+	53: Design and implementation of active capability for an object-oriented database
+		Google Scholar citation: 4; Published year: 1993; Published venue: UF-CIS Technical Report TR-93 1.
+	54: Design and implementation of stream operators, query instantiator and stream buffer manager
+		Google Scholar citation: 10; Published year: 2003; Published venue: Null.
+	55: Design and implementation of windowed operators and scheduler for stream data
+		Google Scholar citation: 9; Published year: 2003; Published venue: Null.
+	56: Dietz, HG, see Kang, MH
+		Google Scholar citation: 0; Published year: 1994; Published venue: Data & Knowledge Engineering 14 (291), 291.
+	57: Distributed Events in Sentinel: Design and Implementation of a Global Event Detector
+		Google Scholar citation: 0; Published year: 1999; Published venue: FLORIDA UNIV GAINESVILLE DEPT OF COMPUTER AND INFORMATION SCIENCES.
+	58: ECA rule integration into an OODBMS: Architecture and implementation
+		Google Scholar citation: 95; Published year: 1995; Published venue: Proceedings of the Eleventh International Conference on Data Engineering ….
+	59: ECA rule processing in distributed and heterogeneous environments
+		Google Scholar citation: 39; Published year: 1999; Published venue: Proceedings of the International Symposium on Distributed Objects and ….
+	60: Enhancing web privacy protection through declarative policies
+		Google Scholar citation: 46; Published year: 2005; Published venue: Sixth IEEE International Workshop on Policies for Distributed Systems and ….
+	61: Estreams: Towards an integrated model for event and stream processing
+		Google Scholar citation: 8; Published year: 2004; Published venue: Technical Repor 2004, 3.
+	62: Event operators: Formalization, algorithms, and implementation using interval-based semantics
+		Google Scholar citation: 10; Published year: 2002; Published venue: Arlington: MS Thesis, 4-5.
+	63: Exploiting active database paradigm for supporting flexible transaction models
+		Google Scholar citation: 6; Published year: 1995; Published venue: Technical Report UF-CIS-TR-95-026.
+	64: Extension to Pairwise Similiarity calculation in Information Networks
+		Google Scholar citation: 1; Published year: None; Published venue: Technical Report TR CSE-2010-4, UT arlington. University of Texas, Arlington ….
+	65: Extensions to decision three algorithms for classification and data minig in large and distributed databases
+		Google Scholar citation: 0; Published year: 1997; Published venue: Ingeniería: Revista de la Universidad de Costa Rica 7 (1), 21-35.
+	66: Facilitating Intelligent Sharing of Information for Decision Making over Distributed Heterogeneous Network-Centric Environments
+		Google Scholar citation: 0; Published year: 2004; Published venue: TEXAS UNIV AT ARLINGTON.
+	67: Fill-In-The-Functions: Towards Establishing A Workload For Ranking in Web Databases
+		Google Scholar citation: 1; Published year: 2010; Published venue: Null.
+	68: Foreword: Special Issue on Active Database Systems
+		Google Scholar citation: 4; Published year: 1996; Published venue: J. Intell. Inf. Syst. 7 (2), 109-110.
+	69: Fourth International Workshop on Research Issues in Data Engineering: Active Database Systems: Proceedings, February 14-15, 1994, Houston, Texas
+		Google Scholar citation: 0; Published year: 1994; Published venue: IEEE Computer Society Press.
+	70: Fundamentals of Active Database Systems
+		Google Scholar citation: 0; Published year: 2005; Published venue: Morgan Kaufmann Publishers Inc..
+	71: Generalized Active Agent System for Extending the Active Capabilities of Relationship Database System (RDBMS)
+		Google Scholar citation: 0; Published year: 2002; Published venue: TEXAS UNIV AT ARLINGTON DEPT OF COMPUTER SCIENCE ENGINEERING.
+	72: Guest Editors' Introduction to Special Section On Temporal and Real-Time Databases
+		Google Scholar citation: 3; Published year: 1995; Published venue: IEEE Annals of the History of Computing, 511-512.
+	73: Guest editorial: Web Data and Schema Management
+		Google Scholar citation: 0; Published year: 2007; Published venue: Data & Knowledge Engineering 60 (2), 257-259.
+	74: HITS vs. Non-negative Matrix Factorization
+		Google Scholar citation: 1; Published year: 2014; Published venue: Null.
+	75: HSU CN.. 521
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	76: Heterogeneous Databases: Inferring Relationships for Merging Component Schemas, and Query Language
+		Google Scholar citation: 11; Published year: 1992; Published venue: Technical Report UF-CIS-TR-92-048, Department of Computer and Information ….
+	77: HiPAC: A Research Project in Active
+		Google Scholar citation: 7; Published year: 1989; Published venue: Time-Constrained Database Management (Final Report).
+	78: HiPAC: A research project in active, time-constrained database management
+		Google Scholar citation: 272; Published year: 1989; Published venue: Technical Report XAIT-89-02, Xerox Advanced Information Technology, 4 ….
+	79: How to leverage access control specification for autonomic policy management
+		Google Scholar citation: 2; Published year: 2005; Published venue: Second International Conference on Autonomic Computing (ICAC'05), 358-359.
+	80: IMPROVEMENTS TO CHANGE-DETECTION AND FETCHING TO HANDLE MULTIPLE URLs IN WEBVIGIL
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	81: Implementing set-oriented production rules as an extension to Starburst
+		Google Scholar citation: 1; Published year: None; Published venue: Proc. of the 1993 ACM-SIGMOD, 99-108.
+	82: Incorporating load factor into the scheduling of soft real-time transactions
+		Google Scholar citation: 13; Published year: 1994; Published venue: Technical Report TR94-024, University of Florida, Department of Computer and ….
+	83: InfoSift: Adapting Graph Mining Techniques for Document Classification
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	84: InfoStat: Real-Time Data Acquisition for Information-Intensive Critical Care Environments
+		Google Scholar citation: 2; Published year: 1999; Published venue: Pediatric Research 45 (7), 39-39.
+	85: Infofilter: Complex pattern specification and detection over text streams
+		Google Scholar citation: 20; Published year: 2004; Published venue: University of Texas at Arlington.
+	86: Information Integration across Heterogeneous Domains: Current Scenario, Challenges and the InfoMosaic Approach
+		Google Scholar citation: 8; Published year: 2007; Published venue: University of Texas at Arlington, Tech. Rep.
+	87: Interview with Jim Gray
+		Google Scholar citation: 6; Published year: 2003; Published venue: SIGMOD Record 32 (1), 53-61.
+	88: Invited Lectures
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	89: Invited Talk-I Enabling Technologies for Harnessing Information Explosion
+		Google Scholar citation: 0; Published year: 2004; Published venue: LECTURE NOTES IN COMPUTER SCIENCE 1 (3347), 21-21.
+	90: Load shedding in a data stream management system
+		Google Scholar citation: 7; Published year: 2003; Published venue: TR CSE-2003–11, CSE Dept., Univ. of Texas at Arlington.
+	91: Load shedding in data stream management systems
+		Google Scholar citation: 2; Published year: 2009; Published venue: Stream Data Processing: A Quality of Service Perspective, 137-166.
+	92: Logic-Based Approach for Realizing a Federated Information System WK Whang1.* SJBJ1avathel. S. Chakravarthy1-2 Database Systems Research and Development Center, University of …
+		Google Scholar citation: 0; Published year: None; Published venue: Interoperability in Multidatabase Systems, 92.
+	93: NFM/sup i: an inner-domain network fault management system
+		Google Scholar citation: 23; Published year: 2005; Published venue: 21st International Conference on Data Engineering (ICDE'05), 1036-1047.
+	94: NFMi: an inter-domain network fault management system
+		Google Scholar citation: 2; Published year: 2009; Published venue: Stream Data Processing: A Quality of Service Perspective, 167-186.
+	95: Naoki Abe, IBM TJ Watson Research Center Gagan Agarwal, Ohio State University Rajendra Akerkar, Technomathematics Research Foundation Aijun An, York University
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	96: OVERVIEW OF DATA STREAM PROCESSING
+		Google Scholar citation: 0; Published year: 2009; Published venue: Stream Data Processing: A Quality of Service Perspective, 9-21.
+	97: Optimizing channel strain and dislocations in pmos transistors with local epitaxial SiGe
+		Google Scholar citation: 2; Published year: 2005; Published venue: Proceedings-Electrochemical Society, 437-445.
+	98: Other Committee Members
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	99: PERSISTENCE, NOTIFICATION AND PRESENTATION OF CHANGES IN WEBVIGIL
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	100: Pairwise similarity calculation of information networks
+		Google Scholar citation: 2; Published year: 2011; Published venue: International Conference on Data Warehousing and Knowledge Discovery, 316-329.
+	101: Performance of Grace Hash Join Algorithm on the KSR-1 Multiprocessor: Evaluation and Analysis
+		Google Scholar citation: 0; Published year: 1995; Published venue: Null.
+	102: Phase One Progress Report
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	103: Predicting answer quality in q/a social networks: Using temporal features
+		Google Scholar citation: 4; Published year: 2011; Published venue: Arlington: Department of Computer Science and Engineering, University of ….
+	104: Profile-based, location-aware information retrieval for mobile clients
+		Google Scholar citation: 0; Published year: 2008; Published venue: IET Digital Library.
+	105: Program Vice-Chairs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	106: Programme Committee Members
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	107: Push technology personalization through event correlation
+		Google Scholar citation: 27; Published year: 2000; Published venue: Vldb, 643-645.
+	108: QoS Prediction for Continuous Queries over Data Streams
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	109: Query Processing in Connectivity-Challenged Environments
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	110: Queueing analysis of spj queries over continuous data streams
+		Google Scholar citation: 3; Published year: None; Published venue: Null.
+	111: Realizing transaction models: an extensible approach using ECA rules
+		Google Scholar citation: 5; Published year: 1995; Published venue: University of Florida, Gainesville.
+	112: Reconciliation of Consumption Modes and Windows for Seamless Event/Stream Processing (Position Paper)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	113: Relational approach to modeling and implementing subtle aspects of graph mining
+		Google Scholar citation: 5; Published year: 2003; Published venue: Null.
+	114: S&N’TZN&L: An Object-Oriented DBMS With Event-Based Rules
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	115: SCW 2006 EDA-PS 2006 Workshop Organization
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	116: SIEVE: An Interactive Visualization and Explanation Tool for An Active OODBMS(Final Report, Jun. 1994- Dec. 1995)
+		Google Scholar citation: 0; Published year: 1996; Published venue: Null.
+	117: SIEVE: An Interactive Visualization and Explanation Tool for An Active OODBMS.
+		Google Scholar citation: 0; Published year: 1996; Published venue: FLORIDA UNIV GAINESVILLE DEPT OF COMPUTER AND INFORMATION SCIENCES.
+	118: SNOOP EVENT SPECIFICATION: FORMALIZATION ALGORITHMS, AND IMPLEMENTATION USING INTERVAL-BASED SEMANTICS
+		Google Scholar citation: 0; Published year: 2002; Published venue: Null.
+	119: Scalable Holistic Analysis of Multi-Source, Data-Intensive Problems Using Multilayered Networks
+		Google Scholar citation: 1; Published year: 2016; Published venue: arXiv preprint arXiv:1611.01546.
+	120: Scheduling strategies for a data stream management system
+		Google Scholar citation: 13; Published year: 2004; Published venue: Computer Science & Engineering, BNCOD, 16-30.
+	121: Selected Papers from CoopIS-97 Guest Editors' Introduction
+		Google Scholar citation: 0; Published year: 1997; Published venue: International Journal of Cooperative Information Systems 6 (03n04), 217-218.
+	122: Seminar-Report 9412 on Active Database System
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	123: Seung'kyum Kim
+		Google Scholar citation: 1; Published year: 1994; Published venue: Resolution of time concepts in temporal database. Infomation Science 80, 91-125.
+	124: Seventh IEEE International Workshop on Policies for Distributed Systems and Networks
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	125: Shamkant B. Navathe
+		Google Scholar citation: 4; Published year: 2000; Published venue: Fundamentals of Database Sys—tem Third Edition.
+	126: Significant interval and episode discovery in time-series data
+		Google Scholar citation: 6; Published year: 2003; Published venue: Null.
+	127: Situtaion Monitoring in Java: A Seamless And Dynamic Approach
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	128: SmartAccess: An Intelligent Proactive Role-Based Authorization System
+		Google Scholar citation: 0; Published year: 2005; Published venue: Null.
+	129: SmartGate: a smart push-pull approach to support role-based security in web gateways
+		Google Scholar citation: 2; Published year: 2005; Published venue: Proceedings of the 2005 ACM symposium on Applied computing, 1727-1731.
+	130: Special issue on active databases
+		Google Scholar citation: 52; Published year: 1992; Published venue: IEEE Data Engineering Bullet in 15 (4).
+	131: Stefan Dresler, Germany Ghada El-Keissi, IBM, Egypt Gary Ellison, Intertrust, USA Will Enck, Pennsylvania State University, USA Jeremy Epstein, webMethods, Inc., USA
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	132: Stream Data Processing [electronic Resource]: A Quality of Service Perspective
+		Google Scholar citation: 0; Published year: None; Published venue: Springer..
+	133: Stream Data Processing: Issues and Solutions
+		Google Scholar citation: 6; Published year: 2007; Published venue: Springer.
+	134: Stream Processing: Going Beyond Database Management Systems
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	135: Support for Temporal Events in Sentinel: Design, Implementation, and Preprocessing
+		Google Scholar citation: 1; Published year: 1998; Published venue: FLORIDA UNIV GAINESVILLE DEPT OF COMPUTER AND INFORMATION SCIENCES.
+	136: Support for composite events and rules in distributed heterogeneous environments
+		Google Scholar citation: 4; Published year: 1998; Published venue: University of Florida.
+	137: System and method for improving dynamic performance of a circuit
+		Google Scholar citation: 3; Published year: 2009; Published venue: US Patent 7,538,701.
+	138: The 7th ACM International Conference on Distributed Event-Based Systems
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	139: The Hipac project: Combining active databases and timing constraints
+		Google Scholar citation: 690; Published year: 1988; Published venue: ACM Sigmod Record 17 (1), 51-70.
+	140: The editors-in-chief and the editorial board would like to acknowledge the following people for their expert and continuing assistance in evaluating manuscript submissions to …
+		Google Scholar citation: 0; Published year: 2004; Published venue: Information Systems 29, 637-639.
+	141: Towards an expressive event specification language for active databases
+		Google Scholar citation: 18; Published year: 1994; Published venue: Proc. of the 5th International Hong Kong Computer Society Database Workshop ….
+	142: Towards an integrated model for event and stream processing
+		Google Scholar citation: 18; Published year: 2004; Published venue: CSE Dept., The University of Texas at Arlington, Tech. Rep. CSE-2004-10.
+	143: Transformation of Pervasive Raw Data Into Actionable Knowledge
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	144: Tutorial on Heterogeneous Database Systems
+		Google Scholar citation: 0; Published year: 1992; Published venue: University of Florida/Högskolan i Skövde.
+	145: WEBVIGIL: ADAPTIVE FETCHING AND USER-PROFILE BASED CHANGE DETECTION OF HTML PAGES
+		Google Scholar citation: 0; Published year: 2003; Published venue: Null.
+	146: WEBVIGIL: SENTINEL SPECIFICATION AND USER-INTENT BASED CHANGE DETECTION FOR EXTENSIBLE MARKUP LANGUAGE (XML)
+		Google Scholar citation: 0; Published year: 2003; Published venue: Null.
+	147: Webvigil: Architecture and functionality of a web monitoring system
+		Google Scholar citation: 7; Published year: 2003; Published venue: CSE Department, University of Texas, Arlington, TX 76019.
+	148: Workshop Chair
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	149: Workshops’ Organizations
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	150: XNEOr: development and evaluation of an expert system to improve the quality and cost of decision-making in neuro-oncology.
+		Google Scholar citation: 3; Published year: 1994; Published venue: Proceedings of the Annual Symposium on Computer Application in Medical Care, 678.
+	151: eMailSift: Adapting graph mining techniques for email classification
+		Google Scholar citation: 11; Published year: 2004; Published venue: Tech. Rep. No. CSE-2004-7.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Active authorization rules for enforcing role-based access control and its extensions
+google scholar citation: 15, microsoft academic citation: 13
+------------------------------------------------------------
+Active Database Architectures and the Design of Sentinel for Constraint Management
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Active Database Modeling and Design Tools: Issues, Approache, and Architecture
+google scholar citation: 32, microsoft academic citation: 15
+------------------------------------------------------------
+Adapting stream processing framework for video analysis
+google scholar citation: 13, microsoft academic citation: 11
+------------------------------------------------------------
+A graph-based approach for multi-folder email classification
+google scholar citation: 25, microsoft academic citation: 12
+------------------------------------------------------------
+A heuristic for refresh policy selection in heterogeneous environments
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+A holistic approach to the evaluation of data warehouse maintenance policies
+google scholar citation: 15, microsoft academic citation: 11
+------------------------------------------------------------
+A learning-based approach for fetching pages in webvigil
+google scholar citation: 19, microsoft academic citation: 7
+------------------------------------------------------------
+A logic-based approach to query processing in federated databases
+google scholar citation: 18, microsoft academic citation: 10
+------------------------------------------------------------
+An agent-based approach to extending the native active capability of relational database systems
+google scholar citation: 27, microsoft academic citation: 15
+------------------------------------------------------------
+Analyzing policy dependencies using historical information
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Anatomy of a Data Stream Management System.
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+A new perspective on rule support for object-oriented databases
+google scholar citation: 165, microsoft academic citation: 168
+------------------------------------------------------------
+An extensible approach to realizing extended transaction models
+google scholar citation: 3, microsoft academic citation: 4
+------------------------------------------------------------
+An objective function for vertically partitioning relations in distributed databases and its analysis
+google scholar citation: 107, microsoft academic citation: 113
+------------------------------------------------------------
+Answer Quality Prediction in Q/A Social Networks by Leveraging Temporal Features.
+google scholar citation: 11, microsoft academic citation: 13
+------------------------------------------------------------
+A publish/subscribe based architecture of an alert server to support prioritized and persistent alerts
+google scholar citation: 33, microsoft academic citation: 0
+------------------------------------------------------------
+Architecture and Implementation of an Interactive Tool for the Design and Visualization of Active Capability
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Architectures and monitoring techniques for active databases: An evaluation
+google scholar citation: 56, microsoft academic citation: 58
+------------------------------------------------------------
+Architectures and optimizations for integrating data mining algorithms with database systems.
+google scholar citation: 23, microsoft academic citation: 16
+------------------------------------------------------------
+A single pass algorithm for discovering significant intervals in time-series data
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+A special issue in extending data warehouses to big data analytics
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Asynchronous monitoring of events for distributed cooperative environments
+google scholar citation: 13, microsoft academic citation: 9
+------------------------------------------------------------
+A systematic approach to selecting maintenance policies in a data warehouse environment
+google scholar citation: 12, microsoft academic citation: 9
+------------------------------------------------------------
+A user-centric view of data warehouse maintenance issues
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+A visualization and explanation tool for debugging ECA rules in active databases
+google scholar citation: 41, microsoft academic citation: 21
+------------------------------------------------------------
+Challenges and approaches for large graph analysis using map/reduce paradigm
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Challenges for ECA Rule Designers when Implementing Coordination Protocols
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Closed form solution of similarity algorithms
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+Clustering data streams using grid-based synopsis
+google scholar citation: 51, microsoft academic citation: 33
+------------------------------------------------------------
+Comparison and benchmarks for import of VPF geographic data from object-oriented and relational database files
+google scholar citation: 15, microsoft academic citation: 4
+------------------------------------------------------------
+Composite events for active databases: Semantics, contexts and detection
+google scholar citation: 764, microsoft academic citation: 775
+------------------------------------------------------------
+Concurrent rule execution in active databases
+google scholar citation: 10, microsoft academic citation: 8
+------------------------------------------------------------
+Cooperative Problem Solving: A New Direction for Active Databases.
+google scholar citation: 6, microsoft academic citation: 11
+------------------------------------------------------------
+Cx-diff: A change detection algorithm for xml content and change presentation issues for webvigil
+google scholar citation: 15, microsoft academic citation: 2
+------------------------------------------------------------
+CX-DIFF: a change detection algorithm for XML content and change visualization for WebVigiL
+google scholar citation: 33, microsoft academic citation: 28
+------------------------------------------------------------
+Database supported cooperative problem solving
+google scholar citation: 53, microsoft academic citation: 57
+------------------------------------------------------------
+Data Integration in Heterogeneous Environments: Multi-Source Policies, Cost Model and Implementation
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Data stream management system for MavHome
+google scholar citation: 29, microsoft academic citation: 19
+------------------------------------------------------------
+Db-fsg: An sql-based approach for frequent subgraph mining
+google scholar citation: 28, microsoft academic citation: 18
+------------------------------------------------------------
+DB-Subdue: Database approach to graph mining
+google scholar citation: 25, microsoft academic citation: 19
+------------------------------------------------------------
+Design of sentinel: An object-oriented dmbs with event-based rules
+google scholar citation: 139, microsoft academic citation: 141
+------------------------------------------------------------
+Discovery of interesting episodes in sequence data
+google scholar citation: 15, microsoft academic citation: 7
+------------------------------------------------------------
+Divide and conquer: A basis for augmenting a conventional query optimizer with multiple query-processing capabilities
+google scholar citation: 33, microsoft academic citation: 22
+------------------------------------------------------------
+Duplicate reduction in graph mining: Approaches, analysis, and evaluation
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Dynamic programming environment for active rules
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Early active database efforts: a capsule summary
+google scholar citation: 31, microsoft academic citation: 11
+------------------------------------------------------------
+ECA rule integration into an OODBMS: Architecture and implementation
+google scholar citation: 95, microsoft academic citation: 97
+------------------------------------------------------------
+ECA rule support for distributed heterogeneous environments
+google scholar citation: 27, microsoft academic citation: 17
+------------------------------------------------------------
+Efficient community re-creation in multilayer networks using boolean operations
+google scholar citation: 13, microsoft academic citation: 6
+------------------------------------------------------------
+Efficient simulation architecture for routing and replication in mobile peer to peer network of UAVs
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+emailsift: Email classification based on structure and content
+google scholar citation: 45, microsoft academic citation: 60
+------------------------------------------------------------
+eMailSift: mining-based approaches to email classification
+google scholar citation: 19, microsoft academic citation: 10
+------------------------------------------------------------
+Enabling technologies for harnessing information explosion
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Enhanced DB-subdue: Supporting subtle aspects of graph mining using a relational approach
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+Event-based compression and mining of data streams
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Event-based lossy compression for effective and efficient OLAP over data streams
+google scholar citation: 46, microsoft academic citation: 61
+------------------------------------------------------------
+Events and Rules for JAVA: Design and Implementation of a Seamless Approach
+google scholar citation: 0, microsoft academic citation: 7
+------------------------------------------------------------
+Events and streams: harnessing and unleashing their synergy!
+google scholar citation: 38, microsoft academic citation: 19
+------------------------------------------------------------
+Events must be complete in event processing!
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Event specification and processing for advanced applications: Generalization and formalization
+google scholar citation: 16, microsoft academic citation: 12
+------------------------------------------------------------
+Event/Stream Processing for Advanced Applications
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Expertise ranking of users in QA community
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Expressive profile specification and its semantics for a web monitoring system
+google scholar citation: 5, microsoft academic citation: 0
+------------------------------------------------------------
+Extending Active Capability Mechanisms for Context Based Subscriptions
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Extending database support for coordination among agents
+google scholar citation: 18, microsoft academic citation: 12
+------------------------------------------------------------
+Formalization and Detection of Events over a Sliding Window in Active Databases Using Interval-Based Semantics.
+google scholar citation: 18, microsoft academic citation: 15
+------------------------------------------------------------
+Formalization and Detection of Events Using Interval-Based Semantics.
+google scholar citation: 37, microsoft academic citation: 26
+------------------------------------------------------------
+Fragmentation techniques for distributing object-oriented databases
+google scholar citation: 25, microsoft academic citation: 0
+------------------------------------------------------------
+Generalization of Events and Rules to Support Advanced Applications
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Generic multilayer network data analysis with the fusion of content and structure
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Hdb-subdue: A scalable approach to graph mining
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+How To Search for Complex Patterns Over Streaming and Stored Data.
+google scholar citation: 1, microsoft academic citation: 2
+------------------------------------------------------------
+Hubify: Efficient estimation of central entities across multiplex layer compositions
+google scholar citation: 7, microsoft academic citation: 6
+------------------------------------------------------------
+Implementation and comparative evaluation of maintenance policies in a data warehouse environment
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+Implementation of a Rule-Based Framework for Managing Updates in an Object-Oriented VPF Database
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Incorporating load factor into the scheduling of soft real-time transactions for main memory databases
+google scholar citation: 9, microsoft academic citation: 1
+------------------------------------------------------------
+Incremental mining of constrained associations
+google scholar citation: 39, microsoft academic citation: 16
+------------------------------------------------------------
+InfoFilter: a system for expressive pattern specification and detection over text streams
+google scholar citation: 17, microsoft academic citation: 13
+------------------------------------------------------------
+Information integration across heterogeneous sources: Where do we stand and how to proceed?
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+InfoSift: Adapting Graph Mining Techniques for Text Classification.
+google scholar citation: 17, microsoft academic citation: 11
+------------------------------------------------------------
+InfoSift: A Novel, Mining-Based Framework for Document Classification.
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Integrating stream and complex event processing
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Just-in-time information: To push or not to push
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Load shedding in mavstream: Analysis, implementation, and evaluation
+google scholar citation: 15, microsoft academic citation: 7
+------------------------------------------------------------
+Locking Based Concurrency Control for Integrated Real-Time Database Systems.
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+Logic-based approach for realizing a federated information system
+google scholar citation: 19, microsoft academic citation: 13
+------------------------------------------------------------
+Low-order tensor decompositions for social tagging recommendation
+google scholar citation: 39, microsoft academic citation: 30
+------------------------------------------------------------
+Maintenance policy selection in heterogeneous data warehouse environments: a heuristics-based approach
+google scholar citation: 9, microsoft academic citation: 2
+------------------------------------------------------------
+Making an object-oriented DBMS active: design, implementation, and evaluation of a prototype
+google scholar citation: 56, microsoft academic citation: 53
+------------------------------------------------------------
+MavEStream: Synergistic integration of stream and event processing
+google scholar citation: 26, microsoft academic citation: 16
+------------------------------------------------------------
+Meeting the cooperative problem solving challenge: A database-centered approach
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Middleware for supporting content sharing in dynamic networks
+google scholar citation: 1, microsoft academic citation: 2
+------------------------------------------------------------
+Modeling Relational Data as Graphs for Mining.
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Modeling time: Adequacy of three distinct time concepts for temporal databases
+google scholar citation: 27, microsoft academic citation: 18
+------------------------------------------------------------
+Multi-type relational data clustering for community detection by exploiting content and structure information in social networks
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+One size does not fit all: Toward user-and query-dependent ranking for web databases
+google scholar citation: 36, microsoft academic citation: 26
+------------------------------------------------------------
+Panel: Current State and Future of Event-Based Systems
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Partition and conquer: Map/reduce way of substructure discovery
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+Partitioned approach to association rule mining over multiple databases
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+Performance evaluation and optimization of join queries for association rule mining
+google scholar citation: 33, microsoft academic citation: 26
+------------------------------------------------------------
+Performance evaluation of SQL-OR variants for association rule mining
+google scholar citation: 9, microsoft academic citation: 0
+------------------------------------------------------------
+Personalized ranking in web databases: establishing and utilizing an appropriate workload
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Plan before you execute: A cost-based query optimizer for attributed graph databases
+google scholar citation: 12, microsoft academic citation: 6
+------------------------------------------------------------
+Policy schedule advisor for performance management
+google scholar citation: 20, microsoft academic citation: 14
+------------------------------------------------------------
+Pre-processing of video streams for extracting queryable representation of its contents
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Proceedings of the 26th International Conference on Very Large Data Bases
+google scholar citation: 8, microsoft academic citation: 0
+------------------------------------------------------------
+Provenance and Impact of Complex Event Processing (CEP): A Retrospective ViewUrsprung und Bedeutung von Complex Event Processing (CEP): eine retrospektive Sicht
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Query-by-keywords (qbk): Query formulation using semantics and feedback
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Querying for information integration: How to go from an imprecise intent to a precise query?
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Query processing on large graphs: Approaches to scalability and response time trade offs
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Query processing on large graphs: scalability through partitioning
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Queueing analysis of relational operators for continuous data streams
+google scholar citation: 35, microsoft academic citation: 21
+------------------------------------------------------------
+Ranking issues for information integration
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Real-time transaction scheduling: a cost conscious approach
+google scholar citation: 85, microsoft academic citation: 88
+------------------------------------------------------------
+Real-time transaction scheduling: A framework for synthesizing static and dynamic factors
+google scholar citation: 30, microsoft academic citation: 17
+------------------------------------------------------------
+Relational schema integration: dealing with inter-relation correspondences and querying over component relations.
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+Resolution of time concepts in temporal databases
+google scholar citation: 34, microsoft academic citation: 18
+------------------------------------------------------------
+Result sharing among agents using reactive rules
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+ROMAN: routing and opportunistic management of airborne networks
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+Rule management and evaluation: An active DBMS perspective
+google scholar citation: 120, microsoft academic citation: 123
+------------------------------------------------------------
+Runtime Optimization of Continuous Queries.
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Scheduling strategies and their evaluation in a data stream management system
+google scholar citation: 16, microsoft academic citation: 11
+------------------------------------------------------------
+Scheduling strategies for processing continuous queries over streams
+google scholar citation: 83, microsoft academic citation: 0
+------------------------------------------------------------
+Seamless event and data stream processing: Reconciling windows and consumption modes
+google scholar citation: 9, microsoft academic citation: 8
+------------------------------------------------------------
+Sentinel: an object-oriented DBMS with event-based rules
+google scholar citation: 60, microsoft academic citation: 63
+------------------------------------------------------------
+Snoop: An expressive event specification language for active databases
+google scholar citation: 743, microsoft academic citation: 757
+------------------------------------------------------------
+Snoopib: Interval-based event specification and detection for active databases
+google scholar citation: 59, microsoft academic citation: 218
+------------------------------------------------------------
+SQL-based approach to distributed and incremental association rule mining 1
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Stream clustering algorithms: A primer
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Structure-preserving community in a multilayer network: definition, detection, and analysis
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Task sharing among agents using reactive rules
+google scholar citation: 12, microsoft academic citation: 16
+------------------------------------------------------------
+Temporal databases with two-dimensional time: modeling and implementation of multihistory
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+The anatomy of a stream processing system
+google scholar citation: 15, microsoft academic citation: 9
+------------------------------------------------------------
+The hipac project
+google scholar citation: 76, microsoft academic citation: 78
+------------------------------------------------------------
+Ubiquitous nature of event-driven approaches: a retrospective view
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+Use of mesh connected processors for realizing fault tolerant relational database operations
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Visualization of association rules over relational DBMSs
+google scholar citation: 35, microsoft academic citation: 19
+------------------------------------------------------------
+Webvigil: An approach to just-in-time information propagation in large network-centric environments
+google scholar citation: 26, microsoft academic citation: 11
+------------------------------------------------------------
+WEBVIGIL: monitoring multiple web pages and presentation of XML pages
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+WebVigiL: user profile-based change detection for HTML/XML documents
+google scholar citation: 26, microsoft academic citation: 12
+------------------------------------------------------------
+When to Trigger Active Rules?
+google scholar citation: 7, microsoft academic citation: 2
+------------------------------------------------------------

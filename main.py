@@ -4,12 +4,44 @@ from microsoft_academic import get_MS_academic
 from checker import gen_title, gen_origin, gen_diff_origin, check_duplicate
 from collections import Counter
 
+all_professor_list = [('PMjtni8AAAAJ', 'Yingying Zhu'), 
+                      ('cFgudIYAAAAJ', 'Dajiang Zhu'), 
+                      ('1kgs_DoAAAAJ', 'BOB WEEMS'), 
+                      ('9CJbh1MAAAAJ', 'Cesar Torres'),
+                      ('omg10AMAAAAJ', 'Allison Sullivan'),
+                      ('cLssJjcAAAAJ', 'Jia Rao'),
+                      ('cK1bhQUAAAAJ', 'Deokgun Park'),
+                      ('8sqvlk8AAAAJ', 'Habeeb Olufowobi'),
+                      ('UaSo4BoAAAAJ', 'Shirin Nilizadeh'),
+                      ('i4VFYKAAAAAJ', 'Jiang Ming'),
+                      ('pVqH3WcAAAAJ', 'Ming Li'),
+                      ('v8ZQDf8AAAAJ', 'Chengkai Li'),
+                      ('UEHiYcoAAAAJ', 'Yu Lei'),
+                      ('aWPSHNwAAAAJ', 'Won Hwa Kim'),
+                      ('E23Ps_EAAAAJ', 'Farhad Kamangar'),
+                      ('vhpbMX8AAAAJ', 'Song Jiang'),
+                      ('wo-oMF0AAAAJ', 'Hong Jiang'),
+                      ('X7KrguAAAAAJ', 'Junzhou Huang'),
+                      ('ElzoPeEAAAAJ', 'Vamsikrishna Gopikrishna'),
+                      ('sbULJdIAAAAJ', 'Shawn N. Gieser'),
+                      ('YIp7jIsAAAAJ', 'Negin Fraidouni'),
+                      ('E9dI9A0AAAAJ', 'Leonidas Fegaras'),
+                      ('lPtRH2wAAAAJ', 'Ramez Elmasri'),
+                      ('OHWnRnsAAAAJ', 'Chance Eary'),
+                      ('UlLhCtkAAAAJ', 'Alex Dillhoff'),
+                      ('oleB9xIAAAAJ', 'Gautam Das'),
+                      ('A9t6MNAAAAAJ', 'Christoph Csallner'),
+                      ('N4oy61IAAAAJ', 'Sharma Chakravarthy'),
+                      ('lU2Z7MMAAAAJ', 'William J. Beksi'),
+                      ('RRmQyu8AAAAJ', 'Vassilis Athitsos'),
+                      ('Y26XykAAAAAJ', 'Ishfaq Ahmad')
+                      ]
+
+professor_list = [('E23Ps_EAAAAJ', 'Farhad Kamangar')]
 if __name__ == "__main__":
-    professor_list = [("https://scholar.google.com/citations?user=vhpbMX8AAAAJ", 'Song Jiang')]
     """ Generate Report
     """
     for url, name in professor_list:
-        # print("Report For google scholar:")
         g_citations, g_pub_num, g_pub_origin, g_citation_num = get_google_scholar(url)
         
         # print("-----"*10)

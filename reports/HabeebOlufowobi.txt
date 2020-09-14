@@ -1,0 +1,34 @@
+There are 12 papers in Google Scholar and 10 papers in Microsoft Academic
+Total citations from Google Scholar is 42, Microsoft Academic is 32
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 2 Papers appear in Google Schoolar but not in MS Academic
+	1: Data provenance model for internet of things (iot) systems
+		Google Scholar citation: 9; Published year: 2016; Published venue: International Conference on Service-Oriented Computing, 85-91.
+	2: Fail-Operational Intrusion Detection Systems (FO-IDS): A Mechanism for Securing Automotive In-Vehicle Networks
+		Google Scholar citation: 0; Published year: 2019; Published venue: PQDT-Global.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Anomaly detection approach using adaptive cumulative sum algorithm for controller area network
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Automotive intrusion detection based on constant CAN message frequencies across vehicle driving modes
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Connected cars: Automotive cybersecurity and privacy for smart cities
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Controller Area Network Intrusion Prevention System Leveraging Fault Recovery
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Data provenance model for internet of things (iot) systems
+google scholar citation: 9, microsoft academic citation: 10
+------------------------------------------------------------
+Survey of automotive controller area network intrusion detection systems
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Work-in-progress: Real-time modeling for intrusion detection in automotive controller area network
+google scholar citation: 3, microsoft academic citation: 4
+------------------------------------------------------------

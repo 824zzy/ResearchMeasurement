@@ -24,34 +24,40 @@ g_citations = {
     'original paper title': 'processed paper title', 'citation number', 'publish year', 'venue'
 }
 """
-def get_google_scholar(name):
-    # TODO: blocked by google
-    # # Get user id
-    driver = webdriver.Chrome()
+def get_google_scholar(user_id):
+    """
+    The codes for getting user_id have deprecated because serveral professors' id can not display by "name+UTA"
+    """
+    # driver = webdriver.Chrome()
     # profile_url = 'https://scholar.google.com/scholar?hl=en&as_sdt=0%2C44&q={}+UTA'.format(name)
-    # print(profile_url)
-    # # driver.get(profile_url)
-    # # time.sleep(4)
-    # # profile_html = driver.page_source
-    # profile_html = requests.get(profile_url, headers=headers).text
-    # print(profile_html)
+    # # print(profile_url)
+    # driver.get(profile_url)
+    # time.sleep(4)
+    # profile_html = driver.page_source
     # profile_selector = etree.HTML(profile_html)
     # user_url = profile_selector.xpath('//*[@id="gs_res_ccl_mid"]/div[1]/table/tbody/tr/td[2]/h4/a/@href')[0]
     # user_id = re.findall("\?(.*)\&hl", user_url)[0]
+    # # print(user_id)
     
-    
-    # google_url = 'https://scholar.google.com/citations?hl=en&{}&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000'.format(user_id)
-    
-    # google_url = 'https://scholar.google.com/citations?user=X7KrguAAAAAJ&hl=en&oi=ao&cstart=0&pagesize=200'
-    # driver.get(google_url)
-    driver.get(name)
-    # TODO: maybe 10 is not enough
-    for _ in range(10):
+    driver = webdriver.Chrome()
+    google_url = 'https://scholar.google.com/citations?hl=en&user={}&view_op=list_works&sortby=pubdate&cstart=0&pagesize=1000'.format(user_id)
+    driver.get(google_url)
+    time.sleep(2)
+
+    # By default google scholar only show 200 papers, so have to simulate click `load more`
+    for _ in range(40):
         try:
             driver.find_element_by_xpath('//*[@id="gsc_bpf_more"]/span/span[2]').click()
-            time.sleep(1)
+            time.sleep(3)
         except:
             break
+    
+    # while clickable:
+    # try:
+    #     driver.find_element_by_xpath('//*[@id="gsc_bpf_more"]/span/span[2]').click()
+    #     time.sleep(0.1)
+    # except:
+    #     clickable = False
     
     # google_src = requests.get(google_url, headers=headers).text
     google_src = driver.page_source
@@ -65,11 +71,12 @@ def get_google_scholar(name):
     flag = True
     sum_g_citation = g_selector.xpath('//*[@id="gsc_rsb_st"]/tbody/tr[1]/td[2]/text()')[0]
     curr = ''
-
-    for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]/a/text()')):
+    
+    for i, quote in enumerate(g_selector.xpath('//*[@id="gsc_a_b"]/tr/td[1]')):
         # original paper number
         g_pub_origin += 1
-        # normalize paper title
+        # normalize paper title, remove svg: it will affect later title extraction
+        quote = ' '.join(quote.xpath('a/text()'))
         g_title = quote.lower()
         for c in string.punctuation:
             g_title = g_title.replace(c, '')
@@ -117,9 +124,9 @@ please check:
 """ 
 if __name__ == "__main__":
     # g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("Junzhou Huang")
-    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("https://scholar.google.com/citations?user=vhpbMX8AAAAJ")
+    g_citations, g_pub_num, g_pub_origin, sum_g_citation = get_google_scholar("Y26XykAAAAAJ")
     # Test
     for k, v in g_citations.items():
-        print(v)
+        print(k)
     
     print(g_pub_num, g_pub_origin, sum_g_citation)

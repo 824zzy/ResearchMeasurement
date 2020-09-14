@@ -1,0 +1,8 @@
+There are 4 papers in Google Scholar and 4 papers in Microsoft Academic
+Total citations from Google Scholar is 4, Microsoft Academic is 4
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 0 Papers appear in Google Schoolar but not in MS Academic
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:

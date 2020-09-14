@@ -1,0 +1,49 @@
+There are 18 papers in Google Scholar and 10 papers in Microsoft Academic
+Total citations from Google Scholar is 113, Microsoft Academic is 67
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 8 Papers appear in Google Schoolar but not in MS Academic
+	1: 3D scene generation via unsupervised object synthesis
+		Google Scholar citation: 0; Published year: 2019; Published venue: TACCSTER 2019 Proceedings.
+	2: A web-based approach to chinese word segmentation
+		Google Scholar citation: 0; Published year: 2012; Published venue: 14th International Conference on the Processing of East Asian Languages (ICPEAL).
+	3: Camera-based adaptive trajectory guidance via neural networks
+		Google Scholar citation: 0; Published year: 2020; Published venue: 2020 6th International Conference on Mechatronics and Robotics Engineering ….
+	4: Cloud robotics: experiments and requirements
+		Google Scholar citation: 0; Published year: 2014; Published venue: NSFCloud Workshop on Experimental Support for Cloud Computing.
+	5: Parallel construction of the vietoris-rips complex in 3D
+		Google Scholar citation: 0; Published year: 2018; Published venue: Minnesota Supercomputing Institute Research Exhibition.
+	6: The microvision robot and its capabilities
+		Google Scholar citation: 4; Published year: 2015; Published venue: University of Minnesota.
+	7: Thermal image super-resolution challenge - PBVS 2020
+		Google Scholar citation: 0; Published year: 2020; Published venue: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern ….
+	8: Topological methods for 3D point cloud processing
+		Google Scholar citation: 1; Published year: 2018; Published venue: University of Minnesota.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+3D point cloud segmentation using topological persistence
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+3D region segmentation using topological persistence
+google scholar citation: 8, microsoft academic citation: 2
+------------------------------------------------------------
+CORE: A cloud-based object recognition engine for robotics
+google scholar citation: 22, microsoft academic citation: 15
+------------------------------------------------------------
+Covariance based point cloud descriptors for object detection and recognition
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+Object classification using dictionary learning and RGB-D covariance descriptors
+google scholar citation: 23, microsoft academic citation: 16
+------------------------------------------------------------
+Point cloud culling for robot vision tasks under communication constraints
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+RGB-D object classification using covariance descriptors
+google scholar citation: 14, microsoft academic citation: 12
+------------------------------------------------------------
+Signature of topologically persistent points for 3D point cloud description
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------

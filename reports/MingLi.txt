@@ -1,0 +1,138 @@
+There are 53 papers in Google Scholar and 56 papers in Microsoft Academic
+Total citations from Google Scholar is 972, Microsoft Academic is 871
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 6 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Energy-Efficient Autonomic Offloading in Mobile Edge Computing
+		Microfost Academic citation: 4; Published year: 2017; Published venue: Dependable Autonomic and Secure Computing.
+	2: Mobile Edge Computing Empowered Energy Efficient Task Offloading in 5G
+		Microfost Academic citation: 84; Published year: 2018; Published venue: IEEE Transactions on Vehicular Technology.
+	3: Parallel Secure Outsourcing of Large-scale Nonlinearly Constrained Nonlinear Programming Problems
+		Microfost Academic citation: 5; Published year: 2018; Published venue: IEEE Transactions on Big Data.
+	4: Pricing, Caching Selection, and Content Delivery in Wireless Networks: A Hierarchical Approach
+		Microfost Academic citation: 3; Published year: 2017; Published venue: Global Communications Conference.
+	5: Securing a UAV using individual characteristics from an EEG signal
+		Microfost Academic citation: 5; Published year: 2017; Published venue: Systems, Man and Cybernetics.
+	6: Spectrum Availability Prediction for Cognitive Radio Communications: A DCG Approach
+		Microfost Academic citation: 1; Published year: 2020; Published venue: IEEE Transactions on Cognitive Communications and Networking.
+There are 3 Papers appear in Google Schoolar but not in MS Academic
+	1: A wearable fitness tracking ecosystem for exercise therapy for traumatic brain injury patients
+		Google Scholar citation: 0; Published year: 2020; Published venue: Proceedings of the 13th ACM International Conference on PErvasive ….
+	2: Optimal joint power and transmission time allocation in cognitive radio networks
+		Google Scholar citation: 4; Published year: 2010; Published venue: 2010 IEEE Wireless Communication and Networking Conference, 1-5.
+	3: Session details: HealthWear: The 1st International Workshop on Wearable Systems and Applications for Smart Healthcare
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Asymmetric social proximity based private matching protocols for online social networks
+google scholar citation: 17, microsoft academic citation: 13
+------------------------------------------------------------
+Cascading failure attacks in the power system: A stochastic game perspective
+google scholar citation: 33, microsoft academic citation: 17
+------------------------------------------------------------
+CRIL: An efficient online adaptive indoor localization system
+google scholar citation: 26, microsoft academic citation: 22
+------------------------------------------------------------
+Crowd-empowered privacy-preserving data aggregation for mobile crowdsensing
+google scholar citation: 13, microsoft academic citation: 4
+------------------------------------------------------------
+Crowdsourcing in cyber-physical systems: Stochastic optimization with strong stability
+google scholar citation: 18, microsoft academic citation: 15
+------------------------------------------------------------
+Data-driven spectrum trading with secondary users' differential privacy preservation
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Economic-robust transmission opportunity auction for D2D communications in cognitive mesh assisted cellular networks
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Economic-robust transmission opportunity auction in multi-hop wireless networks
+google scholar citation: 24, microsoft academic citation: 22
+------------------------------------------------------------
+Energy-Based Detection of Defect Injection Attacks in IoT-Enabled Manufacturing
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Energy consumption optimization for multihop cognitive cellular networks
+google scholar citation: 45, microsoft academic citation: 33
+------------------------------------------------------------
+Energy-source-aware cost optimization for green cellular networks with strong stability
+google scholar citation: 10, microsoft academic citation: 7
+------------------------------------------------------------
+If you do not care about it, sell it: Trading location privacy in mobile crowd sensing
+google scholar citation: 13, microsoft academic citation: 9
+------------------------------------------------------------
+Incentivizing Crowdsensing-based Noise Monitoring with Differentially-Private Locations
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Locaward: A security and privacy aware location-based rewarding system
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+Mac-layer selfish misbehavior in ieee 802.11 ad hoc networks: Detection and defense
+google scholar citation: 41, microsoft academic citation: 23
+------------------------------------------------------------
+Motivating human-enabled mobile participation for data offloading
+google scholar citation: 17, microsoft academic citation: 15
+------------------------------------------------------------
+Multi-objective optimal energy consumption scheduling in smart grids
+google scholar citation: 140, microsoft academic citation: 141
+------------------------------------------------------------
+n-CD: A geometric approach to preserving location privacy in location-based services
+google scholar citation: 25, microsoft academic citation: 20
+------------------------------------------------------------
+Optimal energy cost for strongly stable multi-hop green cellular networks
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Optimal scheduling for multi-radio multi-channel multi-hop cognitive cellular networks
+google scholar citation: 42, microsoft academic citation: 37
+------------------------------------------------------------
+Optimal Transportation Network Company Vehicle Dispatching via Deep Deterministic Policy Gradient
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Performance enhancement for unlicensed users in coordinated cognitive radio networks via channel reservation
+google scholar citation: 22, microsoft academic citation: 21
+------------------------------------------------------------
+PPER: Privacy-preserving economic-robust spectrum auction in wireless networks
+google scholar citation: 19, microsoft academic citation: 10
+------------------------------------------------------------
+Practical Privacy-preserving ECG-based Authentication for IoT-based Healthcare
+google scholar citation: 9, microsoft academic citation: 3
+------------------------------------------------------------
+Privacy-preserving data aggregation over incomplete data for crowdsensing
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Privacy-preserving energy theft detection in smart grids
+google scholar citation: 45, microsoft academic citation: 28
+------------------------------------------------------------
+Privacy-preserving spectrum query with location proofs in database-driven CRNs
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Privacy-preserving verifiable data aggregation and analysis for cloud-assisted mobile crowdsourcing
+google scholar citation: 44, microsoft academic citation: 29
+------------------------------------------------------------
+Privacy-preserving verifiable proximity test for location-based services
+google scholar citation: 15, microsoft academic citation: 12
+------------------------------------------------------------
+Privacy-preserving verifiable set operation in big data for cloud-assisted mobile crowdsourcing
+google scholar citation: 21, microsoft academic citation: 13
+------------------------------------------------------------
+Privacy-preserving Wi-Fi fingerprinting indoor localization
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+Securing a uav using individual characteristics from an eeg signal
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+Social-enabled data offloading via mobile participation-a game-theoretical approach
+google scholar citation: 22, microsoft academic citation: 17
+------------------------------------------------------------
+SPA: A secure and private auction framework for decentralized online social networks
+google scholar citation: 17, microsoft academic citation: 10
+------------------------------------------------------------
+The network architecture for spectrum trading
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+VCG auction based hierarchical bandwidth sharing scheme for integrated heterogeneous networks
+google scholar citation: 3, microsoft academic citation: 4
+------------------------------------------------------------
+Verifiable privacy-preserving monitoring for cloud-assisted mhealth systems
+google scholar citation: 30, microsoft academic citation: 19
+------------------------------------------------------------

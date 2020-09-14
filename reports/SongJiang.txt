@@ -1,0 +1,268 @@
+There are 116 papers in Google Scholar and 98 papers in Microsoft Academic
+Total citations from Google Scholar is 5094, Microsoft Academic is 5,034
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 4 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Exploiting content localities for efficient search in P2P systems
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	2: Hitchhike: An I/O Scheduler Enabling Writeback for Small Synchronous Writes
+		Microfost Academic citation: 1; Published year: 2016; Published venue: International Conference on Cloud Computing.
+	3: SDA: Software-defined accelerator for large-scale DNN systems
+		Microfost Academic citation: 94; Published year: 2014; Published venue: IEEE Hot Chips Symposium.
+	4: Synchronized writeback method for disk data
+		Microfost Academic citation: 1; Published year: 2016; Published venue: Null.
+There are 22 Papers appear in Google Schoolar but not in MS Academic
+	1: 2014 USENIX Annual Technical Conference
+		Google Scholar citation: 0; Published year: 2014; Published venue: Null.
+	2: An Innovative Multi-level Caching Protocol Exploiting Hierarchical Locality
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	3: Application of both Temporal and Spatial Localities in the Management of Kernel Buffer Cache
+		Google Scholar citation: 0; Published year: 2010; Published venue: Advanced Operating Systems and Kernel Applications: Techniques and ….
+	4: COCA: A Locality-Aware Cooperative Cache Management Protocol to Improve Network File System Performance
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	5: Deduplication-aware I/O Buffer Management in the Linux Kernel for Improved I/O Performance and Memory Utilization
+		Google Scholar citation: 0; Published year: None; Published venue: 2020 12th International Conference on Knowledge and Smart Technology (KST ….
+	6: DiskSeen: A Prefetch Policy Based on Disk Layout and Access History
+		Google Scholar citation: 0; Published year: 2007; Published venue: Los Alamos National Lab.(LANL), Los Alamos, NM (United States).
+	7: Efficient caching algorithms for memory management in computer systems
+		Google Scholar citation: 1; Published year: 2004; Published venue: Null.
+	8: IOrchestrator: improving the performance of multi-node I/O systems via inter-server coordination
+		Google Scholar citation: 0; Published year: 2010; Published venue: Los Alamos National Lab.(LANL), Los Alamos, NM (United States).
+	9: Improving Unaligned Parallel File Access with Solid-state Drives
+		Google Scholar citation: 0; Published year: 2013; Published venue: Los Alamos National Lab.(LANL), Los Alamos, NM (United States).
+	10: LAMA: OpDmized Locality-‐aware Memory AllocaDon for Key-‐value Cache
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	11: Orthrus: A Framework for Implementing Efficient Collective I/O in a Multi-core Cluster
+		Google Scholar citation: 0; Published year: 2014; Published venue: Los Alamos National Lab.(LANL), Los Alamos, NM (United States).
+	12: QoS support for end users of I/O-intensive applications using shared storage systems
+		Google Scholar citation: 51; Published year: 2011; Published venue: Proceedings of 2011 International Conference for High Performance Computing ….
+	13: SDDCS2015: The international workshop of software-defined data communications and storage (SDDCS) 2015-committees
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	14: SES-Dedup: Scrambler-Resistant ECC-based SSD Deduplication
+		Google Scholar citation: 0; Published year: 2019; Published venue: Proceedings of the 35th International Conference on Massive Storage Systems ….
+	15: Search Lookaside Buffer
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	16: Storage Device Performance Prediction with SBCART (Selective Bagging Classification and Regression Tree) Models
+		Google Scholar citation: 1; Published year: 2010; Published venue: 7th IFIP International Conference on Network and Parallel Computing (NPC'10 ….
+	17: Swap Token: Rethink the Application of the LRU Principle on Paging to Remove System Thrashing
+		Google Scholar citation: 1; Published year: 2012; Published venue: Computer Engineering: Concepts, Methodologies, Tools and Applications, 464-483.
+	18: Swap Token: Rethink the Application of the LRU Principle on Paging to Remove System Thrashing
+		Google Scholar citation: 1; Published year: 2012; Published venue: Computer Engineering: Concepts, Methodologies, Tools and Applications, 464-483.
+	19: TPF: a dynamic system thrashing protection facility
+		Google Scholar citation: 24; Published year: 2002; Published venue: Software: Practice and Experience 32 (3), 295-318.
+	20: Tackling Unaligned I/O to Support Data-Intensive Exascale Computing
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	21: Wormhole: A fast ordered index for in-memory data management
+		Google Scholar citation: 9; Published year: 2019; Published venue: Proceedings of the Fourteenth EuroSys Conference 2019, 1-16.
+	22: iharmonizer: Improving the disk efficiency of i/o-intensive multithreaded codes
+		Google Scholar citation: 6; Published year: 2012; Published venue: 2012 IEEE 26th International Parallel and Distributed Processing Symposium ….
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A buffer cache management scheme exploiting both temporal and spatial localities
+google scholar citation: 52, microsoft academic citation: 55
+------------------------------------------------------------
+Adaptive Page Replacement to Protect Thrashing in Linux.
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+Aegis: Partitioning data block for efficient recovery of stuck-at-faults in phase change memory
+google scholar citation: 55, microsoft academic citation: 59
+------------------------------------------------------------
+A General Approach to Scalable Buffer Pool Management
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+A hash-based space-efficient page-level FTL for large-capacity SSDs
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+A locality-aware cooperative cache management protocol to improve network file system performance
+google scholar citation: 40, microsoft academic citation: 29
+------------------------------------------------------------
+An efficient design and implementation of LSM-tree based key-value store on open-channel SSD
+google scholar citation: 136, microsoft academic citation: 137
+------------------------------------------------------------
+A penalty aware memory allocation scheme for key-value cache
+google scholar citation: 12, microsoft academic citation: 9
+------------------------------------------------------------
+A prefetching scheme exploiting both data layout and access history on disk
+google scholar citation: 32, microsoft academic citation: 24
+------------------------------------------------------------
+A Scheduling Framework That Makes Any Disk Schedulers Non-Work-Conserving Solely Based on Request Characteristics.
+google scholar citation: 41, microsoft academic citation: 28
+------------------------------------------------------------
+Atlas: Baidu's key-value storage system for cloud data
+google scholar citation: 56, microsoft academic citation: 58
+------------------------------------------------------------
+BP-Wrapper: A system framework making any replacement algorithms (almost) lock contention free
+google scholar citation: 15, microsoft academic citation: 14
+------------------------------------------------------------
+Characterizing facebook's memcached workload
+google scholar citation: 39, microsoft academic citation: 30
+------------------------------------------------------------
+CLOCK-Pro: An Effective Improvement of the CLOCK Replacement.
+google scholar citation: 262, microsoft academic citation: 269
+------------------------------------------------------------
+Coordinated multilevel buffer cache management with consistent access locality quantification
+google scholar citation: 32, microsoft academic citation: 26
+------------------------------------------------------------
+Cost-aware caching algorithms for distributed storage servers
+google scholar citation: 10, microsoft academic citation: 7
+------------------------------------------------------------
+Current practice and a direction forward in checkpoint/restart implementations for fault tolerance
+google scholar citation: 71, microsoft academic citation: 75
+------------------------------------------------------------
+Data Storage Research Vision 2025: Report on NSF Visioning Workshop held May 30--June 1, 2018
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+DiskSeen: Exploiting Disk Layout and Access History to Enhance I/O Prefetch.
+google scholar citation: 184, microsoft academic citation: 188
+------------------------------------------------------------
+DULO: an effective buffer cache management scheme to exploit both temporal and spatial locality
+google scholar citation: 194, microsoft academic citation: 198
+------------------------------------------------------------
+Efficient distributed disk caching in data grid management
+google scholar citation: 23, microsoft academic citation: 12
+------------------------------------------------------------
+Exploiting content localities for efficient search in P2P systems
+google scholar citation: 34, microsoft academic citation: 0
+------------------------------------------------------------
+Exploiting disk layout and block access history for i/o prefetch
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Exploiting lustre file joining for effective collective io
+google scholar citation: 118, microsoft academic citation: 121
+------------------------------------------------------------
+Fast and low-cost search schemes by exploiting localities in P2P networks
+google scholar citation: 34, microsoft academic citation: 27
+------------------------------------------------------------
+FastBuild: Accelerating Docker Image Building for Efficient Development and Deployment of Container
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+Flexfetch: A history-aware scheme for I/O energy saving in mobile computing
+google scholar citation: 9, microsoft academic citation: 8
+------------------------------------------------------------
+FloodTrail: an efficient file search technique in unstructured peer-to-peer systems
+google scholar citation: 49, microsoft academic citation: 57
+------------------------------------------------------------
+Freewrite: creating (almost) zero-cost writes to SSD in applications
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Heating dispersal for self-healing NAND flash memory
+google scholar citation: 22, microsoft academic citation: 17
+------------------------------------------------------------
+iBridge: Improving unaligned parallel file access with solid-state drives
+google scholar citation: 42, microsoft academic citation: 32
+------------------------------------------------------------
+Improve throughput of storage cluster interconnected with a tcp/ip network using intelligent server grouping
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Improving networked file system performance using a locality-aware cooperative cache protocol
+google scholar citation: 10, microsoft academic citation: 5
+------------------------------------------------------------
+intelliQoS: Rethinking storage QoS implementation for system efficiency
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+IOrchestrator: improving the performance of multi-node I/O systems via inter-server coordination
+google scholar citation: 0, microsoft academic citation: 75
+------------------------------------------------------------
+irdma: Efficient use of rdma in distributed deep learning systems
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+iTransformer: Using SSD to improve disk scheduling for high-performance I/O
+google scholar citation: 59, microsoft academic citation: 64
+------------------------------------------------------------
+{LAMA}: Optimized Locality-aware Memory Allocation for Key-value Cache
+google scholar citation: 69, microsoft academic citation: 74
+------------------------------------------------------------
+LightFlood: an efficient flooding scheme for file search in unstructured peer-to-peer systems
+google scholar citation: 118, microsoft academic citation: 122
+------------------------------------------------------------
+Lightflood: Minimizing redundant messages and maximizing scope of peer-to-peer search
+google scholar citation: 117, microsoft academic citation: 120
+------------------------------------------------------------
+LIRS: an efficient low inter-reference recency set replacement policy to improve buffer cache performance
+google scholar citation: 652, microsoft academic citation: 664
+------------------------------------------------------------
+LiU: Hiding disk access latency for HPC applications with a new SSD-enabled data layout
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+Making LRU friendly to weak locality workloads: A novel replacement algorithm to improve buffer cache performance
+google scholar citation: 84, microsoft academic citation: 89
+------------------------------------------------------------
+Making resonance a common case: A high-performance implementation of collective I/O on parallel file systems
+google scholar citation: 54, microsoft academic citation: 56
+------------------------------------------------------------
+Nvmcached: An nvm-based key-value cache
+google scholar citation: 20, microsoft academic citation: 12
+------------------------------------------------------------
+Opportunistic data-driven execution of parallel programs for efficient I/O services
+google scholar citation: 36, microsoft academic citation: 20
+------------------------------------------------------------
+PROP: a scalable and reliable P2P assisted proxy streaming system
+google scholar citation: 109, microsoft academic citation: 112
+------------------------------------------------------------
+Prophet: Scheduling executors with time-varying resource demands on data-parallel computation frameworks
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+SAT-Match: a self-adaptive topology matching method to achieve low lookup latency in structured P2P overlay networks
+google scholar citation: 64, microsoft academic citation: 68
+------------------------------------------------------------
+SDC: a software defined cache for efficient data indexing
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+SDF: software-defined flash for web-scale internet storage systems
+google scholar citation: 234, microsoft academic citation: 238
+------------------------------------------------------------
+Search lookaside buffer: efficient caching for index data structures
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+S-FTL: An efficient address translation for flash memory by exploiting spatial locality
+google scholar citation: 67, microsoft academic citation: 69
+------------------------------------------------------------
+SmartCuckoo: a fast and cost-efficient hashing index scheme for cloud storage systems
+google scholar citation: 16, microsoft academic citation: 8
+------------------------------------------------------------
+Smartmd: A high performance deduplication engine with mixed pages
+google scholar citation: 14, microsoft academic citation: 7
+------------------------------------------------------------
+SmartSaver: turning flash drive into a disk energy saver for mobile computers
+google scholar citation: 107, microsoft academic citation: 110
+------------------------------------------------------------
+SS-CDC: A two-stage parallel content-defined chunking for deduplicating backup storage
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+STEP: Sequentiality and thrashing detection based prefetching to improve performance of networked storage servers
+google scholar citation: 69, microsoft academic citation: 70
+------------------------------------------------------------
+Storage device performance prediction with selective bagging classification and regression tree
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Supporting superpages and lightweight page migration in hybrid memory systems
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Synergistic coupling of SSD and hard disk for QoS-aware virtual memory
+google scholar citation: 13, microsoft academic citation: 9
+------------------------------------------------------------
+Token-ordered LRU: an effective page replacement policy and its implementation in Linux systems
+google scholar citation: 24, microsoft academic citation: 13
+------------------------------------------------------------
+Totalcow: Unleash the power of copy-on-write for thin-provisioned containers
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+Transparent, incremental checkpointing at kernel level: a foundation for fault tolerance for parallel computers
+google scholar citation: 185, microsoft academic citation: 193
+------------------------------------------------------------
+ULC: A file block placement and replacement protocol to effectively exploit hierarchical locality in multi-level buffer caches
+google scholar citation: 70, microsoft academic citation: 74
+------------------------------------------------------------
+WOJ: Enabling Write-Once Full-data Journaling in SSDs by using weak-hashing-based deduplication
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Workload analysis of a large-scale key-value store
+google scholar citation: 765, microsoft academic citation: 776
+------------------------------------------------------------
+Youchoose: Choosing your storage device as a performance interface to consolidated i/o service
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+zExpander: a key-value cache with both high performance and fewer misses
+google scholar citation: 27, microsoft academic citation: 19
+------------------------------------------------------------

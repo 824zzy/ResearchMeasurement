@@ -1,0 +1,171 @@
+There are 61 papers in Google Scholar and 55 papers in Microsoft Academic
+Total citations from Google Scholar is 1935, Microsoft Academic is 1,818
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 3 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: iShuffle: Improving Hadoop Performance with Shuffle-on-Write.
+		Microfost Academic citation: 70; Published year: 2013; Published venue: International Conference on Autonomic Computing.
+	2: iShufﬂe: Improving Hadoop Performance with Shufﬂe-on-Write
+		Microfost Academic citation: 19; Published year: 2013; Published venue: International Conference on Autonomic Computing.
+	3: mBalloon: enabling elastic memory management for big data processing
+		Microfost Academic citation: 0; Published year: 2017; Published venue: Symposium on Cloud Computing.
+There are 9 Papers appear in Google Schoolar but not in MS Academic
+	1: A Hybrid Reinforcement Learning Approach for Coordinated Configuration of Virtual Machines and Appliances
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	2: Autonomic management of virtualized resources in cloud computing
+		Google Scholar citation: 7; Published year: 2011; Published venue: Null.
+	3: Elastic edge-overlay methods using OpenFlow for cloud networks
+		Google Scholar citation: 3; Published year: 2016; Published venue: Information Technology: New Generations, 25-37.
+	4: Improving resource utilization through demand aware process scheduling
+		Google Scholar citation: 1; Published year: 2018; Published venue: Proceedings of the 47th International Conference on Parallel Processing, 1-10.
+	5: Moving Hadoop into the Cloud with Flexible Slots
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	6: Performance measurement and interference profiling in multi-tenant clouds
+		Google Scholar citation: 16; Published year: 2015; Published venue: 2015 IEEE 8th International Conference on Cloud Computing, 941-949.
+	7: To Err Is Human, to Log Divine: Expediting Production Failure Diagnosis with Better Logging
+		Google Scholar citation: 0; Published year: 2012; Published venue: Null.
+	8: Towards application-centric fairness in multi-tenant clouds with adaptive CPU sharing model
+		Google Scholar citation: 2; Published year: 2016; Published venue: 2016 IEEE 9th International Conference on Cloud Computing (CLOUD), 367-375.
+	9: iBalloon: Self-Adaptive Virtual Machines Resource Provisioning
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Adaptive resource views for containers
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Addressing memory pressure in data-intensive parallel programs via container based virtualization
+google scholar citation: 4, microsoft academic citation: 0
+------------------------------------------------------------
+Addressing performance heterogeneity in mapreduce clusters with elastic tasks
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+A distributed self-learning approach for elastic provisioning of virtualized cloud resources
+google scholar citation: 90, microsoft academic citation: 92
+------------------------------------------------------------
+A Model-free Learning Approach for Coordinated Configuration of Virtual Machines and Appliances
+google scholar citation: 15, microsoft academic citation: 16
+------------------------------------------------------------
+An analysis and empirical study of container networks
+google scholar citation: 25, microsoft academic citation: 11
+------------------------------------------------------------
+A reinforcement learning approach to online web systems auto-configuration
+google scholar citation: 88, microsoft academic citation: 91
+------------------------------------------------------------
+A side-channel attack on hotspot heap management
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Characterizing and optimizing hotspot parallel garbage collection on multicore systems
+google scholar citation: 13, microsoft academic citation: 6
+------------------------------------------------------------
+Characterizing and optimizing the performance of multithreaded programs under interference
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Cntc: A container aware network traffic control framework
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Container-based cloud platform for mobile computation offloading
+google scholar citation: 30, microsoft academic citation: 22
+------------------------------------------------------------
+Coordinated self-configuration of virtual machines and appliances using a model-free learning approach
+google scholar citation: 80, microsoft academic citation: 84
+------------------------------------------------------------
+CoSL: A coordinated statistical learning approach to measuring the capacity of multi-tier websites
+google scholar citation: 17, microsoft academic citation: 15
+------------------------------------------------------------
+CoTuner: a framework for coordinated auto-configuration of virtualized resources and appliances
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Demo/poster abstract: Efficient and flexible packet tracing for virtualized networks using ebpf
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Dynamic vertical memory scalability for OpenJDK cloud applications
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+DynaQoS: model-free self-tuning fuzzy control of virtualized resources for QoS provisioning
+google scholar citation: 63, microsoft academic citation: 65
+------------------------------------------------------------
+ebase: A baseband unit cluster testbed to improve energy-efficiency for cloud radio access network
+google scholar citation: 35, microsoft academic citation: 27
+------------------------------------------------------------
+eBrowser: Making human-mobile Web interactions energy efficient with event rate learning
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Elastic power-aware resource provisioning of heterogeneous workloads in self-sustainable datacenters
+google scholar citation: 25, microsoft academic citation: 10
+------------------------------------------------------------
+FlexSlot: Moving hadoop into the cloud with flexible slot management
+google scholar citation: 30, microsoft academic citation: 19
+------------------------------------------------------------
+Improving performance of heterogeneous mapreduce clusters with adaptive task tuning
+google scholar citation: 62, microsoft academic citation: 61
+------------------------------------------------------------
+ishuffle: Improving hadoop performance with shuffle-on-write
+google scholar citation: 132, microsoft academic citation: 70
+------------------------------------------------------------
+Moving hadoop into the cloud with flexible slot management and speculative execution
+google scholar citation: 34, microsoft academic citation: 20
+------------------------------------------------------------
+Online capacity identification of multitier websites using hardware performance counters
+google scholar citation: 22, microsoft academic citation: 15
+------------------------------------------------------------
+Online measurement of the capacity of multi-tier websites using hardware performance counters
+google scholar citation: 31, microsoft academic citation: 23
+------------------------------------------------------------
+Optimizing virtual machine scheduling in NUMA multicore systems
+google scholar citation: 94, microsoft academic citation: 96
+------------------------------------------------------------
+Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Preemptive, low latency datacenter scheduling via lightweight virtualization
+google scholar citation: 38, microsoft academic citation: 26
+------------------------------------------------------------
+Preemptive multi-queue fair queuing
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Preserving I/O prioritization in virtualized OSes
+google scholar citation: 7, microsoft academic citation: 0
+------------------------------------------------------------
+QoS guarantees and service differentiation for dynamic cloud applications
+google scholar citation: 81, microsoft academic citation: 83
+------------------------------------------------------------
+Resource and deadline-aware job scheduling in dynamic hadoop clusters
+google scholar citation: 55, microsoft academic citation: 56
+------------------------------------------------------------
+Scheduler activations for interference-resilient smp virtual machine scheduling
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+Self-adaptive provisioning of virtualized resources in cloud computing
+google scholar citation: 37, microsoft academic citation: 24
+------------------------------------------------------------
+Self-boosted co-scheduling for SMP virtual machines
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+StoreApp: A shared storage appliance for efficient and scalable virtualized hadoop clusters
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Tackling parallelization challenges of kernel network stack for container overlay networks
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Time capsule: Tracing packet latency across different layers in virtualized systems
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+Towards fair and efficient SMP virtual machine scheduling
+google scholar citation: 38, microsoft academic citation: 25
+------------------------------------------------------------
+URL: A unified reinforcement learning approach for autonomic cloud management
+google scholar citation: 148, microsoft academic citation: 151
+------------------------------------------------------------
+V-cache: Towards flexible resource provisioning for multi-tier applications in iaas clouds
+google scholar citation: 35, microsoft academic citation: 26
+------------------------------------------------------------
+VCONF: a reinforcement learning approach to virtual machines auto-configuration
+google scholar citation: 269, microsoft academic citation: 275
+------------------------------------------------------------
+vnettracer: Efficient and programmable packet tracing in virtualized networks
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+vScale: automatic and efficient processor scaling for SMP virtual machines
+google scholar citation: 27, microsoft academic citation: 11
+------------------------------------------------------------

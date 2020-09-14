@@ -1,0 +1,19 @@
+There are 4 papers in Google Scholar and 2 papers in Microsoft Academic
+Total citations from Google Scholar is 27, Microsoft Academic is 16
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 2 Papers appear in Google Schoolar but not in MS Academic
+	1: Building 3D Shape Primitive Based Object Models from Range Images
+		Google Scholar citation: 0; Published year: 2016; Published venue: Null.
+	2: TC-ID3: A TESTCODE Based ID3 Classifier for Protein Coding Region Identification
+		Google Scholar citation: 3; Published year: 2006; Published venue: 2006 International Conference on Computational Inteligence for Modelling ….
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A temporal potential function approach for path planning in dynamic environments
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Inverse reinforcement learning for decentralized non-cooperative multiagent systems
+google scholar citation: 20, microsoft academic citation: 13
+------------------------------------------------------------

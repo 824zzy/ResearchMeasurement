@@ -1,0 +1,45 @@
+There are 19 papers in Google Scholar and 1 papers in Microsoft Academic
+Total citations from Google Scholar is 261, Microsoft Academic is 0
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 18 Papers appear in Google Schoolar but not in MS Academic
+	1: A Conversation with Actuators: An Exploratory Design Environment for Hybrid Materials
+		Google Scholar citation: 3; Published year: 2019; Published venue: Proceedings of the Thirteenth International Conference on Tangible, Embedded ….
+	2: Aesthetic electronics: Designing, sketching, and fabricating circuits through digital exploration
+		Google Scholar citation: 19; Published year: 2016; Published venue: Proceedings of the 29th Annual Symposium on User Interface Software and ….
+	3: Digital craftsmanship: HCI takes on technology as an expressive medium
+		Google Scholar citation: 12; Published year: 2016; Published venue: Proceedings of the 2016 ACM Conference Companion Publication on Designing ….
+	4: Fl. uis: Liquid-mediated vision based touch surfaces
+		Google Scholar citation: 5; Published year: 2015; Published venue: Proceedings of the Ninth International Conference on Tangible, Embedded, and ….
+	5: Guardians of Practice: A Contextual Inquiry of Failure-Mitigation Strategies Within Creative Practices
+		Google Scholar citation: 3; Published year: 2018; Published venue: Proceedings of the 2018 Designing Interactive Systems Conference, 1259-1267.
+	6: HapticPrint: Designing feel aesthetics for digital fabrication
+		Google Scholar citation: 37; Published year: 2015; Published venue: Proceedings of the 28th Annual ACM Symposium on User Interface Software ….
+	7: Hybrid Aesthetics: Bridging Material Practices and Digital Fabrication through Computational Crafting Proxies
+		Google Scholar citation: 0; Published year: 2019; Published venue: UC Berkeley.
+	8: Hybrid Aesthetics: Design of New Media Practices within Digital Fabrication
+		Google Scholar citation: 0; Published year: 2018; Published venue: Proceedings of the 2018 ACM Conference Companion Publication on Designing ….
+	9: Hybrid Microgenetic Analysis: Using Activity Codebooks to Identify and Characterize Creative Process
+		Google Scholar citation: 0; Published year: 2019; Published venue: Proceedings of the 2019 on Creativity and Cognition, 2-14.
+	10: Illumination Aesthetics: Light as a Creative Material within Computational Design
+		Google Scholar citation: 12; Published year: 2017; Published venue: Proceedings of the 2017 CHI Conference on Human Factors in Computing Systems ….
+	11: Learning structural semantics for the web
+		Google Scholar citation: 6; Published year: 2012; Published venue: Tech. rep. CSTR 2012-03. Stanford University.
+	12: LiveObjects: leveraging theatricality for an expressive Internet of Things
+		Google Scholar citation: 2; Published year: 2016; Published venue: Proceedings of the 2016 ACM Conference Companion Publication on Designing ….
+	13: MetaMorphe: Designing expressive 3D models for digital fabrication
+		Google Scholar citation: 25; Published year: 2015; Published venue: Proceedings of the 2015 ACM SIGCHI Conference on Creativity and Cognition, 73-82.
+	14: Phosphenes: Crafting Resistive Heaters Within Thermoreactive Composites
+		Google Scholar citation: 4; Published year: 2019; Published venue: Proceedings of the 2019 on Designing Interactive Systems Conference, 907-919.
+	15: ProxyPrint: Supporting Crafting Practice through Physical Computational Proxies
+		Google Scholar citation: 21; Published year: 2016; Published venue: Proceedings of the 2016 ACM Conference on Designing Interactive Systems, 158-169.
+	16: SmartStorybook: An Internet of Things Augmented Environment Coordinator for Storytelling
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	17: Structural Learning for Web Design
+		Google Scholar citation: 1; Published year: 2012; Published venue: Stanford University.
+	18: Webzeitgeist: design mining the web
+		Google Scholar citation: 111; Published year: 2013; Published venue: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems ….
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+

@@ -1,0 +1,180 @@
+There are 67 papers in Google Scholar and 47 papers in Microsoft Academic
+Total citations from Google Scholar is 1986, Microsoft Academic is 1,919
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 8 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Automatically Finding Bugs in Cyber-Physical System Development Tool Chains With Slforge
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Conference on Software Engineering.
+	2: DSD-Crasher: a hybrid analysis tool for bug finding
+		Microfost Academic citation: 112; Published year: 2006; Published venue: International Symposium on Software Testing and Analysis.
+	3: Poster: Testing Web-Based Applications with the Voice Controlled Accessibility and Testing Tool (VCAT)
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Conference on Software Engineering.
+	4: Practical end-to-end performance evaluation of backend software applications
+		Microfost Academic citation: 0; Published year: 2013; Published venue: Null.
+	5: Proceedings of the 2014 Joint International Workshop on Dynamic Analysis (WODA) and Software and System Performance Testing, Debugging, and Analytics (PERTEA)
+		Microfost Academic citation: 0; Published year: 2014; Published venue: International Symposium on Software Testing and Analysis.
+	6: Residual investigation: predictive and precise bug detection
+		Microfost Academic citation: 8; Published year: 2012; Published venue: International Symposium on Software Testing and Analysis.
+	7: Residual investigation: predictive and precise bug detection
+		Microfost Academic citation: 8; Published year: 2012; Published venue: International Symposium on Software Testing and Analysis.
+	8: WODA+PERTEA 2014 : joint 12th International Workshop on Dynamic Analysis (WODA) and Workshop on Software and System Performance Testing, Debugging, and Analytics (PERTEA) : proceedings : July 22, 2014, San Jose, CA, USA
+		Microfost Academic citation: 0; Published year: 2014; Published venue: Null.
+There are 28 Papers appear in Google Schoolar but not in MS Academic
+	1: ACM SIGMETRICS
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	2: Achieving Higher Test Coverage Faster
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	3: CnC: Check’n’Crash
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	4: Cyber-Physical Systems Specification Mismatch and Safe Upgrades
+		Google Scholar citation: 0; Published year: 2019; Published venue: UNIVERSITY OF TEXAS AT ARLINGTON ARLINGTON United States.
+	5: DSD-Crasher Dynamic, Static, Dynamic
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	6: DeepFuzzSL: Generating Simulink Models with Deep Learning to Find Bugs in the Simulink Toolchain
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	7: DeepFuzzSL: Generating models with deep learning to find bugs in the Simulink toolchain
+		Google Scholar citation: 0; Published year: 2020; Published venue: 2nd Workshop on Testing for Deep Learning and Deep Learning for Testing ….
+	8: Doodle2App: Native App Code by Freehand UI Sketching
+		Google Scholar citation: 0; Published year: 2020; Published venue: 7th IEEE/ACM International Conference on Mobile Software Engineering and ….
+	9: Dynamic Analysis of Evasive Modular Malware
+		Google Scholar citation: 0; Published year: None; Published venue: 28th Annual Computer Security Applications Conference.
+	10: Expert Review Panel
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	11: Fuzzing Cyber-Physical System Development Environments With CyFuzz
+		Google Scholar citation: 0; Published year: 2017; Published venue: Null.
+	12: ICDM 2011 Reviewers
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	13: ICSE 2016
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	14: Mini Project Report One
+		Google Scholar citation: 0; Published year: 2003; Published venue: Null.
+	15: Poster: Automatic Profiling of Evasive Mixed-Mode Malware with SEMU
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	16: Program Committee Chair
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	17: Program Committee Chairs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	18: Program Committees
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	19: Program Committee–Main Track
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	20: SLEMI: EMI based mutation of CPS models for finding compiler bugs in Simulink
+		Google Scholar citation: 0; Published year: 2020; Published venue: 42nd ACM/IEEE International Conference on Software Engineering (ICSE).
+	21: SLEMI: Equivalence Modulo Input (EMI) Based Mutation of CPS Models for Finding Compiler Bugs in Simulink
+		Google Scholar citation: 2; Published year: 2020; Published venue: Proc. 42nd ACM/IEEE International Conference on Software Engineering (ICSE ….
+	22: SLEMI: Finding Simulink Compiler Bugs through Equivalence Modulo Input (EMI)
+		Google Scholar citation: 0; Published year: 2020; Published venue: 42nd ACM/IEEE International Conference on Software Engineering (ICSE).
+	23: Systems, apparatuses and methods for generating a user interface by performing computer vision and optical character recognition on a graphical representation
+		Google Scholar citation: 7; Published year: 2019; Published venue: US Patent 10,191,889.
+	24: Testing C programs for vulnerability using trace-based symbolic execution and satisfiability analysis
+		Google Scholar citation: 4; Published year: 2010; Published venue: Proceedings of the International Conference on Computational Science and ….
+	25: Testing web-based applications with the  oice  ontrolled  ccessibility and  esting tool (VCAT)
+		Google Scholar citation: 0; Published year: 2018; Published venue: Proceedings of the 40th International Conference on Software Engineering ….
+	26: Tests and Proofs: First International Conference, TAP 2007, Zurich, Switzerland, February 12-13, 2007. Revised Papers
+		Google Scholar citation: 0; Published year: 2007; Published venue: Springer-Verlag Berlin Heidelberg.
+	27: Untersuchung des Einsatzes von XP (eXtreme Programming) bei sd&m
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	28: Workshop Organization
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A combinatorial approach to detecting buffer overflow vulnerabilities
+google scholar citation: 24, microsoft academic citation: 17
+------------------------------------------------------------
+A curated corpus of Simulink models for model-based empirical studies
+google scholar citation: 5, microsoft academic citation: 0
+------------------------------------------------------------
+A distributed framework for demand-driven software vulnerability detection
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+An experiment in developing small mobile phone applications comparing on-phone to off-phone development
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Automatically finding bugs in a commercial cyber-physical system development tool chain with SLforge
+google scholar citation: 15, microsoft academic citation: 8
+------------------------------------------------------------
+Carfast: Achieving higher statement coverage faster
+google scholar citation: 63, microsoft academic citation: 65
+------------------------------------------------------------
+Check'n'crash: combining static checking and testing
+google scholar citation: 265, microsoft academic citation: 270
+------------------------------------------------------------
+Combining over-and under-approximating program analyses for automatic software testing
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Combining static and dynamic reasoning for bug detection
+google scholar citation: 53, microsoft academic citation: 55
+------------------------------------------------------------
+CyFuzz: A differential testing framework for cyber-physical systems development environments
+google scholar citation: 12, microsoft academic citation: 6
+------------------------------------------------------------
+Detecting vulnerabilities in c programs using trace-based testing
+google scholar citation: 17, microsoft academic citation: 9
+------------------------------------------------------------
+Dsc+ mock: A test case+ mock class generator in support of coding against interfaces
+google scholar citation: 46, microsoft academic citation: 29
+------------------------------------------------------------
+DSD-Crasher: A hybrid analysis tool for bug finding
+google scholar citation: 245, microsoft academic citation: 112
+------------------------------------------------------------
+DSDSR: a tool that uses dynamic symbolic execution for data structure repair
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Dynamically discovering likely interface invariants
+google scholar citation: 46, microsoft academic citation: 30
+------------------------------------------------------------
+Dynamic symbolic database application testing.
+google scholar citation: 31, microsoft academic citation: 25
+------------------------------------------------------------
+Dynamic symbolic data structure repair
+google scholar citation: 14, microsoft academic citation: 8
+------------------------------------------------------------
+Evaluating program analysis and testing tools with the RUGRAT random benchmark application generator
+google scholar citation: 10, microsoft academic citation: 8
+------------------------------------------------------------
+Fundexplorer: Supporting the diversification of mutual fund portfolios using context treemaps
+google scholar citation: 26, microsoft academic citation: 20
+------------------------------------------------------------
+Generating test cases for programs that are coded against interfaces and annotations
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+GROPG: A graphical on-phone debugger
+google scholar citation: 20, microsoft academic citation: 11
+------------------------------------------------------------
+Is data privacy always good for software testing?
+google scholar citation: 60, microsoft academic citation: 66
+------------------------------------------------------------
+JCrasher: an automatic robustness tester for Java
+google scholar citation: 512, microsoft academic citation: 523
+------------------------------------------------------------
+Managing performance testing with release certification and data correlation
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Mixed-mode malware and its analysis
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+New ideas track: testing mapreduce-style programs
+google scholar citation: 45, microsoft academic citation: 22
+------------------------------------------------------------
+Residual investigation: predictive and precise bug detection
+google scholar citation: 16, microsoft academic citation: 8
+------------------------------------------------------------
+Reverse engineering mobile application user interfaces with remaui (t)
+google scholar citation: 60, microsoft academic citation: 56
+------------------------------------------------------------
+RUGRAT: Evaluating program analysis and testing tools and compilers with large generated random benchmark applications
+google scholar citation: 17, microsoft academic citation: 10
+------------------------------------------------------------
+Scalable automatic test data generation from modeling diagrams
+google scholar citation: 19, microsoft academic citation: 18
+------------------------------------------------------------
+Scalable satisfiability checking and test data generation from modeling diagrams
+google scholar citation: 19, microsoft academic citation: 14
+------------------------------------------------------------
+SEDGE: Symbolic example data generation for dataflow programs
+google scholar citation: 17, microsoft academic citation: 6
+------------------------------------------------------------
+SimFuzz: Test case similarity directed deep fuzzing
+google scholar citation: 13, microsoft academic citation: 7
+------------------------------------------------------------

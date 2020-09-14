@@ -1,0 +1,51 @@
+There are 16 papers in Google Scholar and 16 papers in Microsoft Academic
+Total citations from Google Scholar is 137, Microsoft Academic is 87
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 0 Papers appear in Google Schoolar but not in MS Academic
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+ARepair: a repair framework for alloy
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Asketch: A sketching framework for alloy
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+AUnit: a test automation tool for Alloy
+google scholar citation: 10, microsoft academic citation: 7
+------------------------------------------------------------
+AUnit-a testing framework for Alloy
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Automated model repair for alloy
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Automated test generation and mutation testing for Alloy
+google scholar citation: 25, microsoft academic citation: 17
+------------------------------------------------------------
+Automated testing and sketching of Alloy models
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+Evaluating State Modeling Techniques in Alloy.
+google scholar citation: 13, microsoft academic citation: 8
+------------------------------------------------------------
+Fault localization for declarative models in Alloy
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+MuAlloy: a mutation testing framework for alloy
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Solver-based sketching of alloy models using test valuations
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Systematic generation of non-equivalent expressions for relational algebra
+google scholar citation: 10, microsoft academic citation: 7
+------------------------------------------------------------
+The effect of test suite type on regression test selection
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+Towards a test automation framework for Alloy
+google scholar citation: 16, microsoft academic citation: 7
+------------------------------------------------------------

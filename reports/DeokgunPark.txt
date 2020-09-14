@@ -1,0 +1,145 @@
+There are 68 papers in Google Scholar and 8 papers in Microsoft Academic
+Total citations from Google Scholar is 1077, Microsoft Academic is 175
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 1 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Common Fate for Animated Transitions in Visualization.
+		Microfost Academic citation: 0; Published year: 2019; Published venue: arXiv: Human-Computer Interaction.
+There are 61 Papers appear in Google Schoolar but not in MS Academic
+	1: A novel system for intrabody communication: touch-and-play
+		Google Scholar citation: 32; Published year: 2006; Published venue: 2006 IEEE International Symposium on Circuits and Systems, 4 pp..
+	2: An Open-World Simulated Environment for Developmental Robotics
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2007.09300.
+	3: An Open-World Simulated Environment for Developmental Robotics
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2007.09300.
+	4: Analysis of signal interference in human body communication using human body as transmission medium
+		Google Scholar citation: 24; Published year: 2006; Published venue: 2006 IEEE Antennas and Propagation Society International Symposium, 495-498.
+	5: Apparatus and method for controlling human body contact of ground electrode, and human body communication system using the same
+		Google Scholar citation: 16; Published year: 2013; Published venue: US Patent 8,606,177.
+	6: Apparatus and method for modulation and demodulation using frequency selective baseband
+		Google Scholar citation: 10; Published year: 2011; Published venue: US Patent 7,961,061.
+	7: Apparatus and method for providing media advertisement service using human body communication
+		Google Scholar citation: 5; Published year: 2010; Published venue: US Patent App. 12/518,091.
+	8: Apparatus and method for symbol error correctable modulation and demodulation using frequency selective baseband
+		Google Scholar citation: 3; Published year: 2013; Published venue: US Patent 8,488,648.
+	9: Apparatus for frequency modulating and demodulating of frequency selective baseband with gain of frequency diversity, and apparatus for transmitting and receiving using for this
+		Google Scholar citation: 13; Published year: 2011; Published venue: US Patent App. 12/667,385.
+	10: Apparatus for transmitting reference signals for measuring phase response characteristic of human body, and phase response characteristic measuring system and method employing …
+		Google Scholar citation: 5; Published year: 2010; Published venue: US Patent App. 12/516,562.
+	11: Automatic identification of human helminth eggs on microscopic fecal specimens using digital image processing and an artificial neural network
+		Google Scholar citation: 90; Published year: 2001; Published venue: IEEE Transactions on Biomedical Engineering 48 (6), 718-730.
+	12: Communication System Using Frequency According to Security or Transmission Distance
+		Google Scholar citation: 2; Published year: 2008; Published venue: US Patent App. 12/096,569.
+	13: Communication apparatus
+		Google Scholar citation: 58; Published year: 2012; Published venue: US Patent 8,224,244.
+	14: Communication apparatus and method using human body as medium
+		Google Scholar citation: 144; Published year: 2007; Published venue: US Patent 7,171,177.
+	15: Communication apparatus having human body contact sensing function and method thereof
+		Google Scholar citation: 22; Published year: 2011; Published venue: US Patent 8,054,159.
+	16: Communication device and method using human body
+		Google Scholar citation: 15; Published year: 2012; Published venue: US Patent 8,265,554.
+	17: Comparative study of telecommunication methods for emergency telemedicine
+		Google Scholar citation: 12; Published year: 2003; Published venue: Journal of telemedicine and telecare 9 (5), 300-303.
+	18: Context aware service using intra-body communication
+		Google Scholar citation: 12; Published year: 2006; Published venue: Fourth Annual IEEE International Conference on Pervasive Computing and ….
+	19: Development of Athlete Monitoring System for Effective Safety Training: 2261Board# 41 May 30 3: 30 PM-5: 00 PM
+		Google Scholar citation: 0; Published year: 2008; Published venue: Medicine & Science in Sports & Exercise 40 (5), S416.
+	20: Development of flexible self adhesive patch for professional heat stress monitoring service
+		Google Scholar citation: 22; Published year: 2006; Published venue: 2005 IEEE Engineering in Medicine and Biology 27th Annual Conference, 3789-3792.
+	21: Development of patch type sensor module for real-time monitoring of heart rate and agility index
+		Google Scholar citation: 2; Published year: 2008; Published venue: SENSORS, 2008 IEEE, 1151-1154.
+	22: Development of reusable and expandable communication for wearable medical sensor network
+		Google Scholar citation: 19; Published year: 2004; Published venue: The 26th Annual International Conference of the IEEE Engineering in Medicine ….
+	23: Digital communication system using frequency selective baseband and method thereof
+		Google Scholar citation: 8; Published year: 2013; Published venue: US Patent 8,351,402.
+	24: Dmb Receiver and Receiving Method Using Human Body Antenna
+		Google Scholar citation: 17; Published year: 2008; Published venue: US Patent App. 11/914,070.
+	25: Dmb receiving portable terminal for human body communication, dmb transmitting method thereof, and hmd apparatus and method for dmb reception using human body communication
+		Google Scholar citation: 2; Published year: 2010; Published venue: US Patent App. 12/515,535.
+	26: EM simulation and analysis on the ground electrode of human body communication
+		Google Scholar citation: 9; Published year: 2006; Published venue: 2006 European Microwave Conference, 1122-1123.
+	27: Effects of ground electrode on signal transmission of human body communication using human body as transmission medium
+		Google Scholar citation: 12; Published year: 2006; Published venue: 2006 IEEE Antennas and Propagation Society International Symposium, 491-494.
+	28: Frequency modulating apparatus and transmitting apparatus including the same, and frequency demodulating apparatus and receiving apparatus including the same
+		Google Scholar citation: 0; Published year: 2014; Published venue: US Patent 8,761,231.
+	29: Gatherplots: Extended scatterplots for categorical data
+		Google Scholar citation: 6; Published year: 2016; Published venue: University of Maryland, College Park, MD, USA, Tech. Rep. HCIL-2016–10.
+	30: Human body communication apparatus
+		Google Scholar citation: 6; Published year: 2010; Published venue: US Patent App. 12/679,466.
+	31: Human body communication device, human body communication system and method using the same
+		Google Scholar citation: 26; Published year: 2006; Published venue: US Patent App. 11/284,749.
+	32: Human body communication method using multi-carrier modulation method
+		Google Scholar citation: 10; Published year: 2012; Published venue: US Patent 8,165,236.
+	33: Human body communication system and communication method thereof
+		Google Scholar citation: 11; Published year: 2013; Published venue: US Patent 8,467,431.
+	34: Human body sound transmission system and method using single sound source
+		Google Scholar citation: 3; Published year: 2010; Published venue: US Patent App. 12/598,471.
+	35: Interactive visualization
+		Google Scholar citation: 0; Published year: 2019; Published venue: US Patent 10,430,436.
+	36: Interactive visualization
+		Google Scholar citation: 0; Published year: 2019; Published venue: US Patent 10,430,436.
+	37: Interactive visualization
+		Google Scholar citation: 0; Published year: 2019; Published venue: US Patent 10,430,436.
+	38: Interactive visualization
+		Google Scholar citation: 0; Published year: 2019; Published venue: US Patent 10,430,436.
+	39: Interactive visualization
+		Google Scholar citation: 0; Published year: 2019; Published venue: US Patent 10,430,436.
+	40: Intra-body communication system for high-speed data transmission
+		Google Scholar citation: 6; Published year: 2010; Published venue: US Patent App. 12/442,971.
+	41: Method and apparatus for communicating sound wave of human body
+		Google Scholar citation: 1; Published year: 2013; Published venue: US Patent 8,489,027.
+	42: Method and apparatus for providing touch and play (TAP)—based service and system using the method and apparatus
+		Google Scholar citation: 14; Published year: 2012; Published venue: US Patent 8,165,522.
+	43: Method and device for communicating using human body
+		Google Scholar citation: 5; Published year: 2010; Published venue: US Patent App. 12/303,975.
+	44: Method of and apparatus for transmitting and receiving signal at variable data rate in human body communications
+		Google Scholar citation: 6; Published year: 2010; Published venue: US Patent App. 12/602,092.
+	45: Muscleman: Wireless input device for a fighting action game based on the EMG signal and acceleration of the human forearm
+		Google Scholar citation: 10; Published year: 2011; Published venue: International Symposium on Neural Networks. ISNN.
+	46: Portable data transmitting device, and system and method for managing heat stress using the same
+		Google Scholar citation: 11; Published year: 2009; Published venue: US Patent App. 12/096,371.
+	47: Realization of an e-health system to perceive emergency situations
+		Google Scholar citation: 29; Published year: 2004; Published venue: The 26th Annual International Conference of the IEEE Engineering in Medicine ….
+	48: Receiver and method for receiving data in human body communication system using multiple receivers
+		Google Scholar citation: 6; Published year: 2012; Published venue: US Patent 8,320,429.
+	49: SEDRo: A Simulated Environment for Developmental Robotics
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2009.01810.
+	50: Sound transmission system
+		Google Scholar citation: 12; Published year: 2012; Published venue: US Patent 8,194,876.
+	51: Suspended nanowire sensor and method for fabricating the same
+		Google Scholar citation: 11; Published year: 2011; Published venue: US Patent 7,872,324.
+	52: System and method for human body communication using limited passband
+		Google Scholar citation: 13; Published year: 2012; Published venue: US Patent 8,340,158.
+	53: System for managing physical training and method thereof
+		Google Scholar citation: 21; Published year: 2013; Published venue: US Patent 8,360,785.
+	54: TAP: touch-and-play
+		Google Scholar citation: 65; Published year: 2006; Published venue: Proceedings of the SIGCHI conference on Human Factors in computing systems ….
+	55: TDD communication apparatus and operation method thereof
+		Google Scholar citation: 2; Published year: 2012; Published venue: US Patent 8,311,175.
+	56: TimeGrouper: Visualizing Time Series Clustering Towards the Identification of the Contributing Factors to the Global Decay Rate of Vulnerabilities
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	57: VisTwit: Talking Together about News Visualization with Twitter
+		Google Scholar citation: 0; Published year: 2013; Published venue: Mobile and Breaking News Workshop in IEEE VIS conference.
+	58: Visdock: A toolkit for cross-cutting interactions in visualization
+		Google Scholar citation: 11; Published year: 2015; Published venue: IEEE transactions on visualization and computer graphics 21 (9), 1087-1100.
+	59: Visual Analytics System for Distress Situation Awareness using Retrieved Images from Social Networks Proposal Summary
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	60: Visualizing for the Non‐Visual: Enabling the Visually Impaired to Use Visualization
+		Google Scholar citation: 8; Published year: 2019; Published venue: Computer Graphics Forum 38 (3), 249-260.
+	61: skWiki: a multimedia sketching system for collaborative creativity
+		Google Scholar citation: 33; Published year: 2014; Published venue: Proceedings of the SIGCHI Conference on Human Factors in Computing Systems ….
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+ConceptVector: text visual analytics via interactive lexicon building using word embedding
+google scholar citation: 42, microsoft academic citation: 32
+------------------------------------------------------------
+Gatherplots: Generalized Scatterplots for Nominal Data
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Supporting comment moderators in identifying high quality online news comments
+google scholar citation: 63, microsoft academic citation: 66
+------------------------------------------------------------
+Topiclens: Efficient multi-level visual topic exploration of large-scale document collections
+google scholar citation: 58, microsoft academic citation: 59
+------------------------------------------------------------

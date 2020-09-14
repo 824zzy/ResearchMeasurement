@@ -1,0 +1,54 @@
+There are 20 papers in Google Scholar and 4 papers in Microsoft Academic
+Total citations from Google Scholar is 32, Microsoft Academic is 7
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 1 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Proceedings of the 2005 International Conference on Foundations of Computer Science, FCS'05
+		Microfost Academic citation: 4; Published year: 2005; Published venue: Foundations of Computer Science.
+There are 17 Papers appear in Google Schoolar but not in MS Academic
+	1: A top-down inference procedure for template dependencies
+		Google Scholar citation: 0; Published year: 1988; Published venue: The Computer Journal 31 (1), 51-55.
+	2: An Interactive Prettyprinter for the Hierarchical Graph Model
+		Google Scholar citation: 0; Published year: 1982; Published venue: Northwestern University.
+	3: An n-grid model for group authorization
+		Google Scholar citation: 4; Published year: 1990; Published venue: [1990] Proceedings of the Sixth Annual Computer Security Applications ….
+	4: Another Algorithm for Computing Longest Common Increasing Subsequence for Two Random Input Sequences.
+		Google Scholar citation: 0; Published year: 2006; Published venue: FCS, 81-87.
+	5: Bistable versions of the marriages and roommates problems
+		Google Scholar citation: 11; Published year: 1999; Published venue: Journal of Computer and System Sciences 59 (3), 504-520.
+	6: Complete Containment Sets and their Application
+		Google Scholar citation: 0; Published year: 1991; Published venue: Computer Security Applications, 7th Annual Conference, 187.
+	7: Complete containment sets and their application to the inference problem
+		Google Scholar citation: 2; Published year: 1991; Published venue: Proceedings Seventh Annual Computer Security Applications Conference, 187 ….
+	8: Extending N-grid group authorization using compact encoding
+		Google Scholar citation: 0; Published year: 1992; Published venue: Proceedings of the 1992 ACM/SIGAPP Symposium on Applied computing ….
+	9: Finding Longest Common Increasing Subsequence for Two Different Scenarios of Non-random Input Sequences.
+		Google Scholar citation: 0; Published year: 2005; Published venue: FCS, 64-72.
+	10: HIPP: An Honors Program in Parallel Processing
+		Google Scholar citation: 0; Published year: 1995; Published venue: INTERNATIONAL JOURNAL OF ENGINEERING EDUCATION 11, 329-335.
+	11: Integration Of A Graph Formatter With Symmetry And Bisection Analysis
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	12: Operations on sets of intervals-an exercise for data structures or algorithms
+		Google Scholar citation: 5; Published year: 1989; Published venue: ACM SIGCSE Bulletin 21 (1), 174-176.
+	13: Redundant information in an authorization mechanism
+		Google Scholar citation: 0; Published year: 1990; Published venue: Information Systems 15 (2), 269-279.
+	14: Some Considerations in Using VSCAN Disk Scheduling With Optimal Page Arrangements.
+		Google Scholar citation: 0; Published year: 1988; Published venue: SIGMETRICS, 273.
+	15: The Longest Common Increasing Subsequence Problem
+		Google Scholar citation: 1; Published year: 2005; Published venue: Proc. of the 8th Joint Conference on Information Sciences, 64-70.
+	16: The virtual manufacturing workbench: representation and interface issues
+		Google Scholar citation: 5; Published year: 1993; Published venue: Proceedings of the IFIP TC5/WG5. 10 Working Conference on Interfaces in ….
+	17: ``Bistable Versions of the Marriages and Roommates Problems: Details of Bistable Roommates,''
+		Google Scholar citation: 1; Published year: 1998; Published venue: UTA Technical Report, December 1998. Available at http: ÂÂreptar. uta. edu.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Allocation techniques for distributed reduction data elements
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+A study of page arrangements for extendible hashing
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Finding Longest Common Increasing Subsequence for Two Different Scenarios of Non-random Input Sequences.
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------

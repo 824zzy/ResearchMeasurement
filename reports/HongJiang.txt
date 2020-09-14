@@ -1,0 +1,854 @@
+There are 300 papers in Google Scholar and 340 papers in Microsoft Academic
+Total citations from Google Scholar is 6513, Microsoft Academic is 5,523
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 70 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: 2-Hopper: Accurately Estimate Individual and Social Attributes of Social Networks With Fewer Repeats via Random Walk
+		Microfost Academic citation: 0; Published year: 2019; Published venue: IEEE Access.
+	2: A Novel and Generic Model for Synthesizing Disk I/O Traffic Based on The Alpha-stable Process
+		Microfost Academic citation: 5; Published year: 2008; Published venue: Modeling, Analysis, and Simulation On Computer and Telecommunication Systems.
+	3: A case study of parallel I/O for biological sequence search on Linux clusters
+		Microfost Academic citation: 6; Published year: 2003; Published venue: International Conference on Cluster Computing.
+	4: A hybrid scheme for object allocation in a distributed object-storage system
+		Microfost Academic citation: 3; Published year: 2006; Published venue: International Conference on Computational Science.
+	5: A neural network model for the prediction of malaria in Jingmen City, China
+		Microfost Academic citation: 0; Published year: 2014; Published venue: International Journal of Infectious Diseases.
+	6: Allocating non-real-time and soft real-time jobs in multiclusters
+		Microfost Academic citation: 74; Published year: 2006; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	7: An Architectural Approach to Improving the Availability of Parity-Based RAID Systems
+		Microfost Academic citation: 0; Published year: 2007; Published venue: Null.
+	8: An effective analytical model for deflection routing in hierarchical ring interconnection networks.
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Parallel and distributed computing and networks.
+	9: Analysis Of Computation-Communication Issues In Dynamic Dataflow Architectures
+		Microfost Academic citation: 5; Published year: 1989; Published venue: International Symposium on Computer Architecture.
+	10: Analysis of and Optimization for Write-dominated Hybrid Storage Nodes in Cloud
+		Microfost Academic citation: 1; Published year: 2019; Published venue: Symposium on Cloud Computing.
+	11: Apop: an automatic pattern- and object-based code parallelization framework for clusters
+		Microfost Academic citation: 0; Published year: 2007; Published venue: Null.
+	12: Approximate Analysis of Multiprocessing Task Graphs.
+		Microfost Academic citation: 9; Published year: 1990; Published venue: International Conference on Parallel Processing.
+	13: BFO: Batch-File Operations on Massive Files for Consistent Performance Improvement
+		Microfost Academic citation: 0; Published year: 2019; Published venue: IEEE Conference on Mass Storage Systems and Technologies.
+	14: CDAC: Content-Driven Deduplication-Aware Storage Cache
+		Microfost Academic citation: 0; Published year: 2019; Published venue: IEEE Conference on Mass Storage Systems and Technologies.
+	15: COSET: Cooperative Set Last Level Caches
+		Microfost Academic citation: 0; Published year: 2010; Published venue: Null.
+	16: CVRetrieval: Separating Consistency Retrieval from Consistency Maintenance
+		Microfost Academic citation: 0; Published year: 2007; Published venue: Null.
+	17: Comparisons between mesh and hierarchical ring networks for shared-memory multiprocessors
+		Microfost Academic citation: 0; Published year: 1998; Published venue: Canadian Journal of Electrical and Computer Engineering-revue Canadienne De Genie Electrique Et Informatique.
+	18: ConferenceXP-Powered I-MINDS: A Multiagent System for Intelligently Supporting Online Collaboration
+		Microfost Academic citation: 0; Published year: 2007; Published venue: Null.
+	19: Control method of data caching area in solid state disc
+		Microfost Academic citation: 1; Published year: 2012; Published venue: Null.
+	20: DCDP: A Novel Data-Centric and Design-Pattern Based Approach to Automatic Loop Transformation and Parallelization for A Shared-Object Environment in Clusters
+		Microfost Academic citation: 0; Published year: 2005; Published venue: Null.
+	21: Design and analysis of a communication middleware for multiple network interfaces
+		Microfost Academic citation: 2; Published year: 2004; Published venue: Design and analysis of a communication middleware for multiple network interfaces.
+	22: Distributed systems middleware: a framework for parallel and distributed computing on heterogeneous systems
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Null.
+	23: Dynamic i/o-aware load balancing and resource management for clusters
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Dynamic i/o-aware load balancing and resource management for clusters.
+	24: Dynamic load balancing for I/O-intensive tasks on heterogeneous clusters
+		Microfost Academic citation: 27; Published year: 2003; Published venue: Lecture Notes in Computer Science.
+	25: Dynamic load balancing for I/O-intensive tasks on heterogeneous clusters
+		Microfost Academic citation: 27; Published year: 2003; Published venue: Lecture Notes in Computer Science.
+	26: Dynamic load balancing of many-body molecular dynamics simulations in grid environments
+		Microfost Academic citation: 0; Published year: 2007; Published venue: Dynamic load balancing of many-body molecular dynamics simulations in grid environments.
+	27: Efficient Task Partitioning Algorithms for Distributed Shared Memory Systems.
+		Microfost Academic citation: 0; Published year: 2002; Published venue: Int. J. Comput. Their Appl..
+	28: Epidemiological analysis of mumps from 2008 to 2012 in Qianjiang City, China
+		Microfost Academic citation: 0; Published year: 2014; Published venue: International Journal of Infectious Diseases.
+	29: Evaluating Hardware Support for Reference Counting Using Software Configurable Processors
+		Microfost Academic citation: 0; Published year: 2006; Published venue: Application-Specific Systems, Architectures, and Processors.
+	30: Extensible communication architecture for grid nodes
+		Microfost Academic citation: 2; Published year: 2004; Published venue: International Conference on Information Technology: Coding and Computing.
+	31: FAST: near real-time data analytics for the cloud
+		Microfost Academic citation: 0; Published year: 2013; Published venue: Symposium on Cloud Computing.
+	32: Factors affecting scalability of multithreaded Java applications on manycore systems
+		Microfost Academic citation: 4; Published year: 2015; Published venue: International Symposium on Performance Analysis of Systems and Software.
+	33: Flexible mechanisms for performance enhancements of cluster networks
+		Microfost Academic citation: 2; Published year: 2004; Published venue: International Performance, Computing, and Communications Conference.
+	34: From Interconnection Network To Task Level Analysis.
+		Microfost Academic citation: 1; Published year: 1989; Published venue: International Conference on Parallel Processing.
+	35: High TPO/TCO for data storage: policy, algorithm and early practice
+		Microfost Academic citation: 1; Published year: 2007; Published venue: Frontiers of Computer Science in China.
+	36: HotR: Alleviating Read/Write Interference with Hot Read Data Replication for Flash Storage
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Design, Automation, and Test in Europe.
+	37: I/O response time in a fault-tolerant parallel virtual file system
+		Microfost Academic citation: 2; Published year: 2004; Published venue: Lecture Notes in Computer Science.
+	38: IDEAS: An Identity-based Security Architecture for Large-scale and High-performance Storage Systems
+		Microfost Academic citation: 0; Published year: 2008; Published venue: Null.
+	39: Identifying Latent Reduced Models to Precondition Lossy Compression
+		Microfost Academic citation: 1; Published year: 2019; Published venue: International Parallel and Distributed Processing Symposium.
+	40: Impact of priority-based ATM switch design on system performance
+		Microfost Academic citation: 0; Published year: 1993; Published venue: International Conference on Computing and Information.
+	41: Improving Reliability of Deduplication-Based Storage Systems with Per-File Parity
+		Microfost Academic citation: 1; Published year: 2018; Published venue: Symposium on Reliable Distributed Systems.
+	42: Improving data consistency management and overlay multicast in internet-scale distributed systems
+		Microfost Academic citation: 1; Published year: 2007; Published venue: Null.
+	43: JOPI: a Java object-passing interface: Research Articles
+		Microfost Academic citation: 1; Published year: 2005; Published venue: Concurrency and Computation: Practice and Experience.
+	44: LSM-tree managed storage for large-scale key-value store
+		Microfost Academic citation: 4; Published year: 2017; Published venue: Symposium on Cloud Computing.
+	45: Leveraging data deduplication to improve the performance of primary storage systems in the cloud
+		Microfost Academic citation: 0; Published year: 2013; Published venue: Symposium on Cloud Computing.
+	46: LiteTE: Lightweight, Communication-Efficient Distributed-Memory Triangle Enumerating
+		Microfost Academic citation: 2; Published year: 2019; Published venue: IEEE Access.
+	47: Load-aware Elastic Data Reduction and Re-computation for Adaptive Mesh Refinement
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Networking, Architecture and Storages.
+	48: MVAMIN: mean value analysis algorithms for multistage interconnection networks
+		Microfost Academic citation: 16; Published year: 1991; Published venue: Journal of Parallel and Distributed Computing.
+	49: PAPER Special Section on Hardware/Software Support for High Performance Scientific and Engineering Computing Configurable Communication Middleware for Clusters with Multiple Interconnections
+		Microfost Academic citation: 1; Published year: 2004; Published venue: Null.
+	50: PSLO: enforcing the X th percentile latency and throughput SLOs for consolidated VM storage
+		Microfost Academic citation: 17; Published year: 2016; Published venue: European Conference on Computer Systems.
+	51: PUSH THE BOTTLENECK OF STREAMING MEDIA SYSTEM FROM STREAMING MEDIA SERVER TO NETWORK
+		Microfost Academic citation: 4; Published year: 2005; Published venue: International Journal of Image and Graphics.
+	52: PandaSync: Network and Workload Aware Hybrid Cloud Sync Optimization
+		Microfost Academic citation: 0; Published year: 2019; Published venue: International Conference on Distributed Computing Systems.
+	53: Performance Analysis of Layered Task Graphs.
+		Microfost Academic citation: 4; Published year: 1991; Published venue: International Conference on Parallel Processing.
+	54: Pharmacy staffs’ willing to join in syndromic surveillance in rural China
+		Microfost Academic citation: 0; Published year: 2014; Published venue: International Journal of Infectious Diseases.
+	55: Proceedings of the international workshop on Storage network architecture and parallel I/Os
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Null.
+	56: Providing Quantitative Scalability Improvement of Consistency Control for Large-Scale, Replication-Based Grid Systems
+		Microfost Academic citation: 0; Published year: 2009; Published venue: Null.
+	57: ROS: A Rack-based Optical Storage System with Inline Accessibility for Long-Term Data Preservation
+		Microfost Academic citation: 15; Published year: 2018; Published venue: ACM Transactions on Storage.
+	58: Reconfigurable Optical Bus and Performance Optimization
+		Microfost Academic citation: 0; Published year: 1996; Published venue: Journal of Computer Science and Technology.
+	59: SES-Dedup: a Case for Low-Cost ECC-based SSD Deduplication
+		Microfost Academic citation: 0; Published year: 2019; Published venue: IEEE Conference on Mass Storage Systems and Technologies.
+	60: SHHC: A Scalable Hybrid Hash Cluster for Cloud Backup Services in Data Centers
+		Microfost Academic citation: 18; Published year: 2011; Published venue: International Conference on Distributed Computing Systems Workshops.
+	61: SPA-SSD: Exploit Heterogeneity and Parallelism of 3D SLC-TLC Hybrid SSD to Improve Write Performance
+		Microfost Academic citation: 0; Published year: 2019; Published venue: International Conference on Computer Design.
+	62: Scheduling many-body short range MD simulations on a cluster of workstations and custom VLSI hardware
+		Microfost Academic citation: 5; Published year: 2004; Published venue: Lecture Notes in Computer Science.
+	63: Solid-state disk memory partition method
+		Microfost Academic citation: 2; Published year: 2012; Published venue: Null.
+	64: Syndemic factors associated with sexual HIV risk behaviors among men who have sex with men in Guangzhou, China
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Journal of Infectious Diseases.
+	65: Tri-Message: A Lightweight Time Synchronization Protocol for High Latency and Resource-Constrained Networks
+		Microfost Academic citation: 16; Published year: 2009; Published venue: International Conference on Communications.
+	66: Understanding performance anomalies of SSDs and their impact in enterprise application environment
+		Microfost Academic citation: 4; Published year: 2012; Published venue: Measurement and Modeling of Computer Systems.
+	67: Using syndromic surveillance for early detection of hand-foot-mouth diseases epidemics
+		Microfost Academic citation: 0; Published year: 2014; Published venue: International Journal of Infectious Diseases.
+	68: Vm-aware thread scheduling framework: improving efficiency of java runtime environments
+		Microfost Academic citation: 1; Published year: 2008; Published venue: Null.
+	69: WITH IMPROVED COST-EFFECTIVENESS
+		Microfost Academic citation: 0; Published year: 1988; Published venue: Null.
+	70: 一般化RDP符号のための改良された復号化アルゴリズム【Powered by NICT】
+		Microfost Academic citation: 0; Published year: 2016; Published venue: IEEE Communications Letters.
+There are 30 Papers appear in Google Schoolar but not in MS Academic
+	1: A content aware scheduling system for network services in linux clusters
+		Google Scholar citation: 1; Published year: 2002; Published venue: Proceedings of the 6th International Conference/Exhibition on High ….
+	2: A distributed, multiagent infrastructure for real-time, virtual classrooms
+		Google Scholar citation: 34; Published year: 2003; Published venue: Proc. ICCE, 640-647.
+	3: A fault-tolerant real-time scheduling algorithm for precedence-constrained tasks in distributed heterogeneous systems
+		Google Scholar citation: 10; Published year: 2001; Published venue: Technical Report TR-UNL-CSE 2001–1003.
+	4: Accelerating Data Deduplication by Exploiting Pipelining and Parallelism with Multicore or Manycore Processors
+		Google Scholar citation: 15; Published year: None; Published venue: Null.
+	5: Adaptive load balancing for scientific applications on computational grids
+		Google Scholar citation: 2; Published year: 2006; Published venue: First International Workshop on Feedback Control Implementation and Design ….
+	6: Agent-Based Parallel Java for Heterogeneous Systems
+		Google Scholar citation: 1; Published year: 2002; Published venue: proc. 15th International Conference on Parallel and Distributed Computing ….
+	7: Agent-based parallel computing in java-proof of concept
+		Google Scholar citation: 7; Published year: 2001; Published venue: In.
+	8: An overview on MEMS-based storage, its research issues and open problems
+		Google Scholar citation: 3; Published year: 2004; Published venue: Proc. 2nd Int’l Workshop on Storage Network Architecture and Parallel I/Os.
+	9: Boosting Performance for I/O-Intensive Workload by Preemptive Job Migrations in a Cluster System
+		Google Scholar citation: 9; Published year: None; Published venue: Null.
+	10: CEFT-PVFS: A cost-effective, fault-tolerant parallel virtual file system
+		Google Scholar citation: 8; Published year: 2002; Published venue: Technical report TR02-10-03, University of Nebraska–Lincoln.
+	11: Content Sifting Storage: Achieving Fast Read for Large-scale Image Dataset Analysis
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	12: Content-aware trace collection and I/O deduplication for smartphones
+		Google Scholar citation: 4; Published year: 2017; Published venue: Proc. 33rd Int. Conf. Massive Storage Syst. Technol.(MSST), 1-8.
+	13: FGDEFRAG: A fine-grained defragmentation approach to improve restore performance
+		Google Scholar citation: 3; Published year: 2017; Published venue: Proc. 33th Symp. Mass Storage Syst. Technol., 1-10.
+	14: I-MINDS: A Multiagent System for Intelligent Computer-Supported Collaborative Learning and Classroom Management
+		Google Scholar citation: 59; Published year: 2008; Published venue: International Journal of Artificial Intelligence in Education 18 (2), 119-151.
+	15: I/O Performance of an RAID-НМ Style Parallel File System
+		Google Scholar citation: 2; Published year: 2004; Published venue: J. Comput. Sci. & Technol 19 (6).
+	16: IDF: an Inconsistency Detection Framework-Performance Modeling and Guide to Its Design
+		Google Scholar citation: 3; Published year: 2006; Published venue: CSE Technical reports, 73.
+	17: LOSC: efficient out-of-core graph processing with locality-optimized subgraph construction
+		Google Scholar citation: 0; Published year: 2019; Published venue: 2019 IEEE/ACM 27th International Symposium on Quality of Service (IWQoS), 1-10.
+	18: Novel force matrix transformations with optimal load-balance for 3-body potential based parallel molecular dynamics in a heterogeneous cluster environment
+		Google Scholar citation: 2; Published year: 2007; Published venue: Proc of the 21st ACM International Conference on Supercomputing. Seattle, WA ….
+	19: PSLO: enforcing the   percentile latency and throughput SLOs for consolidated VM storage
+		Google Scholar citation: 28; Published year: 2016; Published venue: Proceedings of the Eleventh European Conference on Computer Systems, 1-14.
+	20: Performance Evaluation of Parallel I/O in Cluster Environments
+		Google Scholar citation: 1; Published year: 2002; Published venue: Null.
+	21: Reliability-driven scheduling for real-time tasks with precedence constraints in heterogeneous systems
+		Google Scholar citation: 39; Published year: 2000; Published venue: In Proc. Of the 12 th International Conference Parallel and Distributed ….
+	22: SPECIAL SECTION ON MIDDLEWARE INFRASTRUCTURES-Middleware Infrastructure for Parallel and Distributed Programming Models in Heterogeneous Systems
+		Google Scholar citation: 0; Published year: 2003; Published venue: IEEE Transactions on Parallel and Distributed Systems 14 (11), 1100-1111.
+	23: Scheduling for improved write performance in a fault-tolerant parallel virtual file system
+		Google Scholar citation: 3; Published year: 2002; Published venue: Technical report TR02-10-05, University of Nebraska–Lincoln.
+	24: Sequential and parallel algorithms for partitioning tree task graphs on shared memory architecture
+		Google Scholar citation: 2; Published year: 1994; Published venue: 1994 International Conference on Parallel Processing Vol. 3 3, 266-269.
+	25: SmartStore: A new metadata organization paradigm with metadata semantic-awareness for next-generation file systems
+		Google Scholar citation: 17; Published year: 2008; Published venue: CSE Technical reports, 65.
+	26: SmartStore: a new metadata organization paradigm with semantic-awareness
+		Google Scholar citation: 5; Published year: 2009; Published venue: FAST Work-in-Progress Report and Poster Session.
+	27: Towards load balancing support for I/O-intensive parallel jobs in a cluster of workstations
+		Google Scholar citation: 24; Published year: 2003; Published venue: 2003 Proceedings IEEE International Conference on Cluster Computing.
+	28: Towards load balancing support for I/O-intensive parallel jobs in a cluster of workstations
+		Google Scholar citation: 24; Published year: 2003; Published venue: 2003 Proceedings IEEE International Conference on Cluster Computing.
+	29: Unix Network Programming: Networking APIs: Socket and XTI Unix Network Programming: Networking APIs: Socket and XTI 1, 1998
+		Google Scholar citation: 0; Published year: 2004; Published venue: IEICE transactions on information and systems 87 (7), 1657-1665.
+	30: Using multiagent intelligence to support synchronous and asynchronous learning
+		Google Scholar citation: 2; Published year: 2005; Published venue: Knowledge-Based Virtual Education, 168-173.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+AA-Dedupe: An Application-Aware Source Deduplication Approach for Cloud Backup Services in the Personal Computing Environment
+google scholar citation: 89, microsoft academic citation: 93
+------------------------------------------------------------
+A Black-Box Fork-Join Latency Prediction Model for Data-Intensive Applications
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Accelerating content-defined-chunking based data deduplication by exploiting parallelism
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Achieving page-mapping FTL performance at block-mapping FTL cost by hiding address translation
+google scholar citation: 58, microsoft academic citation: 59
+------------------------------------------------------------
+A communication-reduced and computation-balanced framework for fast graph computation
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+A comparative study of parallel and distributed Java projects for heterogeneous systems
+google scholar citation: 18, microsoft academic citation: 11
+------------------------------------------------------------
+A comprehensive study of the past, present, and future of data deduplication
+google scholar citation: 110, microsoft academic citation: 112
+------------------------------------------------------------
+A Comprehensive Study on RAID-6 Codes: Horizontal vs. Vertical
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+A computer-supported cooperative learning system with multiagent intelligence
+google scholar citation: 47, microsoft academic citation: 29
+------------------------------------------------------------
+Adaptive Consistency Guarantees for Large-Scale Replicated Services
+google scholar citation: 19, microsoft academic citation: 13
+------------------------------------------------------------
+Adaptive load-balancing for force-decomposition based 3-body molecular dynamics simulations in a heterogeneous distributed environment with variable number of processors
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Adaptive Load Balancing for Long-Range MD Simulations in A Distributed Environment
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+Adaptive partial-matching steganography for voice over IP using triple M sequences
+google scholar citation: 31, microsoft academic citation: 21
+------------------------------------------------------------
+A distributed shared object model based on a hierarchical consistency protocol for heterogeneous clusters
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+A dynamic and reliability-driven scheduling algorithm for parallel real-time jobs executing on heterogeneous clusters
+google scholar citation: 146, microsoft academic citation: 150
+------------------------------------------------------------
+A dynamic load balancing scheme for I/O-intensive applications in distributed systems
+google scholar citation: 40, microsoft academic citation: 29
+------------------------------------------------------------
+AE: An asymmetric extremum content defined chunking algorithm for fast and bandwidth-efficient data deduplication
+google scholar citation: 36, microsoft academic citation: 25
+------------------------------------------------------------
+A fast asymmetric extremum content defined chunking algorithm for data deduplication in backup storage systems
+google scholar citation: 29, microsoft academic citation: 17
+------------------------------------------------------------
+A Feedback control mechanism for balancing I/O-and memory-intensive applications on clusters
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Agent-based cooperative learning: a proof-of-concept experiment
+google scholar citation: 43, microsoft academic citation: 23
+------------------------------------------------------------
+A highly cost-effective task scheduling strategy for very large graph computation
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Allocation-phase aware thread scheduling policies to improve garbage collection performance
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+AMP: an affinity-based metadata prefetching scheme in large-scale distributed storage systems
+google scholar citation: 33, microsoft academic citation: 19
+------------------------------------------------------------
+An adaptive steganography scheme for voice over IP
+google scholar citation: 43, microsoft academic citation: 32
+------------------------------------------------------------
+An agent-based infrastructure for parallel Java on heterogeneous clusters
+google scholar citation: 36, microsoft academic citation: 33
+------------------------------------------------------------
+Analysis of directory based cache coherence schemes with multistage networks
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+An application-aware data replacement policy for interactive large-scale scientific visualization
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+An efficient fault-tolerant scheduling algorithm for real-time tasks with precedence constraints in heterogeneous systems
+google scholar citation: 123, microsoft academic citation: 126
+------------------------------------------------------------
+An efficient, low-cost inconsistency detection framework for data and service sharing in an Internet-scale system
+google scholar citation: 5, microsoft academic citation: 6
+------------------------------------------------------------
+An integrated pseudo-associativity and relaxed-order approach to hardware transactional memory
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+An M-sequence based steganography model for voice over IP
+google scholar citation: 54, microsoft academic citation: 56
+------------------------------------------------------------
+A novel fault-tolerant scheduling algorithm for precedence constrained tasks in real-time heterogeneous systems
+google scholar citation: 166, microsoft academic citation: 169
+------------------------------------------------------------
+A novel model for synthesizing parallel i/o workloads in scientific applications
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+A novel weighted-graph-based grouping algorithm for metadata prefetching
+google scholar citation: 27, microsoft academic citation: 24
+------------------------------------------------------------
+An Overview of Parallel and Distributed Java for Heterogeneous Systems: Approaches and Open Issues
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+ANTELOPE: A semantic-aware data cube scheme for cloud data center networks
+google scholar citation: 26, microsoft academic citation: 19
+------------------------------------------------------------
+A parallel algorithm for mapping a special class of task graphs onto linear array multiprocessors
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+A partial-multiple-bus computer structure with improved cost-effectiveness
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+Application-aware big data deduplication in cloud environment
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+Application-aware local-global source deduplication for cloud backup services of personal storage
+google scholar citation: 65, microsoft academic citation: 67
+------------------------------------------------------------
+A reconfigurable bus structure for multiprocessors with bandwidth reuse
+google scholar citation: 6, microsoft academic citation: 8
+------------------------------------------------------------
+A reconfigurable optical bus structure for shared memory multiprocessors with improved performance
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+A scalable inline cluster deduplication framework for big data protection
+google scholar citation: 63, microsoft academic citation: 64
+------------------------------------------------------------
+AS-GC: An efficient generational garbage collector for Java application servers
+google scholar citation: 19, microsoft academic citation: 11
+------------------------------------------------------------
+A symmetric transformation for 3-body potential molecular dynamics using force-decomposition in a heterogeneous distributed environment
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+A user-level socket layer over multiple physical network interfaces
+google scholar citation: 24, microsoft academic citation: 17
+------------------------------------------------------------
+{BCW}: Buffer-Controlled Writes to HDDs for SSD-HDD Hybrid Storage Server
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+BlitzG: Exploiting high-bandwidth networks for fast graph processing
+google scholar citation: 3, microsoft academic citation: 5
+------------------------------------------------------------
+CABdedupe: A Causality-based Deduplication Performance Booster for Cloud Backup Services
+google scholar citation: 67, microsoft academic citation: 70
+------------------------------------------------------------
+CEFT: A cost-effective, fault-tolerant parallel virtual file system
+google scholar citation: 26, microsoft academic citation: 12
+------------------------------------------------------------
+Characterizing and optimizing hotspot parallel garbage collection on multicore systems
+google scholar citation: 13, microsoft academic citation: 6
+------------------------------------------------------------
+CLU: Co-optimizing locality and utility in thread-aware capacity management for shared last level caches
+google scholar citation: 19, microsoft academic citation: 16
+------------------------------------------------------------
+Combining deduplication and delta compression to achieve low-overhead data reduction on backup datasets
+google scholar citation: 38, microsoft academic citation: 27
+------------------------------------------------------------
+Communication-aware load balancing for parallel applications on clusters
+google scholar citation: 43, microsoft academic citation: 24
+------------------------------------------------------------
+Comparison of mesh and hierarchical networks for multiprocessors
+google scholar citation: 20, microsoft academic citation: 15
+------------------------------------------------------------
+Computer-Supported structured cooperative learning
+google scholar citation: 13, microsoft academic citation: 10
+------------------------------------------------------------
+Configurable Communication Middleware for Clusters with Multiple Interconnections
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Contention-aware scheduler: unlocking execution parallelism in multithreaded java programs
+google scholar citation: 36, microsoft academic citation: 27
+------------------------------------------------------------
+DARE: A deduplication-aware resemblance detection and elimination scheme for data reduction with low overheads
+google scholar citation: 35, microsoft academic citation: 18
+------------------------------------------------------------
+DBA: A Dynamic Bloom Filter Array for Scalable Membership Representation of Variable Large Data Sets
+google scholar citation: 16, microsoft academic citation: 25
+------------------------------------------------------------
+Ddelta: A deduplication-inspired fast delta compression approach
+google scholar citation: 28, microsoft academic citation: 23
+------------------------------------------------------------
+DD-graph: a highly cost-effective distributed disk-based graph-processing framework
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+DEBAR: A scalable high-performance de-duplication storage system for backup and archiving
+google scholar citation: 105, microsoft academic citation: 108
+------------------------------------------------------------
+Deduplicating compressed contents in cloud storage environment
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Design and analysis of hierarchical ring networks for shared-memory multiprocessors
+google scholar citation: 19, microsoft academic citation: 12
+------------------------------------------------------------
+Design and evaluation of a new and effective fairness scheme for multicasting in Internet-scale distributed systems
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Design and simulations of a serial-link interconnection network for a massively parallel computer system
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Design, implementation and performance evaluation of a cost-effective, fault-tolerant parallel virtual file system
+google scholar citation: 32, microsoft academic citation: 19
+------------------------------------------------------------
+Detecting Duplicates over Sliding Windows with RAM-Efficient Detached Counting Bloom Filter Arrays
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+Digital logic based encoding strategies for steganography on voice-over-IP
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+Distributed systems middleware architecture from a software engineering perspective
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+Dream-(l) g: A distributed grouping-based algorithm for resource assignment for bandwidth-intensive applications in the cloud
+google scholar citation: 12, microsoft academic citation: 6
+------------------------------------------------------------
+Dynamic and public auditing with fair arbitration for cloud data
+google scholar citation: 36, microsoft academic citation: 19
+------------------------------------------------------------
+Dynamic-hash-table based public auditing for secure cloud storage
+google scholar citation: 115, microsoft academic citation: 111
+------------------------------------------------------------
+Dynamic load balancing for I/O-and memory-intensive workload in clusters using a feedback control mechanism
+google scholar citation: 28, microsoft academic citation: 22
+------------------------------------------------------------
+Dynamic load balancing for I/O-intensive applications on clusters
+google scholar citation: 37, microsoft academic citation: 26
+------------------------------------------------------------
+Dynamic load balancing for I/O-intensive tasks on heterogeneous clusters
+google scholar citation: 47, microsoft academic citation: 27
+------------------------------------------------------------
+Dynamic, reliability-driven scheduling of parallel real-time jobs in heterogeneous systems
+google scholar citation: 96, microsoft academic citation: 98
+------------------------------------------------------------
+EDC: Improving the performance and space efficiency of flash-based storage systems with elastic data compression
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Edelta: a word-enlarging based fast delta compression approach
+google scholar citation: 6, microsoft academic citation: 1
+------------------------------------------------------------
+Efficiently representing membershipfor variable large data sets
+google scholar citation: 17, microsoft academic citation: 10
+------------------------------------------------------------
+Efficient Update Control of Bloom Filter Replicas in Large Scale Distributed Systems
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Elastic data compression with improved performance and space efficiency for flash-based storage systems
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Elastic-RAID: A New Architecture for Improved Availability of Parity-Based RAIDs by Elastic Mirroring
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Energy-efficient I/O thread schedulers for NVMe SSDs on NUMA
+google scholar citation: 7, microsoft academic citation: 2
+------------------------------------------------------------
+Exploiting content locality to improve the performance and reliability of phase change memory
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Exploiting FIFO Scheduler to Improve Parallel Garbage Collection Performance
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Exploiting redundancy to boost performance in a RAID-10 style cluster-based file system
+google scholar citation: 9, microsoft academic citation: 4
+------------------------------------------------------------
+Exploiting set-level non-uniformity of capacity demand to enhance CMP cooperative caching
+google scholar citation: 14, microsoft academic citation: 10
+------------------------------------------------------------
+Exploiting the advantages of object-based DSM in a heterogeneous cluster environment
+google scholar citation: 3, microsoft academic citation: 4
+------------------------------------------------------------
+Exploiting workload characteristics and service diversity to improve the availability of cloud storage systems
+google scholar citation: 16, microsoft academic citation: 12
+------------------------------------------------------------
+Exploring and exploiting the multilevel parallelism inside SSDs for improved performance and endurance
+google scholar citation: 106, microsoft academic citation: 109
+------------------------------------------------------------
+False rate analysis of Bloom filter replicas in distributed systems
+google scholar citation: 19, microsoft academic citation: 17
+------------------------------------------------------------
+Farmer: a novel approach to file access correlation mining and evaluation reference model for optimizing peta-scale file system performance
+google scholar citation: 53, microsoft academic citation: 58
+------------------------------------------------------------
+Fastcdc: a fast and efficient content-defined chunking approach for data deduplication
+google scholar citation: 32, microsoft academic citation: 20
+------------------------------------------------------------
+FAST: Near real-time searchable data analytics for the cloud
+google scholar citation: 28, microsoft academic citation: 15
+------------------------------------------------------------
+Fast transaction logging for smartphones
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+FFS-VA: A fast filtering system for large-scale video analytics
+google scholar citation: 4, microsoft academic citation: 5
+------------------------------------------------------------
+Finesse: Fine-grained feature locality based fast resemblance detection for post-deduplication delta compression
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Forktail: a black-box fork-join tail latency prediction model for user-facing datacenter workloads
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Fortune teller: improving garbage collection performance in server environment using live objects prediction
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Full integrity and freshness for cloud data
+google scholar citation: 19, microsoft academic citation: 11
+------------------------------------------------------------
+Full integrity and freshness for outsourced storage
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Garbage collection: Java application servers' Achilles heel
+google scholar citation: 22, microsoft academic citation: 17
+------------------------------------------------------------
+GCaR: Garbage collection aware cache management with improved performance for flash-based SSDs
+google scholar citation: 31, microsoft academic citation: 20
+------------------------------------------------------------
+GC-ARM: Garbage collection-aware RAM management for flash based solid state drives
+google scholar citation: 12, microsoft academic citation: 9
+------------------------------------------------------------
+GC-aware request steering with improved performance and reliability for SSD-based RAIDs
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+GRAID: A green RAID storage architecture with improved energy efficiency and reliability
+google scholar citation: 47, microsoft academic citation: 29
+------------------------------------------------------------
+Greengear: Leveraging and managing server heterogeneity for improving energy efficiency in green data centers
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+Greensprint: Effective computational sprinting in green data centers
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Hba: Distributed metadata management for large cluster-based storage systems
+google scholar citation: 104, microsoft academic citation: 107
+------------------------------------------------------------
+Hierarchical bloom filter arrays (hba): a novel, scalable metadata management system for large cluster-based storage
+google scholar citation: 59, microsoft academic citation: 62
+------------------------------------------------------------
+Hierarchical ring network configuration and performance modeling
+google scholar citation: 35, microsoft academic citation: 20
+------------------------------------------------------------
+High-performance message striping over reliable transport protocols
+google scholar citation: 15, microsoft academic citation: 9
+------------------------------------------------------------
+HPDA: A hybrid parity-based disk array for enhanced performance and reliability
+google scholar citation: 118, microsoft academic citation: 122
+------------------------------------------------------------
+HUS-graph: I/O-efficient out-of-core graph processing with hybrid update strategy
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+IDEA: An infrastructure for detection-based adaptive consistency control in replicated services
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+Identification and authentication in large-scale storage systems
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+{IDO}: Intelligent Data Outsourcing with Improved {RAID} Reconstruction Performance in Large-Scale Data Centers
+google scholar citation: 12, microsoft academic citation: 11
+------------------------------------------------------------
+I-MINDS: an agent-oriented information system for applications in education
+google scholar citation: 20, microsoft academic citation: 10
+------------------------------------------------------------
+I-MINDS: an application of multiagent system intelligence to on-line education
+google scholar citation: 30, microsoft academic citation: 19
+------------------------------------------------------------
+Implementation and evaluation of a popularity-based reconstruction optimization algorithm in availability-oriented disk arrays
+google scholar citation: 18, microsoft academic citation: 11
+------------------------------------------------------------
+Implementing and evaluating security controls for an object-based storage system
+google scholar citation: 25, microsoft academic citation: 16
+------------------------------------------------------------
+Improved read performance in a cost-effective, fault-tolerant parallel virtual file system (ceft-pvfs)
+google scholar citation: 38, microsoft academic citation: 25
+------------------------------------------------------------
+Improving availability of raid-structured storage systems by workload outsourcing
+google scholar citation: 23, microsoft academic citation: 20
+------------------------------------------------------------
+Improving effective bandwidth of networks on clusters using load balancing for communication-intensive applications
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+Improving Flash Memory Performance and Reliability for Smartphones With I/O Deduplication
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Improving hybrid FTL by fully exploiting internal SSD parallelism with virtual blocks
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+Improving performance for flash-based storage systems through GC-aware cache management
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+Improving restore performance in deduplication-based backup systems via a fine-grained defragmentation approach
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Improving storage availability in cloud-of-clouds with hybrid redundant data distribution
+google scholar citation: 34, microsoft academic citation: 20
+------------------------------------------------------------
+Improving the performance of I/O-intensive applications on clusters of workstations
+google scholar citation: 19, microsoft academic citation: 15
+------------------------------------------------------------
+Intelligent Multi-Agent Cooperative Learning System
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Investigating throughput degradation behavior of Java application servers: a view from inside a virtual machine
+google scholar citation: 18, microsoft academic citation: 14
+------------------------------------------------------------
+IOFollow: Improving the performance of VM live storage migration with IO following in the cloud
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+I/O performance of an RAID-10 style parallel file system
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+I/O response time in a fault-tolerant parallel virtual file system
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+IPSO: A Scaling Model for Data-Intensive Applications
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+JOR: A journal-guided reconstruction optimization for RAID-structured storage systems
+google scholar citation: 21, microsoft academic citation: 18
+------------------------------------------------------------
+LCC-Graph: A high-performance graph-processing framework with low communication costs
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+LDM: Log disk mirroring with improved performance and reliability for SSD-based disk arrays
+google scholar citation: 19, microsoft academic citation: 16
+------------------------------------------------------------
+Lessons Learned from Comprehensive Deployments of Multiagent CSCL Applications I-MINDS and ClassroomWiki
+google scholar citation: 18, microsoft academic citation: 12
+------------------------------------------------------------
+Leveraging data deduplication to improve the performance of primary storage systems in the cloud
+google scholar citation: 28, microsoft academic citation: 0
+------------------------------------------------------------
+Locality & utility co-optimization for practical capacity management of shared last level caches
+google scholar citation: 21, microsoft academic citation: 16
+------------------------------------------------------------
+Lowest density MDS array codes of distance 3
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+LSM-tree managed storage for large-scale key-value store
+google scholar citation: 14, microsoft academic citation: 4
+------------------------------------------------------------
+Mad2: A scalable high-throughput exact deduplication approach for network backup services
+google scholar citation: 119, microsoft academic citation: 125
+------------------------------------------------------------
+Meeting service level agreement cost-effectively for video-on-demand applications in the cloud
+google scholar citation: 32, microsoft academic citation: 24
+------------------------------------------------------------
+Microphase: an approach to proactively invoking garbage collection for improved performance
+google scholar citation: 27, microsoft academic citation: 19
+------------------------------------------------------------
+Middleware infrastructure for parallel and distributed programming models in heterogeneous systems
+google scholar citation: 81, microsoft academic citation: 84
+------------------------------------------------------------
+Modeling a class of priority-based ATM communication switch designs
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Modeling parallel applications performance on heterogeneous systems
+google scholar citation: 46, microsoft academic citation: 29
+------------------------------------------------------------
+Multiagent coalition formation for computer-supported cooperative learning
+google scholar citation: 29, microsoft academic citation: 23
+------------------------------------------------------------
+Nexus: A Novel Weighted-Graph-Based Prefetching Algorithm for Metadata Servers in Petabyte-Scale Storage Systems
+google scholar citation: 31, microsoft academic citation: 22
+------------------------------------------------------------
+Novel force matrix transformations with optimal load-balance for 3-body potential based parallel molecular dynamics in a heterogeneous cluster environment
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+On some architectural issues of optical hierarchical ring networks for shared-memory multiprocessors
+google scholar citation: 7, microsoft academic citation: 6
+------------------------------------------------------------
+P3: Priority based proactive prediction for soon-to-fail disks
+google scholar citation: 11, microsoft academic citation: 4
+------------------------------------------------------------
+P-Code: a new RAID-6 code with optimal properties
+google scholar citation: 110, microsoft academic citation: 114
+------------------------------------------------------------
+P-dedupe: Exploiting parallelism in data deduplication system
+google scholar citation: 42, microsoft academic citation: 31
+------------------------------------------------------------
+Performance and cost effectiveness of a cluster of workstations and MD-GRAPE 2 for MD simulations
+google scholar citation: 18, microsoft academic citation: 8
+------------------------------------------------------------
+Performance properties of combined heterogeneous networks
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+PFP: Improving the Reliability of Deduplication-based Storage Systems with Per-File Parity
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+Pigeon: an Effective Distributed, Hierarchical Datacenter Job Scheduler
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+POD: Performance oriented I/O deduplication for primary storage systems in the cloud
+google scholar citation: 40, microsoft academic citation: 28
+------------------------------------------------------------
+PPMB: a partial-multiple-bus multiprocessor architecture with improved cost-effectiveness
+google scholar citation: 16, microsoft academic citation: 13
+------------------------------------------------------------
+Proactive data migration for improved storage availability in large-scale data centers
+google scholar citation: 21, microsoft academic citation: 20
+------------------------------------------------------------
+PRO: A popularity-based multi-threaded reconstruction optimization for RAID-structured storage systems
+google scholar citation: 127, microsoft academic citation: 131
+------------------------------------------------------------
+Propeller: A scalable real-time file-search service in distributed systems
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+Providing flexible file-level data filtering for big data analytics
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Public auditing for shared cloud data with efficient and secure group management
+google scholar citation: 19, microsoft academic citation: 14
+------------------------------------------------------------
+Public auditing for trusted cloud storage services
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+PUD-LRU: An Erase-Efficient Write Buffer Management Algorithm for Flash Memory SSD
+google scholar citation: 62, microsoft academic citation: 65
+------------------------------------------------------------
+qNVRAM: quasi Non-Volatile {RAM} for Low Overhead Persistency Enforcement in Smartphones
+google scholar citation: 26, microsoft academic citation: 20
+------------------------------------------------------------
+Race: A robust adaptive caching strategy for buffer cache
+google scholar citation: 38, microsoft academic citation: 22
+------------------------------------------------------------
+RAID6L: A log-assisted RAID6 storage architecture with improved write performance
+google scholar citation: 27, microsoft academic citation: 21
+------------------------------------------------------------
+RB-Explorer: An Accurate and Practical Approach to Write Amplification Measurement for SSDs
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+RBF: a new storage structure for space-efficient queries for multidimensional metadata in OSS
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Read-performance optimization for deduplication-based storage systems in the cloud
+google scholar citation: 56, microsoft academic citation: 58
+------------------------------------------------------------
+Real-time semantic search using approximate methodology for large-scale storage systems
+google scholar citation: 9, microsoft academic citation: 5
+------------------------------------------------------------
+RoLo: A Rotated Logging Storage Architecture for Enterprise Data Centers
+google scholar citation: 14, microsoft academic citation: 12
+------------------------------------------------------------
+Rotated logging storage architectures for data centers: Models and optimizations
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+SAFE: a source deduplication framework for efficient cloud backup services
+google scholar citation: 9, microsoft academic citation: 8
+------------------------------------------------------------
+SAM: A Semantic-Aware Multi-tiered Source De-duplication Framework for Cloud Backup
+google scholar citation: 93, microsoft academic citation: 96
+------------------------------------------------------------
+SANE: Semantic-aware namespacein ultra-large-scale file systems
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+SAR: SSD assisted restore optimization for deduplication-based storage systems in the cloud
+google scholar citation: 39, microsoft academic citation: 28
+------------------------------------------------------------
+Scalable and adaptive metadata management in ultra large-scale file systems
+google scholar citation: 59, microsoft academic citation: 61
+------------------------------------------------------------
+Scalable bulk data transfer in wide area networks
+google scholar citation: 15, microsoft academic citation: 12
+------------------------------------------------------------
+SDC: a software defined cache for efficient data indexing
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Semantic-Aware Metadata Organization Paradigm in Next-Generation File Systems
+google scholar citation: 37, microsoft academic citation: 24
+------------------------------------------------------------
+Service oriented garbage collection: improving performance and robustness of application servers
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+SifrDB: A unified solution for write-optimized key-value stores in large datacenter
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+SiLo: a similarity-locality based near-exact deduplication scheme with low RAM overhead and high throughput
+google scholar citation: 199, microsoft academic citation: 202
+------------------------------------------------------------
+Similarity and locality based indexing for high performance data deduplication
+google scholar citation: 35, microsoft academic citation: 30
+------------------------------------------------------------
+Smartstealing: Analysis and optimization of work stealing in parallel garbage collection for Java VM
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+Smartstore: a new metadata organization paradigm with semantic-awareness for next-generation file systems
+google scholar citation: 76, microsoft academic citation: 80
+------------------------------------------------------------
+Snapmig: Accelerating vm live storage migration by leveraging the existing vm snapshots in the cloud
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+Statistics and analysis tools for a computer-supported collaborative learning system
+google scholar citation: 7, microsoft academic citation: 2
+------------------------------------------------------------
+STEM: Spatiotemporal management of capacity for intra-core last level caches
+google scholar citation: 29, microsoft academic citation: 25
+------------------------------------------------------------
+Storage Sharing Optimization Under Constraints of SLO Compliance and Performance Variability
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Supporting scalable and adaptive metadata management in ultralarge-scale file systems
+google scholar citation: 46, microsoft academic citation: 27
+------------------------------------------------------------
+Suv: A novel single-update version-management scheme for hardware transactional memory systems
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+The role of partitioning in Time Warp simulation
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+The tail at scale: how to predict it?
+google scholar citation: 13, microsoft academic citation: 8
+------------------------------------------------------------
+The Weighted Integrity Problem is Polynomial for Interval Graphs
+google scholar citation: 11, microsoft academic citation: 5
+------------------------------------------------------------
+Towards hybrid programming in big data
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Transparency-Orientated Encoding Strategies for Voice-over-IP Steganography
+google scholar citation: 18, microsoft academic citation: 15
+------------------------------------------------------------
+TRIP: Temporal Redundancy Integrated Performance Booster for Parity-Based RAID Storage Systems
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Underprovisioning the grid power infrastructure for green datacenters
+google scholar citation: 13, microsoft academic citation: 8
+------------------------------------------------------------
+Using high-bandwidth networks efficiently for fast graph computation
+google scholar citation: 17, microsoft academic citation: 12
+------------------------------------------------------------
+VSFS: A searchable distributed file system
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+VSFS: A versatile searchable file system for HPC analytics
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+WAIO: Improving virtual machine live storage migration for the cloud by workload-aware IO outsourcing
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Workout: I/O workload outsourcing for boosting RAID reconstruction performance
+google scholar citation: 110, microsoft academic citation: 113
+------------------------------------------------------------
+Xi-code: A family of practical lowest density mds array codes of distance 4
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+Z-Dedup: A case for deduplicating compressed contents in cloud
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------

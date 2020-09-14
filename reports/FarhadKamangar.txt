@@ -1,0 +1,208 @@
+There are 90 papers in Google Scholar and 73 papers in Microsoft Academic
+Total citations from Google Scholar is 1203, Microsoft Academic is 757
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 12 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: A Multimedia Application using Mobile Agents for Establishing and Managing Streaming Audio Communications.
+		Microfost Academic citation: 0; Published year: 2001; Published venue: International Conference on Internet Computing.
+	2: A framework for the optimization of self-organized distributed autonomous agents on a dynamic network of heterogeneous intelligent sensors and actuators
+		Microfost Academic citation: 0; Published year: 2004; Published venue: A framework for the optimization of self-organized distributed autonomous agents on a dynamic network of heterogeneous intelligent sensors and actuators.
+	3: Adaptive coding of NTSC component video signals
+		Microfost Academic citation: 2; Published year: 1980; Published venue: ntc.
+	4: Artificial neural network based snore detector
+		Microfost Academic citation: 0; Published year: 1994; Published venue: Null.
+	5: Design of a Wearable Computing Environment for Distance Education in TeleCampus.
+		Microfost Academic citation: 0; Published year: 2001; Published venue: International Conference on Internet Computing.
+	6: Forecasting of time series data using naturally selected bayesian networks
+		Microfost Academic citation: 2; Published year: 2000; Published venue: Null.
+	7: Image Segmentation using Sparse Subset Selection
+		Microfost Academic citation: 3; Published year: 2018; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	8: Interoperability issues for a secure mobile agent platform
+		Microfost Academic citation: 0; Published year: 2003; Published venue: Parallel and Distributed Processing Techniques and Applications.
+	9: Mixtures of probabilistic PCA with missing data
+		Microfost Academic citation: 0; Published year: 2010; Published venue: International Conference on Artificial Intelligence.
+	10: Multi-Level Representation Learning for Deep Subspace Clustering
+		Microfost Academic citation: 3; Published year: 2020; Published venue: Workshop on Applications of Computer Vision.
+	11: Stereo Correspondence Using Geometric Feature-Based Relational Matching
+		Microfost Academic citation: 0; Published year: 1998; Published venue: Computer Vision and Pattern Recognition.
+	12: Stereo correspondence using geometric relational matching
+		Microfost Academic citation: 2; Published year: 1998; Published venue: Visual Communications and Image Processing.
+There are 29 Papers appear in Google Schoolar but not in MS Academic
+	1: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+		Google Scholar citation: 81; Published year: 2016; Published venue: IEEE.
+	2: A Two Tiered Cognitive Model for the Forecasting of Time Series Data
+		Google Scholar citation: 1; Published year: 2000; Published venue: 2nd International Symposium on Neural Computation.
+	3: A genetic algorithm based approach for discovering temporal trends using Bayesian networks
+		Google Scholar citation: 3; Published year: 1999; Published venue: 19th International Symposium on Forecasting, International Institute of ….
+	4: Analysis of the Hurst Exponent for M2M Applications
+		Google Scholar citation: 0; Published year: None; Published venue: Editorial Committees, 112.
+	5: Anticipating the future of telematics
+		Google Scholar citation: 7; Published year: 2004; Published venue: IEEE International Conference on Networking, Sensing and Control, 2004 2 ….
+	6: Binarizing Neural Networks by Regularizing Moments
+		Google Scholar citation: 0; Published year: 2017; Published venue: Proceedings on the International Conference on Artificial Intelligence (ICAI ….
+	7: Computer Vision and Pattern Recognition (CVPR), 2011 IEEE Conference on
+		Google Scholar citation: 4; Published year: 2011; Published venue: Null.
+	8: Computer vision and pattern recognition (CVPR)
+		Google Scholar citation: 37; Published year: 2009; Published venue: 2009 IEEE Conference On. Miami, FL: IEEE, 1794-1801.
+	9: Control of lnduced paralysis using recurrent backpropagation neutral network
+		Google Scholar citation: 1; Published year: 1993; Published venue: Proceedings of the 15th Annual International Conference of the IEEE ….
+	10: Efficient implementation of connectionist models on MIMD parallel processors using chordal ring topologies
+		Google Scholar citation: 3; Published year: 1989; Published venue: International 1989 Joint Conference on Neural Networks, 588 vol. 2.
+	11: Efficient sparse representation classification using adaptive clustering
+		Google Scholar citation: 7; Published year: 2013; Published venue: Proceedings of the International Conference on Image Processing, Computer ….
+	12: Fast algorithms for the 2-D discrete cosine transform
+		Google Scholar citation: 114; Published year: 1982; Published venue: IEEE Transactions on Computers, 899-906.
+	13: Fundamentals of insect physiology Fundamentals of insect physiology, 1985
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	14: Implementing the back-propagation algorithm on the Meiko Parallel Computing Surface
+		Google Scholar citation: 9; Published year: 1989; Published venue: Proceedings of the International Conference on the Applications of ….
+	15: Instrumentation, Modelling, and Analysis of Dynamic, Distributed Real-time Systems
+		Google Scholar citation: 9; Published year: 1999; Published venue: International Journal of Parallel and Distributed Systems and Networks 2 ….
+	16: Interfield hybrid coding of NTSC component video signals.
+		Google Scholar citation: 0; Published year: 1981; Published venue: Null.
+	17: Interfield hybrid coding of component color television signals
+		Google Scholar citation: 32; Published year: 1981; Published venue: IEEE Transactions on Communications 29 (12), 1740-1753.
+	18: Introduction to neural and cognitive modeling Introduction to neural and cognitive modeling, 1991
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	19: Location and tracking system, method and device using wireless technology
+		Google Scholar citation: 18; Published year: 2012; Published venue: US Patent 8,179,253.
+	20: Missing Labels in Object Detection.
+		Google Scholar citation: 3; Published year: 2019; Published venue: CVPR Workshops.
+	21: Performance analysis of image motion analysis algorithms Performance analysis of image motion analysis algorithms, 1991
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	22: Photoreception and vision in invertebrates Photoreception and vision in invertebrates, 1984
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	23: Policing Encrypted Data Using Mobile Agents
+		Google Scholar citation: 0; Published year: 2001; Published venue: University of Texas at Arlington.
+	24: Recognition of handwritten numerals using a multilayer neural network
+		Google Scholar citation: 8; Published year: 1988; Published venue: Proc. US Postal Service Advanced Technology Conf. 3, 768-781.
+	25: Reliability analysis of CSP specifications-A new method using Petri nets
+		Google Scholar citation: 11; Published year: 1995; Published venue: 10th Computing in Aerospace Conference, 996.
+	26: Technology to Help Patients Adhere to Treatment Plans-A Brief Introduction to the Teleherence Project
+		Google Scholar citation: 2; Published year: 2008; Published venue: Proceedings of the Biotechnology and Bioinformatics Symposium (BIOT-2008 ….
+	27: The image processing handbook The image processing handbook, 1992
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	28: Understanding internal representations and generalization properties in backpropagation networks
+		Google Scholar citation: 1; Published year: 1989; Published venue: International 1989 Joint Conference on Neural Networks, 626 vol. 2.
+	29: Vibration Reduction and Control for Traffic Cameras: Electrical Device User Manual
+		Google Scholar citation: 0; Published year: 2008; Published venue: University of Texas at Arlington, Department of Civil and Environmental ….
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Absolute Percent Error Based Fitness Functions for Evolving Forecast Models.
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+Advancing M2M communications management: A cloud-based system for cellular traffic analysis
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+A local curvature operator
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+A multi-feature classification approach to detect sleep apnea in an ultrasonic upper airway occlusion detector system
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+A multi-modal sparse coding classifier using dictionaries with different number of atoms
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+An artificial neural network-based controller for the control of induced paralysis using vecuronium bromide
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+An artificial neural network based snore detector
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+A neural network for pursuit tracking inspired by the fly visual system
+google scholar citation: 26, microsoft academic citation: 20
+------------------------------------------------------------
+Arsenic (III) biosorption from aqueous solution using holly, sallow and poplar sawdust: kinetics and equilibrium studies.
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A system for large vocabulary sign search
+google scholar citation: 43, microsoft academic citation: 56
+------------------------------------------------------------
+Class Subset Selection for Partial Domain Adaptation.
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Cluster-based multi-task sparse representation for efficient face recognition
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Computer image analysis of ultrasound biomicroscopy of primate accommodation
+google scholar citation: 33, microsoft academic citation: 19
+------------------------------------------------------------
+CONNECT: a personal remote messaging and monitoring system to aid people with disabilities
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+Distributed Network Monitoring Using Mobile Agents Paradigm.
+google scholar citation: 4, microsoft academic citation: 0
+------------------------------------------------------------
+Geometric feature-based matching in stereo images
+google scholar citation: 29, microsoft academic citation: 11
+------------------------------------------------------------
+Heterogeneous image feature integration via multi-modal spectral clustering
+google scholar citation: 191, microsoft academic citation: 193
+------------------------------------------------------------
+Image Registration Required for MagneticResonance Imaging Experimentsof Accommodation
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Image segmentation using sparse subset selection
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Indoor location tracking using RSSI readings from a single Wi-Fi access point
+google scholar citation: 204, microsoft academic citation: 208
+------------------------------------------------------------
+Inferencing Bayesian Networks from Time Series Data Using Natural Selection.
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Laplacian and orthogonal wavelet pyramid decompositions in coarse-to-fine registration
+google scholar citation: 41, microsoft academic citation: 27
+------------------------------------------------------------
+Location and tracking system using wireless technology
+google scholar citation: 87, microsoft academic citation: 90
+------------------------------------------------------------
+Maximum margin multi-instance learning
+google scholar citation: 28, microsoft academic citation: 23
+------------------------------------------------------------
+Mechanism of accommodation assessed by change in precisely registered ocular images associated with concurrent change in auto-refraction
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Mobile Agents for Pervasive Computing Using a Novel Method of Message Passing.
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Multimodal sparse representation classification with fisher discriminative sample reduction
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Non-smooth Optimization over Stiefel Manifolds with Applications to Dimensionality Reduction and Graph Clustering.
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Novel explanation for the shape of the lenticular galaxy bulge and its implication for red spiral galaxy evolution
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Pharyngeal wall vibration detection using an artificial neural network
+google scholar citation: 4, microsoft academic citation: 6
+------------------------------------------------------------
+Planar Curve Representation and Matching.
+google scholar citation: 13, microsoft academic citation: 8
+------------------------------------------------------------
+Proper evaluation of accommodating IOLs
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Registration and matching using orthogonal wavelets
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Reliability-based local features aggregation for image segmentation
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Sclera does not change its shape during accommodation
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Software licensing using mobile agents
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+System and Method for Service Management
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+The role of dictionary learning on sparse representation-based classification
+google scholar citation: 10, microsoft academic citation: 8
+------------------------------------------------------------
+Use of RSSI and time-of-flight wireless signal characteristics for location tracking
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------

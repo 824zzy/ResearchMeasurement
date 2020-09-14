@@ -1,0 +1,867 @@
+There are 160 papers in Google Scholar and 269 papers in Microsoft Academic
+Total citations from Google Scholar is 7308, Microsoft Academic is 10,102
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 269 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: 2010 3rd IEEE International Conference on Ubi-Media Computing, U-Media 2010: Messages from the conference committee
+		Microfost Academic citation: 0; Published year: 2010; Published venue: IEEE International Conference on Ubi-Media Computing.
+	2: A Comparison of Task-Duplication-Based Algorithms for Scheduling Parallel Programs to Message-Passing Systems
+		Microfost Academic citation: 6; Published year: 1997; Published venue: Null.
+	3: A Cooperative Game Theoretical Technique for Joint Optimization of Energy Consumption and Response Time in Computational Grids
+		Microfost Academic citation: 232; Published year: 2009; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	4: A Data-Parallel Approach for Real-Time MPEG-2 Video Encoding
+		Microfost Academic citation: 75; Published year: 1995; Published venue: Journal of Parallel and Distributed Computing.
+	5: A Framework for Expansion Planning of Data Centers in Electricity and Data Networks Under Uncertainty
+		Microfost Academic citation: 13; Published year: 2019; Published venue: IEEE Transactions on Smart Grid.
+	6: A Graphical Tool for Automatic Parallelization and Scheduling of Programs on Multiprocessors
+		Microfost Academic citation: 3; Published year: 1997; Published venue: European Conference on Parallel Processing.
+	7: A Multi-Layer Approach to Superpixel-based Higher-order Conditional Random Field for Semantic Image Segmentation
+		Microfost Academic citation: 0; Published year: 2018; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	8: A New Approach to Scheduling Parallel Programs Using Task Duplication
+		Microfost Academic citation: 172; Published year: 1994; Published venue: International Conference on Parallel Processing.
+	9: A PD Feed-back Rate Control Algorithm for Multiple Video Object Coding
+		Microfost Academic citation: 1; Published year: 2007; Published venue: International Symposium on Circuits and Systems.
+	10: A Parallel Genetic-Search-Based Algorithm for Scheduling Arbitrary Task Graphs to Multiprocessors
+		Microfost Academic citation: 4; Published year: 1997; Published venue: Null.
+	11: A Portable and Scalable MPEG-2 Video Encoder on Parallel and Distributed Computing Systems.
+		Microfost Academic citation: 1; Published year: 1996; Published venue: Proc SPIE.
+	12: A Pure Nash Equilibrium-Based Game Theoretical Method for Data Replication across Multiple Servers
+		Microfost Academic citation: 66; Published year: 2009; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	13: A Semi-Distributed Axiomatic Game Theoretical Mechanism for Replicating Data Objects in Large Distributed Computing Systems
+		Microfost Academic citation: 6; Published year: 2007; Published venue: International Parallel and Distributed Processing Symposium.
+	14: A Static Scheduling Algorithm Using Dynamic Critical Path for Assigning Parallel Algorithms onto Multiprocessors
+		Microfost Academic citation: 17; Published year: 1994; Published venue: International Conference on Parallel Processing.
+	15: A Two Layer Pairwise Framework to Approximate Superpixel-Based Higher-Order Conditional Random Field for Semantic Segmentation
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Conference on Multimedia and Expo.
+	16: A comparative analysis of parallel computing approaches for genome assembly
+		Microfost Academic citation: 4; Published year: 2011; Published venue: Interdisciplinary Sciences: Computational Life Sciences.
+	17: A comparison of evolutionary techniques for task-to-core scheduling algorithms with performance, energy, and temperature optimization
+		Microfost Academic citation: 1; Published year: 2016; Published venue: International Green and Sustainable Computing Conference.
+	18: A cooperative game theoretical replica placement technique
+		Microfost Academic citation: 9; Published year: 2007; Published venue: International Conference on Parallel and Distributed Systems.
+	19: A data allocation algorithm for distributed hypermedia documents
+		Microfost Academic citation: 3; Published year: 1998; Published venue: Symposium on Reliable Distributed Systems.
+	20: A decentralized task scheduling algorithm and its performance modeling for computer networks
+		Microfost Academic citation: 4; Published year: 1991; Published venue: International Parallel and Distributed Processing Symposium.
+	21: A differentiated services architecture for multimedia streaming in next generation Internet
+		Microfost Academic citation: 33; Published year: 2000; Published venue: Computer Networks.
+	22: A fast adaptive motion estimation algorithm
+		Microfost Academic citation: 159; Published year: 2006; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	23: A game theoretical data replication technique for mobile ad hoc networks
+		Microfost Academic citation: 11; Published year: 2008; Published venue: International Parallel and Distributed Processing Symposium.
+	24: A game theoretical extended vickery auction mechanism for replicating data in large-scale distributed computing systems
+		Microfost Academic citation: 5; Published year: 2005; Published venue: Parallel and Distributed Processing Techniques and Applications.
+	25: A massively parallel fault-tolerant architecture for time-critical computing
+		Microfost Academic citation: 4; Published year: 1995; Published venue: The Journal of Supercomputing.
+	26: A matrix-analytic solution for the DBMAP/PH/1 priority queue
+		Microfost Academic citation: 28; Published year: 2006; Published venue: Queueing Systems.
+	27: A multi-staged niched evolutionary approach for allocating parallel tasks with joint optimization of performance, energy, and temperature
+		Microfost Academic citation: 1; Published year: 2019; Published venue: Journal of Parallel and Distributed Computing.
+	28: A multiprocessor scheduling scheme using problem-space genetic algorithms
+		Microfost Academic citation: 29; Published year: 1995; Published venue: IEEE International Conference on Evolutionary Computation.
+	29: A multistage fast motion estimation scheme for video compression
+		Microfost Academic citation: 2; Published year: 2004; Published venue: International Conference on Image Processing.
+	30: A parallel algorithm for compile-time scheduling of parallel programs on multiprocessors
+		Microfost Academic citation: 4; Published year: 1997; Published venue: International Conference on Parallel Architectures and Compilation Techniques.
+	31: A parallel algorithm for optimal task assignment in distributed systems
+		Microfost Academic citation: 7; Published year: 1997; Published venue: Proceedings. Advances in Parallel and Distributed Computing.
+	32: A parallel approach for multiprocessor scheduling
+		Microfost Academic citation: 16; Published year: 1995; Published venue: International Parallel Processing Symposium.
+	33: A parallel image restoration algorithm based on Harmonic model using neural networks
+		Microfost Academic citation: 0; Published year: 2010; Published venue: IEEE International Conference on Ubi-Media Computing.
+	34: A powerful direct mechanism for optimal WWW content replication
+		Microfost Academic citation: 21; Published year: 2005; Published venue: International Parallel and Distributed Processing Symposium.
+	35: A pure Nash equilibrium guaranteeing game theoretical replica allocation method for reducing Web access time
+		Microfost Academic citation: 8; Published year: 2006; Published venue: International Conference on Parallel and Distributed Systems.
+	36: A rate control algorithm for wireless video transmission using perceptual tuning
+		Microfost Academic citation: 9; Published year: 2005; Published venue: International Conference on Information Technology: Coding and Computing.
+	37: A robust and adaptive rate control algorithm for object-based video coding
+		Microfost Academic citation: 57; Published year: 2004; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	38: A scalable off-line MPEG-2 video encoding scheme using a multiprocessor system
+		Microfost Academic citation: 22; Published year: 2001; Published venue: Parallel Computing.
+	39: A semi distributed load balancing scheme for large multicomputer systems
+		Microfost Academic citation: 5; Published year: 1990; Published venue: International Parallel and Distributed Processing Symposium.
+	40: A semi distributed task allocation strategy for large hypercube supercomputers
+		Microfost Academic citation: 16; Published year: 1990; Published venue: Conference on High Performance Computing (Supercomputing).
+	41: A semi-static approach to mapping dynamic iterative tasks onto heterogeneous computing systems
+		Microfost Academic citation: 28; Published year: 2006; Published venue: Journal of Parallel and Distributed Computing.
+	42: A shape-adaptive partitioning method for MPEG-4 video encoding
+		Microfost Academic citation: 3; Published year: 1998; Published venue: International Conference on Electronics, Circuits, and Systems.
+	43: A software platform for solving PDEs on distributed systems: implementation issues and performance prediction
+		Microfost Academic citation: 0; Published year: 1995; Published venue: Computer Software and Applications Conference.
+	44: A software-based MPEG-4 video encoder using parallel processing
+		Microfost Academic citation: 27; Published year: 1998; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	45: A survey of genome sequence assembly techniques and algorithms using high-performance computing
+		Microfost Academic citation: 1; Published year: 2015; Published venue: The Journal of Supercomputing.
+	46: A survey of rate control in HEVC and SHVC video encoding
+		Microfost Academic citation: 5; Published year: 2017; Published venue: International Conference on Multimedia and Expo.
+	47: A theoretical analysis of scalability of the parallel genome assembly algorithms
+		Microfost Academic citation: 3; Published year: 2011; Published venue: International Conference on Bioinformatics.
+	48: A video object segmentation scheme to lower complexity in multi-view video coding.
+		Microfost Academic citation: 2; Published year: 2006; Published venue: IEEE International Conference on Signal and Image Processing.
+	49: Active caching of on-line-analytical-processing queries in WWW proxies
+		Microfost Academic citation: 20; Published year: 2001; Published venue: International Conference on Parallel Processing.
+	50: Adaptive Techniques for Simultaneous Optimization of Visual Quality and Battery Power in Video Encoding Sensors
+		Microfost Academic citation: 6; Published year: 2006; Published venue: International Conference on Image Processing.
+	51: Adaptive motion search with elastic diamond for MPEG-4 video coding
+		Microfost Academic citation: 15; Published year: 2001; Published venue: International Conference on Image Processing.
+	52: Adaptive schemes for distributed web caching
+		Microfost Academic citation: 6; Published year: 2005; Published venue: Journal of Parallel and Distributed Computing.
+	53: Allocating data objects to multiple sites for fast browsing of hypermedia documents
+		Microfost Academic citation: 4; Published year: 1998; Published venue: Computer Software and Applications Conference.
+	54: Allocating data objects to multiple sites for fast browsing of hypermedia documents
+		Microfost Academic citation: 4; Published year: 1998; Published venue: Computer Software and Applications Conference.
+	55: An Efficient Parallel Algorithm for Computing the Gaussian Convolution of Multi-dimensional Image Data
+		Microfost Academic citation: 7; Published year: 1999; Published venue: The Journal of Supercomputing.
+	56: An Evolutionary Technique for Performance-Energy-Temperature Optimized Scheduling of Parallel Tasks on Multi-Core Processors
+		Microfost Academic citation: 56; Published year: 2016; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	57: An MPEG-4 based interactive multimedia system
+		Microfost Academic citation: 5; Published year: 1998; Published venue: Global Communications Conference.
+	58: An adaptive cross search algorithm for block matching motion estimation
+		Microfost Academic citation: 2; Published year: 2004; Published venue: International Conference on Communications, Circuits and Systems.
+	59: An efficient model of dynamic task scheduling for distributed systems
+		Microfost Academic citation: 11; Published year: 1990; Published venue: Computer Software and Applications Conference.
+	60: An efficient model of dynamic task scheduling for distributed systems
+		Microfost Academic citation: 11; Published year: 1990; Published venue: Computer Software and Applications Conference.
+	61: An experimental assessment of Express parallel programming environment
+		Microfost Academic citation: 0; Published year: 1995; Published venue: Modeling, Analysis, and Simulation On Computer and Telecommunication Systems.
+	62: An integrated technique for task matching and scheduling onto distributed heterogeneous computing systems
+		Microfost Academic citation: 150; Published year: 2002; Published venue: Journal of Parallel and Distributed Computing.
+	63: An overview and classification of thermal-aware scheduling techniques for multi-core processing systems
+		Microfost Academic citation: 62; Published year: 2012; Published venue: Sustainable Computing: Informatics and Systems.
+	64: An overview of data replication on the Internet
+		Microfost Academic citation: 75; Published year: 2002; Published venue: International Symposium on Parallel Architectures, Algorithms, and Networks.
+	65: Analysis and design of power constrained video encoder
+		Microfost Academic citation: 16; Published year: 2004; Published venue: IEEE Circuits and Systems Symposium on Emerging Technologies.
+	66: Analysis, evaluation, and comparison of algorithms for scheduling task graphs on parallel processors
+		Microfost Academic citation: 146; Published year: 1996; Published venue: International Symposium on Parallel Architectures, Algorithms, and Networks.
+	67: Applying a Novel Feature Set Fusion Technique to Facial Recognition
+		Microfost Academic citation: 0; Published year: 2019; Published venue: 2019 2nd International Conference on Data Intelligence and Security (ICDIS).
+	68: Asemi-static approach to mapping dynamic iterative tasks onto
+		Microfost Academic citation: 0; Published year: 2006; Published venue: Null.
+	69: Asynchronous rate control for multi-object videos
+		Microfost Academic citation: 14; Published year: 2005; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	70: Automatic parallelization and scheduling of programs on multiprocessor using CASCH
+		Microfost Academic citation: 0; Published year: 1997; Published venue: Null.
+	71: Automatic parallelization and scheduling of programs on multiprocessors using CASCH
+		Microfost Academic citation: 26; Published year: 1997; Published venue: International Conference on Parallel Processing.
+	72: Autonomic Power & Performance Management for Large-Scale Data Centers
+		Microfost Academic citation: 37; Published year: 2007; Published venue: International Parallel and Distributed Processing Symposium.
+	73: Bandwidth estimation for wireless video transmission
+		Microfost Academic citation: 1; Published year: 2004; Published venue: International Conference on Multimedia and Expo.
+	74: Benchmark the software based MPEG-4 video codec
+		Microfost Academic citation: 4; Published year: 2001; Published venue: International Conference on Electronics, Circuits, and Systems.
+	75: Benchmarking and Comparison of the Task Graph Scheduling Algorithms
+		Microfost Academic citation: 534; Published year: 1999; Published venue: Journal of Parallel and Distributed Computing.
+	76: Benchmarking the task graph scheduling algorithms
+		Microfost Academic citation: 217; Published year: 1998; Published venue: Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing.
+	77: Benchmarking the task graph scheduling algorithms
+		Microfost Academic citation: 217; Published year: 1998; Published venue: Merged International Parallel Processing Symposium and Symposium on Parallel and Distributed Processing.
+	78: Benchmarking the task scheduling algorithms for performance, energy, and temperature optimization
+		Microfost Academic citation: 1; Published year: 2020; Published venue: Sustainable Computing: Informatics and Systems.
+	79: Bubble scheduling: A quasi dynamic algorithm for static allocation of tasks to parallel architectures
+		Microfost Academic citation: 32; Published year: 1995; Published venue: International Parallel and Distributed Processing Symposium.
+	80: Building Surfaces from Three-Dimensional Image Data on the Intel Paragon.
+		Microfost Academic citation: 1; Published year: 1995; Published venue: International Conference on Parallel Processing.
+	81: CASCH: A Software Tool for Automatic Parallelization and Scheduling of Programs on Message-Passing Multiprocessors
+		Microfost Academic citation: 6; Published year: 1999; Published venue: Null.
+	82: CASCH: a tool for computer-aided scheduling
+		Microfost Academic citation: 50; Published year: 2000; Published venue: IEEE Concurrency.
+	83: Caching and replication schemes on the internet
+		Microfost Academic citation: 1; Published year: 2002; Published venue: Null.
+	84: Cluster Computing: A Glance at Recent Events
+		Microfost Academic citation: 7; Published year: 2000; Published venue: IEEE Concurrency.
+	85: Combinatorial Pawn Power.
+		Microfost Academic citation: 0; Published year: 2005; Published venue: Bulletin of The European Association for Theoretical Computer Science.
+	86: Comparison and analysis of ten static heuristics-based Internet data replication techniques
+		Microfost Academic citation: 74; Published year: 2008; Published venue: Journal of Parallel and Distributed Computing.
+	87: Content-based retrieval using heuristic search
+		Microfost Academic citation: 24; Published year: 1999; Published venue: International ACM SIGIR Conference on Research and Development in Information Retrieval.
+	88: Continuous Replica Placement schemes in distributed systems
+		Microfost Academic citation: 52; Published year: 2005; Published venue: International Conference on Supercomputing.
+	89: Controlling the Bit Rate of Multi-Object Videos With Noncooperative Game Theory
+		Microfost Academic citation: 11; Published year: 2010; Published venue: IEEE Transactions on Multimedia.
+	90: Cooperative Game Theoretical Techniques for Energy-Aware Task Scheduling in Cloud Computing
+		Microfost Academic citation: 2; Published year: 2012; Published venue: International Parallel and Distributed Processing Symposium.
+	91: Cooperative versus non-cooperative game theoretical techniques for Energy Aware Task scheduling
+		Microfost Academic citation: 4; Published year: 2012; Published venue: 2012 International Green Computing Conference (IGCC).
+	92: Data allocation algorithm for distributed hypermedia documents
+		Microfost Academic citation: 0; Published year: 1998; Published venue: Null.
+	93: Design and evaluation of data allocation algorithms for distributed multimedia database systems
+		Microfost Academic citation: 57; Published year: 1996; Published venue: Computer Software and Applications Conference.
+	94: Design of Energy-Efficient Video Sharing Servers with Delay Constraints
+		Microfost Academic citation: 1; Published year: 2012; Published venue: International Conference on Parallel and Distributed Systems.
+	95: Discriminatory Algorithmic Mechanism Design Based WWW Content Replication
+		Microfost Academic citation: 12; Published year: 2007; Published venue: Informatica (lithuanian Academy of Sciences).
+	96: Dynamic Scheduling of Multimedia Documents in a Single Server Multiple Clients Environment
+		Microfost Academic citation: 0; Published year: 1999; Published venue: Journal of Parallel and Distributed Computing.
+	97: Dynamic critical-path scheduling: an effective technique for allocating task graphs to multiprocessors
+		Microfost Academic citation: 1,061; Published year: 1996; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	98: Dynamic organization schemes for cooperative proxy caching
+		Microfost Academic citation: 1; Published year: 2003; Published venue: International Parallel and Distributed Processing Symposium.
+	99: Dynamic scheduling of multiple video objects for MPEG-4 encoding with user interactions
+		Microfost Academic citation: 3; Published year: 1999; Published venue: International Symposium on Circuits and Systems.
+	100: Dynamic scheduling of multiple video objects for MPEG-4 encoding with user interactions
+		Microfost Academic citation: 3; Published year: 1999; Published venue: International Symposium on Circuits and Systems.
+	101: Dynamic task graph scheduling on multicore processors for performance, energy, and temperature optimization
+		Microfost Academic citation: 8; Published year: 2013; Published venue: 2013 International Green Computing Conference Proceedings.
+	102: Editorial: Resource Management of Parallel and Distributed Systems with Static Scheduling: Challenges, Solutions and New Problems
+		Microfost Academic citation: 6; Published year: 1995; Published venue: Concurrency and Computation: Practice and Experience.
+	103: Editorial: Resource management in parallel and distributed systems with dynamic scheduling: Dynamic scheduling
+		Microfost Academic citation: 6; Published year: 1995; Published venue: Concurrency and Computation: Practice and Experience.
+	104: Editorial: The first issue of Sustainable Computing: Informatics and Systems
+		Microfost Academic citation: 3; Published year: 2011; Published venue: Sustainable Computing: Informatics and Systems.
+	105: Effective intra-only rate control for H.264/AVC
+		Microfost Academic citation: 5; Published year: 2009; Published venue: International Conference on Image Processing.
+	106: Efficient Scheduling of Arbitrary Task Graphs to Multiprocessors Using a Parallel Genetic Algorithm
+		Microfost Academic citation: 259; Published year: 1997; Published venue: Journal of Parallel and Distributed Computing.
+	107: Efficient heuristics for joint optimization of performance, energy, and temperature in allocating tasks to multi-core processors
+		Microfost Academic citation: 8; Published year: 2014; Published venue: International Green Computing Conference.
+	108: Efficient multi-view video coding scheme based on dynamic video object segmentation
+		Microfost Academic citation: 1; Published year: 2007; Published venue: Null.
+	109: Embedding Pyramids into 3D Meshes
+		Microfost Academic citation: 12; Published year: 1996; Published venue: Journal of Parallel and Distributed Computing.
+	110: Empirical evaluation of data allocation algorithms for distributed multimedia database systems
+		Microfost Academic citation: 2; Published year: 1997; Published venue: Null.
+	111: Encoding MPEG-2 video batches using a multiprocessor machine
+		Microfost Academic citation: 0; Published year: 1998; Published venue: SPIE's International Symposium on Optical Science, Engineering, and Instrumentation.
+	112: Energy efficiency in data centers and cloud-based multimedia services: An overview and future directions
+		Microfost Academic citation: 74; Published year: 2010; Published venue: International Conference on Green Computing.
+	113: Energy- and performance-aware scheduling of tasks on parallel and distributed systems
+		Microfost Academic citation: 31; Published year: 2012; Published venue: ACM Journal on Emerging Technologies in Computing Systems.
+	114: Energy-Constrained Scheduling of DAGs on Multi-core Processors
+		Microfost Academic citation: 13; Published year: 2009; Published venue: International Conference on Contemporary Computing.
+	115: Estimation of Execution times on Heterogeneous Supercomputer Architectures
+		Microfost Academic citation: 83; Published year: 1993; Published venue: International Conference on Parallel Processing.
+	116: Evaluation of a semi-static approach to mapping dynamic iterative tasks onto heterogeneous computing systems
+		Microfost Academic citation: 9; Published year: 1999; Published venue: International Symposium on Parallel Architectures, Algorithms, and Networks.
+	117: Evolutionary Algorithms for Allocating Data in Distributed Database Systems
+		Microfost Academic citation: 121; Published year: 2002; Published venue: Distributed and Parallel Databases.
+	118: Experimental assessment of express parallel programming environment
+		Microfost Academic citation: 0; Published year: 1995; Published venue: The 3rd International Workshop on Modeling, Analysis, and Simulation of Computer and Telecommunications Systems; Durham, NC; USA; 18-20 Jan. 1995.
+	119: Exploiting duplication to minimize the execution times of parallel programs on message-passing systems
+		Microfost Academic citation: 18; Published year: 1994; Published venue: International Parallel and Distributed Processing Symposium.
+	120: Exploiting duplication to minimize the execution times of parallel programs on message-passing systems
+		Microfost Academic citation: 18; Published year: 1994; Published venue: International Parallel and Distributed Processing Symposium.
+	121: Express versus PVM: A performance
+		Microfost Academic citation: 1; Published year: 1997; Published venue: Null.
+	122: Express versus PVM: a performance comparison
+		Microfost Academic citation: 2; Published year: 1997; Published venue: Parallel Computing.
+	123: FAST: a low-complexity algorithm for efficient scheduling of DAGs on parallel processors
+		Microfost Academic citation: 64; Published year: 1996; Published venue: International Conference on Parallel Processing.
+	124: FASTEST: a practical low-complexity algorithm for compile-time assignment of parallel programs to multiprocessors
+		Microfost Academic citation: 32; Published year: 1999; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	125: Fast Image Restoration Algorithms Based on PDE Models Using Modified Hopfield Neural Network
+		Microfost Academic citation: 0; Published year: 2010; Published venue: Artificial Intelligence and Computational Intelligence.
+	126: Fast algorithms for thermal constrained performance optimization in DAG scheduling on multi-core processors
+		Microfost Academic citation: 8; Published year: 2011; Published venue: 2011 International Green Computing Conference and Workshops.
+	127: Fast motion estimation using hierarchical motion intensity structure
+		Microfost Academic citation: 8; Published year: 2004; Published venue: International Conference on Multimedia and Expo.
+	128: Fast priority search algorithm for block motion estimation
+		Microfost Academic citation: 3; Published year: 2004; Published venue: International Conference on Multimedia and Expo.
+	129: Fast retrieval of similar configurations
+		Microfost Academic citation: 8; Published year: 2003; Published venue: IEEE Transactions on Multimedia.
+	130: Fault-Tolerant Load Management for Real-Time Distributed Computer Systems
+		Microfost Academic citation: 0; Published year: 1991; Published venue: Null.
+	131: Fault-tolerant task management and load re-distribution on massively parallel hypercube systems
+		Microfost Academic citation: 4; Published year: 1992; Published venue: Conference on High Performance Computing (Supercomputing).
+	132: Fortran 90D intrinsic functions on distributed memory machines: implementation and scalability
+		Microfost Academic citation: 11; Published year: 1993; Published venue: Hawaii International Conference on System Sciences.
+	133: Gait analysis and visualization in a fall risk assessment system.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Pervasive Technologies Related to Assistive Environments.
+	134: Game Theoretical Solutions for Data Replication in Distributed Computing Systems.
+		Microfost Academic citation: 3; Published year: 2007; Published venue: Parallel Computing.
+	135: Game theoretical models and algorithms for rate control in video compression
+		Microfost Academic citation: 0; Published year: 2005; Published venue: Null.
+	136: Genetic Programming In Clusters
+		Microfost Academic citation: 0; Published year: 2000; Published venue: IEEE Concurrency.
+	137: Gigantic clusters: where are they and what are they doing
+		Microfost Academic citation: 6; Published year: 2000; Published venue: IEEE Concurrency.
+	138: Guest Editor's Introduction: Special Section on Power-Aware Parallel and Distributed Computing (PAPADS)
+		Microfost Academic citation: 0; Published year: 2008; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	139: HIERARCHICAL SCHEDULING OF DYNAMIC PARALLEL COMPUTATIONS ON HYPERCUBE MULTICOMPUTERS
+		Microfost Academic citation: 25; Published year: 1994; Published venue: Journal of Parallel and Distributed Computing.
+	140: Handbook of Energy-Aware and Green Computing - Two Volume Set
+		Microfost Academic citation: 5; Published year: 2012; Published venue: Null.
+	141: Handbook of Energy-Aware and Green Computing, Volume 2
+		Microfost Academic citation: 0; Published year: 2013; Published venue: Null.
+	142: Handbook of Exascale Computing
+		Microfost Academic citation: 0; Published year: 2014; Published venue: Null.
+	143: Heuristics-Based Replication Schemas for Fast Information Retrieval over the Internet.
+		Microfost Academic citation: 16; Published year: 2004; Published venue: ISCA PDCS.
+	144: High-performance algorithms of compile-time scheduling of parallel processors
+		Microfost Academic citation: 54; Published year: 1997; Published venue: Null.
+	145: History-based video object segmentation
+		Microfost Academic citation: 1; Published year: 2006; Published venue: Picture Coding Symposium.
+	146: Integrated architectural application characterization tools for comparative assessment of parallel systems
+		Microfost Academic citation: 0; Published year: 1991; Published venue: Hawaii International Conference on System Sciences.
+	147: Interconnection minimization in multiport memories based data path synthesis
+		Microfost Academic citation: 0; Published year: 1992; Published venue: Midwest Symposium on Circuits and Systems.
+	148: Introduction To The Minitrack On Partitioning And Scheduling
+		Microfost Academic citation: 0; Published year: 1997; Published venue: Hawaii International Conference on System Sciences.
+	149: Joint Rate-Distortion model for H.264/AVC rate control
+		Microfost Academic citation: 2; Published year: 2009; Published venue: International Conference on Image Processing.
+	150: Joint power and distortion control in video coding
+		Microfost Academic citation: 10; Published year: 2005; Published venue: Conference on Image and video communications and processing.
+	151: Link contention-constrained scheduling and mapping of tasks
+		Microfost Academic citation: 66; Published year: 2000; Published venue: Cluster Computing.
+	152: Link contention-constrained scheduling and mapping of tasks and messages to a network of heterogeneous processors
+		Microfost Academic citation: 7; Published year: 1999; Published venue: International Conference on Parallel Processing.
+	153: Low delay rate-control in video transcoding
+		Microfost Academic citation: 11; Published year: 2003; Published venue: International Symposium on Circuits and Systems.
+	154: Lowering the Complexity of Multi-view Encoding through Dynamic Segmentation and Registration of Video Object
+		Microfost Academic citation: 5; Published year: 2006; Published venue: International Conference on Image Processing.
+	155: MPEG-2 profile transcoding in MC-DCT domain
+		Microfost Academic citation: 3; Published year: 2001; Published venue: International Conference on Multimedia and Expo.
+	156: MPEG-2 to MPEG-4 transcoding
+		Microfost Academic citation: 9; Published year: 2001; Published venue: Workshop and Exhibition on MPEG-4.
+	157: MPEG-4 Video transmission over wireless networks: a link level performance study
+		Microfost Academic citation: 56; Published year: 2004; Published venue: Wireless Networks.
+	158: MPEG-4 based interactive multimedia system
+		Microfost Academic citation: 0; Published year: 1998; Published venue: Global Communications Conference.
+	159: MPEG-4 to H.264/AVC transcoding
+		Microfost Academic citation: 11; Published year: 2007; Published venue: International Conference on Wireless Communications and Mobile Computing.
+	160: Massive data management in parallel machines
+		Microfost Academic citation: 0; Published year: 1994; Published venue: Null.
+	161: Message from the PDM workshop chair
+		Microfost Academic citation: 0; Published year: 2006; Published venue: International Conference on Parallel Processing.
+	162: Methods for optimizing the performance of directed acyclic graphs operating under strict energy constraints on multi-core architectures
+		Microfost Academic citation: 2; Published year: 2011; Published venue: Sustainable Computing: Informatics and Systems.
+	163: MicroRNA dysregulational synergistic network: Learning context-specific MicroRNA dysregulations in lung cancer subtypes
+		Microfost Academic citation: 2; Published year: 2017; Published venue: Bioinformatics and Biomedicine.
+	164: Mismatch MB Retrieval for MPEG-2 to MPEG-4 Transcoding
+		Microfost Academic citation: 3; Published year: 2001; Published venue: Pacific Rim Conference on Multimedia.
+	165: Modeling and Scheduling for MPEG-4 Based Video Encoder Using a Cluster of Workstations
+		Microfost Academic citation: 5; Published year: 1999; Published venue: Parallel Computing.
+	166: Motion estimation for content adaptive video compression
+		Microfost Academic citation: 3; Published year: 2004; Published venue: International Conference on Multimedia and Expo.
+	167: Motion estimation for content adaptive video compression
+		Microfost Academic citation: 3; Published year: 2004; Published venue: International Conference on Multimedia and Expo.
+	168: Multi-view Video coding algorithm based on video relative object segmentation
+		Microfost Academic citation: 3; Published year: 2006; Published venue: Picture Coding Symposium.
+	169: Multiprocessing ocean circulation: modeling, implementation, and performance on the Intel Paragon
+		Microfost Academic citation: 0; Published year: 1997; Published venue: The Journal of Supercomputing.
+	170: Multiprocessor Scheduling by Simulated Evolution
+		Microfost Academic citation: 3; Published year: 2010; Published venue: Journal of Software.
+	171: Network computers: the changing face of computing
+		Microfost Academic citation: 3; Published year: 2000; Published venue: IEEE Concurrency.
+	172: New predictive diamond search algorithm for block-based motion estimation
+		Microfost Academic citation: 20; Published year: 2000; Published venue: Visual Communications and Image Processing.
+	173: New rate control algorithm for MPEG-4 video coding
+		Microfost Academic citation: 8; Published year: 2002; Published venue: Visual Communications and Image Processing.
+	174: Niched evolutionary techniques for performance, energy, and temperature optimized scheduling in multi-core systems
+		Microfost Academic citation: 2; Published year: 2015; Published venue: International Green and Sustainable Computing Conference.
+	175: Non-cooperative, semi-cooperative, and cooperative games-based grid resource allocation
+		Microfost Academic citation: 122; Published year: 2006; Published venue: International Parallel and Distributed Processing Symposium.
+	176: Object detection and sensory feedback techniques in building smart cane for the visually impaired: an overview.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Pervasive Technologies Related to Assistive Environments.
+	177: Ocean circulation on the Intel Paragon: modeling and implementation
+		Microfost Academic citation: 1; Published year: 1996; Published venue: International Conference on Parallel Processing.
+	178: On exploiting task duplication in parallel program scheduling
+		Microfost Academic citation: 391; Published year: 1998; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	179: On multiprocessor task scheduling using efficient state space search approaches
+		Microfost Academic citation: 69; Published year: 2005; Published venue: Journal of Parallel and Distributed Computing.
+	180: On parallelizing the multiprocessor scheduling problem
+		Microfost Academic citation: 84; Published year: 1999; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	181: On using game theory to optimize the rate control in video coding
+		Microfost Academic citation: 69; Published year: 2006; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	182: On using hierarchical motion history for motion estimation in H.264/AVC
+		Microfost Academic citation: 20; Published year: 2005; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	183: Optimal and near-optimal allocation of precedence-constrained tasks to parallel processors: defying the high complexity using effective search techniques
+		Microfost Academic citation: 19; Published year: 1998; Published venue: International Conference on Parallel Processing.
+	184: Optimal task assignment in heterogeneous computing systems
+		Microfost Academic citation: 59; Published year: 1997; Published venue: Proceedings Sixth Heterogeneous Computing Workshop (HCW'97).
+	185: Optimal task assignment in heterogeneous distributed computing systems
+		Microfost Academic citation: 346; Published year: 1998; Published venue: IEEE Concurrency.
+	186: Optimization of H.263 video encoding using a single processor computer: performance tradeoffs and benchmarking
+		Microfost Academic citation: 67; Published year: 2001; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	187: Optimization of software-based real-time H.263 video encoding
+		Microfost Academic citation: 1; Published year: 1998; Published venue: Visual Communications and Image Processing.
+	188: Optimization of software-based real-time H.263 video encoding
+		Microfost Academic citation: 1; Published year: 1998; Published venue: Visual Communications and Image Processing.
+	189: Optimizing download time of embedded multimedia objects for Web browsing
+		Microfost Academic citation: 6; Published year: 2004; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	190: Optimizing performance and energy in computational grids using non-cooperative game theory
+		Microfost Academic citation: 6; Published year: 2010; Published venue: International Conference on Green Computing.
+	191: Optimizing the MPEG-4 encoder-advanced diamond zonal search
+		Microfost Academic citation: 31; Published year: 2000; Published venue: International Symposium on Circuits and Systems.
+	192: PAWS: a performance evaluation tool for parallel computing systems
+		Microfost Academic citation: 96; Published year: 1991; Published venue: IEEE Computer.
+	193: Parallel MPEG-2 Encoder on ATM and Ethernet-Connected Workstations
+		Microfost Academic citation: 3; Published year: 1999; Published venue: Parallel Computing.
+	194: Parallel Program Scheduling Techniques
+		Microfost Academic citation: 5; Published year: 2000; Published venue: Null.
+	195: Parallel algorithm for compile-time scheduling of parallel programs on multiprocessors
+		Microfost Academic citation: 1; Published year: 1997; Published venue: Null.
+	196: Parallel approach for multiprocessor scheduling
+		Microfost Academic citation: 10; Published year: 1995; Published venue: Null.
+	197: Parallel genetic search algorithm for motion estimation
+		Microfost Academic citation: 0; Published year: 1996; Published venue: Proceedings of SPIE.
+	198: Parallel multiple sequence alignment with dynamic scheduling
+		Microfost Academic citation: 14; Published year: 2005; Published venue: International Conference on Information Technology: Coding and Computing.
+	199: Parallelization of MPEG-2 video encoder for parallel and distributed computing systems
+		Microfost Academic citation: 27; Published year: 1995; Published venue: Midwest Symposium on Circuits and Systems.
+	200: Parallelizing motion estimation for reducing the complexity of HEVC/H.265 video codec in wireless environments
+		Microfost Academic citation: 0; Published year: 2016; Published venue: International Conference on Wireless Communications and Mobile Computing.
+	201: Partitioning and Scheduling.
+		Microfost Academic citation: 12; Published year: 1997; Published venue: Hawaii International Conference on System Sciences.
+	202: Performance Assessment of Express on the iPSC/2 and iPSC/860 Hypercube Computers
+		Microfost Academic citation: 0; Published year: 1994; Published venue: Null.
+	203: Performance Comparison of Algorithms for Static Scheduling of DAGs to Multiprocessors1
+		Microfost Academic citation: 0; Published year: 1998; Published venue: Null.
+	204: Performance Prediction for Distributed Load Balancing in Multicomputer Systems
+		Microfost Academic citation: 5; Published year: 1991; Published venue: Null.
+	205: Performance evaluation of diverse techniques for performance, energy, and temperature efficient task allocation
+		Microfost Academic citation: 0; Published year: 2017; Published venue: International Green and Sustainable Computing Conference.
+	206: Performance modeling of load‐balancing algorithms using neural networks
+		Microfost Academic citation: 9; Published year: 1994; Published venue: Concurrency and Computation: Practice and Experience.
+	207: Performance of software-based MPEG-2 video encoder on parallel and distributed systems
+		Microfost Academic citation: 59; Published year: 1997; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	208: Performance prediction of distributed load balancing on multicomputer systems
+		Microfost Academic citation: 62; Published year: 1991; Published venue: Conference on High Performance Computing (Supercomputing).
+	209: Performance, Energy, and Temperature Enabled Task Scheduling using Evolutionary Techniques
+		Microfost Academic citation: 6; Published year: 2017; Published venue: Sustainable Computing: Informatics and Systems.
+	210: Performance-constrained energy reduction in data centers for video-sharing services
+		Microfost Academic citation: 1; Published year: 2015; Published venue: Journal of Parallel and Distributed Computing.
+	211: Policies for Caching OLAP Queries in Internet Proxies
+		Microfost Academic citation: 3; Published year: 2006; Published venue: IEEE Transactions on Parallel and Distributed Systems.
+	212: Portable and scalable MPEG-2 video encoder on parallel and distributed computing systems
+		Microfost Academic citation: 7; Published year: 1996; Published venue: Visual Communications and Image Processing.
+	213: Power and Distortion Optimization for Pervasive Video Coding
+		Microfost Academic citation: 22; Published year: 2009; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	214: Power and content aware video encoding for video communication over wireless networks
+		Microfost Academic citation: 7; Published year: 2004; Published venue: Signal Processing Systems.
+	215: Power and content aware video encoding for video communication over wireless networks
+		Microfost Academic citation: 7; Published year: 2004; Published venue: Signal Processing Systems.
+	216: Power and distortion optimized video coding for pervasive computing applications
+		Microfost Academic citation: 2; Published year: 2006; Published venue: Power and distortion optimized video coding for pervasive computing applications.
+	217: Power and visual quality optimized video coding for mobile applications: Research issues and some solutions
+		Microfost Academic citation: 2; Published year: 2009; Published venue: International Conference on Multimedia and Expo.
+	218: Power-Aware Video Compression for Mobile Environments
+		Microfost Academic citation: 0; Published year: 2011; Published venue: Null.
+	219: Power-rate-distortion analysis for wireless video communication under energy constraint
+		Microfost Academic citation: 20; Published year: 2004; Published venue: Visual Communications and Image Processing.
+	220: Power-rate-distortion analysis for wireless video communication under energy constraints
+		Microfost Academic citation: 408; Published year: 2005; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	221: RAMM: a game theoretical replica allocation and management mechanism
+		Microfost Academic citation: 8; Published year: 2005; Published venue: International Symposium on Parallel Architectures, Algorithms, and Networks.
+	222: Rate Control for Multi-Object Video Transmission Over Wireless Systems
+		Microfost Academic citation: 1; Published year: 2006; Published venue: International Conference on Communications.
+	223: Real-time distributed and parallel processing for MPEG-4
+		Microfost Academic citation: 4; Published year: 1998; Published venue: International Symposium on Circuits and Systems.
+	224: Real-time distributed and parallel processing for MPEG-4
+		Microfost Academic citation: 4; Published year: 1998; Published venue: International Symposium on Circuits and Systems.
+	225: Real-time interactive MPEG-4 system encoder using a cluster of workstations
+		Microfost Academic citation: 17; Published year: 1999; Published venue: IEEE Transactions on Multimedia.
+	226: Real-time software based MPEG-4 video encoder
+		Microfost Academic citation: 4; Published year: 2001; Published venue: Workshop and Exhibition on MPEG-4.
+	227: Real-time video transmission over WCDMA systems
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Global Communications Conference.
+	228: Region-based rate control and bit allocation for wireless video transmission
+		Microfost Academic citation: 81; Published year: 2006; Published venue: IEEE Transactions on Multimedia.
+	229: Regular ArticleSpecial Issue on Software Support for Distributed Computing: Guest Editors' Introduction
+		Microfost Academic citation: 0; Published year: 1999; Published venue: Journal of Parallel and Distributed Computing.
+	230: Replicating Data Objects in Large-scale Distributed Computing Systems using Extended Vickrey Auction
+		Microfost Academic citation: 3; Published year: 2007; Published venue: World Academy of Science, Engineering and Technology, International Journal of Computer, Electrical, Automation, Control and Information Engineering.
+	231: Replicating data objects in large distributed database systems: an axiomatic game theoretic mechanism design approach
+		Microfost Academic citation: 9; Published year: 2010; Published venue: Distributed and Parallel Databases.
+	232: Replicating the contents of a WWW multimedia repository to minimize download time
+		Microfost Academic citation: 6; Published year: 2000; Published venue: International Parallel and Distributed Processing Symposium.
+	233: Replicating the contents of a WWW multimedia repository to minimize download time
+		Microfost Academic citation: 6; Published year: 2000; Published venue: International Parallel and Distributed Processing Symposium.
+	234: Replicating the contents of a WWW multimedia repository to minimize download time
+		Microfost Academic citation: 6; Published year: 2000; Published venue: International Parallel and Distributed Processing Symposium.
+	235: Resource and energy management in high-performance computing: From heterogeneous to exascale systems
+		Microfost Academic citation: 0; Published year: 2017; Published venue: International Conference on Computer Communications.
+	236: Response time driven multimedia data objects allocation for browsing documents in distributed environments
+		Microfost Academic citation: 10; Published year: 1999; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	237: SPEED: A parallel platform for solving and predicting the performance of PDEs on distributed systems
+		Microfost Academic citation: 2; Published year: 1996; Published venue: Concurrency and Computation: Practice and Experience.
+	238: Scheduling Parallel Programs Using Genetic Algorithms
+		Microfost Academic citation: 13; Published year: 2000; Published venue: Null.
+	239: Scheduling multimedia documents in a distributed system
+		Microfost Academic citation: 0; Published year: 1998; Published venue: WEB TECHNOLOGIES AND APPLICATIONS.
+	240: Semi-distributed load balancing for massively parallel multicomputer systems
+		Microfost Academic citation: 166; Published year: 1991; Published venue: IEEE Transactions on Software Engineering.
+	241: Shape-adaptive partitioning method for MPEG-4 video encoding
+		Microfost Academic citation: 4; Published year: 1998; Published venue: Null.
+	242: Simultaneous optimization of performance, energy and temperature for DAG scheduling in multi-core processors
+		Microfost Academic citation: 16; Published year: 2012; Published venue: 2012 International Green Computing Conference (IGCC).
+	243: Sixteen Heuristics for Joint Optimization of Performance, Energy, and Temperature in Allocating Tasks to Multi-Cores
+		Microfost Academic citation: 7; Published year: 2016; Published venue: Parallel Computing.
+	244: Software platform for solving PDEs on distributed systems: Implementation issues and performance prediction
+		Microfost Academic citation: 0; Published year: 1995; Published venue: Null.
+	245: Software-based H.263 video encoder using a cluster of workstations
+		Microfost Academic citation: 11; Published year: 1997; Published venue: Proceedings of SPIE - The International Society for Optical Engineering.
+	246: Software-based MPEG-2 encoding system with scalable and multithreaded architecture
+		Microfost Academic citation: 1; Published year: 2001; Published venue: IEEE International Conference on High Performance Computing, Data, and Analytics.
+	247: Solving partial differential equations on a network of workstations
+		Microfost Academic citation: 5; Published year: 1994; Published venue: High Performance Distributed Computing.
+	248: Some Preliminary Results on Three Combinatorial Board Games.
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Bulletin of The European Association for Theoretical Computer Science.
+	249: Special Issue on Software Support for Distributed Computing
+		Microfost Academic citation: 0; Published year: 1999; Published venue: Journal of Parallel and Distributed Computing.
+	250: Special Issue on Video Surveillance
+		Microfost Academic citation: 24; Published year: 2008; Published venue: IEEE Transactions on Circuits and Systems for Video Technology.
+	251: Static Scheduling and Allocation Algorithms for Parallel and Distributed Systems: Classification and Performance Comparison
+		Microfost Academic citation: 0; Published year: 2000; Published venue: Null.
+	252: Static Task Scheduling And Allocation Algorithms For Scalable Parallel And Distributed Systems: Classification And Performance Comparison
+		Microfost Academic citation: 6; Published year: 2000; Published venue: Null.
+	253: Static and adaptive data replication algorithms for fast information access in large distributed systems
+		Microfost Academic citation: 93; Published year: 2000; Published venue: International Conference on Distributed Computing Systems.
+	254: Static and adaptive distributed data replication using genetic algorithms
+		Microfost Academic citation: 142; Published year: 2004; Published venue: Journal of Parallel and Distributed Computing.
+	255: Static scheduling algorithms for allocating directed task graphs to multiprocessors
+		Microfost Academic citation: 1,584; Published year: 1999; Published venue: ACM Computing Surveys.
+	256: Stretch and compress based re-scheduling techniques for minimizing the execution times of DAGs on multi-core processors under energy constraints
+		Microfost Academic citation: 16; Published year: 2010; Published venue: International Conference on Green Computing.
+	257: Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation.
+		Microfost Academic citation: 0; Published year: 2018; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	258: Superpixel-enhanced Pairwise Conditional Random Field for Semantic Segmentation.
+		Microfost Academic citation: 0; Published year: 2018; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	259: Synchronous and asynchronous multiple object rate control for MPEG-4 video coding
+		Microfost Academic citation: 6; Published year: 2003; Published venue: International Conference on Image Processing.
+	260: Task assignment in distributed computing systems
+		Microfost Academic citation: 20; Published year: 1995; Published venue: International Phoenix Conference on Computers and Communications.
+	261: Topic 12 Architectures and Algorithms for Multimedia Applications
+		Microfost Academic citation: 0; Published year: 2003; Published venue: European Conference on Parallel Processing.
+	262: Traffic modeling for layered video
+		Microfost Academic citation: 5; Published year: 2003; Published venue: International Conference on Multimedia and Expo.
+	263: Using game theory for perceptual tuned rate control algorithm in video coding
+		Microfost Academic citation: 1; Published year: 2005; Published venue: Conference on Image and video communications and processing.
+	264: Using game theory for scheduling tasks on multi-core processors for simultaneous optimization of performance and energy
+		Microfost Academic citation: 113; Published year: 2008; Published venue: International Parallel and Distributed Processing Symposium.
+	265: Video compression with parallel processing
+		Microfost Academic citation: 95; Published year: 2002; Published venue: Parallel Computing.
+	266: Video transcoding: an overview of various techniques and research issues
+		Microfost Academic citation: 446; Published year: 2005; Published venue: IEEE Transactions on Multimedia.
+	267: rna2rna: Predicting lncRNA-microRNA-mRNA Interactions from Sequence with Integration of Interactome and Biological Annotation Data.
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	268: “Rapid” regions-of-interest detection in big histopathological images
+		Microfost Academic citation: 2; Published year: 2017; Published venue: International Conference on Multimedia and Expo.
+	269: “Rapid” regions-of-interest detection in big histopathological images
+		Microfost Academic citation: 2; Published year: 2017; Published venue: International Conference on Multimedia and Expo.
+There are 160 Papers appear in Google Schoolar but not in MS Academic
+	1: 2004 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 26
+		Google Scholar citation: 0; Published year: 2004; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence 26 (12).
+	2: 2009 Index IEEE Transactions on Pattern Analysis and Machine Intelligence Vol. 31
+		Google Scholar citation: 0; Published year: 2008; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence 30 (12), 1.
+	3: 2009 Reviewers List
+		Google Scholar citation: 0; Published year: 2010; Published venue: IEEE TRANSACTIONS ON PATTERN ANALYSIS AND MACHINE INTELLIGENCE 32 (1), 185.
+	4: 2013 Index IEEE Transactions on Knowledge and Data Engineering Vol. 25
+		Google Scholar citation: 0; Published year: 2014; Published venue: IEEE Transactions on Knowledge and Data Engineering 26 (1), 1.
+	5: 2014 Index IEEE Transactions on Image Processing Vol. 23
+		Google Scholar citation: 0; Published year: 2014; Published venue: IEEE Transactions on Image Processing 23 (12), 5789.
+	6: 2014 Reviewers List
+		Google Scholar citation: 0; Published year: 2015; Published venue: IEEE Transactions on Knowledge and Data Engineering 27 (1), 281.
+	7: 3D hand pose estimation by finding appearance-based matches in a large database of training views
+		Google Scholar citation: 42; Published year: 2001; Published venue: Boston University Computer Science Department.
+	8: 3D hand pose reconstruction using specialized mappings
+		Google Scholar citation: 276; Published year: 2001; Published venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV ….
+	9: 3D hand pose reconstruction using specialized mappings
+		Google Scholar citation: 276; Published year: 2001; Published venue: Proceedings Eighth IEEE International Conference on Computer Vision. ICCV ….
+	10: 3D point of gaze estimation using head-mounted RGB-D cameras
+		Google Scholar citation: 9; Published year: 2012; Published venue: Proceedings of the 14th international ACM SIGACCESS conference on Computers ….
+	11: A Realistic Dataset and Baseline Temporal Model for Early Drowsiness Detection: Supplementary Material
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	12: A database-based framework for gesture recognition
+		Google Scholar citation: 37; Published year: 2010; Published venue: Personal and Ubiquitous Computing 14 (6), 511-526.
+	13: A generic framework for efficient and effective subsequence retrieval
+		Google Scholar citation: 13; Published year: 2012; Published venue: Proceedings of the VLDB Endowment 5 (11), 1579-1590.
+	14: A multi-modal sparse coding classifier using dictionaries with different number of atoms
+		Google Scholar citation: 4; Published year: 2015; Published venue: 2015 IEEE Winter Conference on Applications of Computer Vision, 518-525.
+	15: A pipeline for automated face dataset creation from unlabeled images
+		Google Scholar citation: 2; Published year: 2019; Published venue: Proceedings of the 12th ACM International Conference on PErvasive ….
+	16: A realistic dataset and baseline temporal model for early drowsiness detection
+		Google Scholar citation: 6; Published year: 2019; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern ….
+	17: A review and quantitative comparison of methods for kinect calibration
+		Google Scholar citation: 10; Published year: 2015; Published venue: Proceedings of the 2nd international Workshop on Sensor-based Activity ….
+	18: A similarity measure for vision-based sign recognition
+		Google Scholar citation: 4; Published year: 2009; Published venue: International Conference on Universal Access in Human-Computer Interaction ….
+	19: A survey of query-by-humming similarity methods
+		Google Scholar citation: 31; Published year: 2012; Published venue: Proceedings of the 5th International Conference on PErvasive Technologies ….
+	20: A survey on sign language recognition using smartphones
+		Google Scholar citation: 6; Published year: 2017; Published venue: Proceedings of the 10th International Conference on PErvasive Technologies ….
+	21: A survey on vision-based fall detection
+		Google Scholar citation: 99; Published year: 2015; Published venue: Proceedings of the 8th ACM international conference on PErvasive ….
+	22: A system for large vocabulary sign search
+		Google Scholar citation: 43; Published year: 2010; Published venue: European Conference on Computer Vision, 342-353.
+	23: A unified framework for gesture recognition and spatiotemporal gesture segmentation
+		Google Scholar citation: 449; Published year: 2008; Published venue: IEEE transactions on pattern analysis and machine intelligence 31 (9), 1685-1699.
+	24: A viewpoint-independent statistical method for fall detection
+		Google Scholar citation: 54; Published year: 2012; Published venue: Proceedings of the 21st International Conference on Pattern Recognition ….
+	25: AU THOR IN DEX
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	26: Accurate and efficient gesture spotting via pruning and subgesture reasoning
+		Google Scholar citation: 61; Published year: 2005; Published venue: International Workshop on Human-Computer Interaction, 189-198.
+	27: Acknowledgement to reviewers for 2013
+		Google Scholar citation: 0; Published year: 2014; Published venue: Null.
+	28: An Indexing Method for Efficient Model-Based Search
+		Google Scholar citation: 0; Published year: 2013; Published venue: Proceedings of the International Conference on Image Processing, Computer ….
+	29: An appearance-based framework for 3D hand shape classification and camera viewpoint estimation
+		Google Scholar citation: 171; Published year: 2002; Published venue: Proceedings of Fifth IEEE International Conference on Automatic Face Gesture ….
+	30: An automated assessment system for embodied cognition in children: from motion data to executive functioning
+		Google Scholar citation: 3; Published year: 2019; Published venue: Proceedings of the 6th international Workshop on Sensor-based Activity ….
+	31: An evaluation of rgb-d skeleton tracking for use in large vocabulary complex gesture recognition
+		Google Scholar citation: 2; Published year: 2014; Published venue: Proceedings of the 7th International Conference on PErvasive Technologies ….
+	32: An integrated RGB-D system for looking up the meaning of signs
+		Google Scholar citation: 7; Published year: 2015; Published venue: Proceedings of the 8th ACM International Conference on PErvasive ….
+	33: Analysis of hand segmentation on challenging hand over face scenario
+		Google Scholar citation: 2; Published year: 2019; Published venue: Proceedings of the 12th ACM International Conference on PErvasive ….
+	34: Appreciation to IJCV Reviewers
+		Google Scholar citation: 0; Published year: 2015; Published venue: Int J Comput Vis 111, 249-254.
+	35: Appreciation to IJCV Reviewers
+		Google Scholar citation: 0; Published year: 2015; Published venue: Int J Comput Vis 111, 249-254.
+	36: Appreciation to IJCV Reviewers
+		Google Scholar citation: 0; Published year: 2015; Published venue: Int J Comput Vis 111, 249-254.
+	37: Appreciation to IJCV Reviewers of 2016
+		Google Scholar citation: 0; Published year: 2017; Published venue: Int J Comput Vis 121, 1-4.
+	38: Approximate embedding-based subsequence matching of time series
+		Google Scholar citation: 85; Published year: 2008; Published venue: Proceedings of the 2008 ACM SIGMOD international conference on Management of ….
+	39: Apsen: Pre-screening tool for sleep apnea in a home environment
+		Google Scholar citation: 1; Published year: 2017; Published venue: International Conference on Digital Human Modeling and Applications in ….
+	40: Automatic 2D hand tracking in video sequences
+		Google Scholar citation: 91; Published year: 2005; Published venue: 2005 Seventh IEEE Workshops on Applications of Computer Vision (WACV/MOTION ….
+	41: BU CS TR99-015. v2, Dec. 1999 (revised in March 2000).
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	42: Benchmark Databases for Video-Based Automatic Sign Language Recognition.
+		Google Scholar citation: 93; Published year: 2008; Published venue: LREC.
+	43: Benchmarking dynamic time warping for music retrieval
+		Google Scholar citation: 17; Published year: 2010; Published venue: Proceedings of the 3rd international conference on pervasive technologies ….
+	44: Boosted ranking models: a unifying framework for ranking predictions
+		Google Scholar citation: 13; Published year: 2012; Published venue: Knowledge and information systems 30 (3), 543-568.
+	45: Boosting nearest neighbor classifiers for multiclass recognition
+		Google Scholar citation: 76; Published year: 2005; Published venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern ….
+	46: Boostmap: A method for efficient approximate similarity rankings
+		Google Scholar citation: 208; Published year: 2004; Published venue: Proceedings of the 2004 IEEE Computer Society Conference on Computer Vision ….
+	47: Boostmap: An embedding method for efficient nearest neighbor retrieval
+		Google Scholar citation: 96; Published year: 2007; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence 30 (1), 89-104.
+	48: Boston University, Computer Science Technical Report 99-005, May 1999 This technical report supercedes BU-TR-98-018 and BU-TR-97-020.
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	49: CSMMI: Class-specific maximization of mutual information for action and gesture recognition
+		Google Scholar citation: 23; Published year: 2014; Published venue: IEEE Transactions on Image Processing 23 (7), 3152-3165.
+	50: CVPR 2013
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	51: Chalearn gesture challenge: Design and first results
+		Google Scholar citation: 104; Published year: 2012; Published venue: 2012 IEEE computer society conference on computer vision and pattern ….
+	52: Chalearn multi-modal gesture recognition 2013: grand challenge and workshop summary
+		Google Scholar citation: 47; Published year: 2013; Published venue: Proceedings of the 15th ACM on International conference on multimodal ….
+	53: Challenges in multi-modal gesture recognition
+		Google Scholar citation: 69; Published year: 2017; Published venue: Gesture recognition, 1-60.
+	54: ClassMap: Efficient multiclass recognition via embeddings
+		Google Scholar citation: 18; Published year: 2007; Published venue: 2007 IEEE 11th International Conference on Computer Vision, 1-8.
+	55: Cognilearn: A deep learning-based interface for cognitive behavior assessment
+		Google Scholar citation: 13; Published year: 2017; Published venue: Proceedings of the 22nd International Conference on Intelligent User ….
+	56: Cognitive analysis of working memory load from EEG, by a deep recurrent neural network
+		Google Scholar citation: 25; Published year: 2018; Published venue: 2018 IEEE International Conference on Acoustics, Speech and Signal ….
+	57: Cognitive assessment in children through motion capture and computer vision: the cross-your-body task
+		Google Scholar citation: 0; Published year: 2019; Published venue: Proceedings of the 6th international Workshop on Sensor-based Activity ….
+	58: Comparing gesture recognition accuracy using color and depth information
+		Google Scholar citation: 152; Published year: 2011; Published venue: Proceedings of the 4th international conference on PErvasive technologies ….
+	59: Computer aided rehabilitation for patients with rheumatoid arthritis
+		Google Scholar citation: 17; Published year: 2013; Published venue: 2013 international conference on computing, networking and communications ….
+	60: Context-aware single-shot detector
+		Google Scholar citation: 28; Published year: 2018; Published venue: 2018 IEEE Winter Conference on Applications of Computer Vision (WACV), 1784-1793.
+	61: DRESS: dimensionality reduction for efficient sequence search
+		Google Scholar citation: 5; Published year: 2015; Published venue: Data mining and knowledge discovery 29 (5), 1280-1311.
+	62: Database indexing methods for 3d hand pose estimation
+		Google Scholar citation: 52; Published year: 2003; Published venue: International Gesture Workshop, 288-299.
+	63: Dehaze-GLCGAN: Unpaired Single Image De-hazing via Adversarial Training
+		Google Scholar citation: 1; Published year: 2020; Published venue: arXiv preprint arXiv:2008.06632.
+	64: Demonstrations and live evaluation for the gesture recognition challenge
+		Google Scholar citation: 3; Published year: 2011; Published venue: 2011 IEEE International Conference on Computer Vision Workshops (ICCV ….
+	65: Detecting instances of shape classes that exhibit variable structure
+		Google Scholar citation: 17; Published year: 2006; Published venue: European Conference on Computer Vision, 121-134.
+	66: Detecting objects of variable shape structure with hidden state shape models
+		Google Scholar citation: 38; Published year: 2008; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence 30 (3), 477-492.
+	67: Direct shape regression networks for end-to-end face alignment
+		Google Scholar citation: 63; Published year: 2018; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern ….
+	68: Distinguishing photographs and graphics on the world wide web
+		Google Scholar citation: 175; Published year: 1997; Published venue: 1997 Proceedings IEEE Workshop on Content-Based Access of Image and Video ….
+	69: Efficient nearest neighbor classification using a cascade of approximate similarity measures
+		Google Scholar citation: 71; Published year: 2005; Published venue: 2005 IEEE Computer Society Conference on Computer Vision and Pattern ….
+	70: Efficient sparse representation classification using adaptive clustering
+		Google Scholar citation: 7; Published year: 2013; Published venue: Proceedings of the International Conference on Image Processing, Computer ….
+	71: Embedding-based subsequence matching in time-series databases
+		Google Scholar citation: 80; Published year: 2011; Published venue: ACM Transactions on Database Systems (TODS) 36 (3), 1-39.
+	72: Embedding-based subsequence matching with gaps–range–tolerances: a Query-By-Humming application
+		Google Scholar citation: 6; Published year: 2015; Published venue: The VLDB Journal 24 (4), 519-536.
+	73: Estimating 3D hand pose from a cluttered image
+		Google Scholar citation: 487; Published year: 2003; Published venue: 2003 IEEE Computer Society Conference on Computer Vision and Pattern ….
+	74: Estimation and prediction of evolving color distributions for skin segmentation under varying illumination
+		Google Scholar citation: 216; Published year: 2000; Published venue: Proceedings IEEE Conference on Computer Vision and Pattern Recognition. CVPR ….
+	75: Evaluating Single Image Dehazing Methods Under Realistic Sunlight Haze
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2008.13377.
+	76: Evaluating depth-based computer vision methods for fall detection under occlusions
+		Google Scholar citation: 19; Published year: 2014; Published venue: International Symposium on Visual Computing, 196-207.
+	77: Evaluation of classification methods for the prediction of hospital length of stay using Medicare claims data
+		Google Scholar citation: 4; Published year: 2014; Published venue: Proceedings of the 7th International Conference on PErvasive Technologies ….
+	78: Evaluation of deep learning based pose estimation for sign language recognition
+		Google Scholar citation: 34; Published year: 2016; Published venue: Proceedings of the 9th ACM International Conference on PErvasive ….
+	79: Experiments with computer vision methods for fall detection
+		Google Scholar citation: 13; Published year: 2010; Published venue: Proceedings of the 3rd international conference on pervasive technologies ….
+	80: Experiments with computer vision methods for hand detection
+		Google Scholar citation: 12; Published year: 2011; Published venue: Proceedings of the 4th International Conference on PErvasive Technologies ….
+	81: Fast, reliable head tracking under varying illumination: An approach based on registration of texture-mapped 3D models
+		Google Scholar citation: 846; Published year: 2000; Published venue: IEEE Transactions on pattern analysis and machine intelligence 22 (4), 322-336.
+	82: Filtering methods for similarity-based multimedia retrieval
+		Google Scholar citation: 3; Published year: 2005; Published venue: International workshop on audio-visual content and information visualization ….
+	83: Fusion of color and depth video for human behavior recognition in an assistive environment
+		Google Scholar citation: 9; Published year: 2013; Published venue: International Conference on Distributed, Ambient, and Pervasive Interactions ….
+	84: GRADUATE SCHOOL OF ARTS AND SCIENCES
+		Google Scholar citation: 0; Published year: None; Published venue: BOSTON UNIVERSITY.
+	85: Genre classification of symbolic music with SMBGT
+		Google Scholar citation: 19; Published year: 2013; Published venue: Proceedings of the 6th international conference on PErvasive technologies ….
+	86: Gesture recognition
+		Google Scholar citation: 6; Published year: 2017; Published venue: Springer International Publishing.
+	87: Hand detection on sign language videos
+		Google Scholar citation: 8; Published year: 2014; Published venue: Proceedings of the 7th International Conference on PErvasive Technologies ….
+	88: Hand over face segmentation using MPSPNet
+		Google Scholar citation: 0; Published year: 2020; Published venue: Proceedings of the 13th ACM International Conference on PErvasive ….
+	89: Hand shape and 3D pose estimation using depth data from a single cluttered frame
+		Google Scholar citation: 60; Published year: 2012; Published venue: International Symposium on Visual Computing, 148-158.
+	90: Hierarchical learning of curves application to guidewire localization in fluoroscopy
+		Google Scholar citation: 72; Published year: 2007; Published venue: 2007 IEEE Conference on Computer Vision and Pattern Recognition, 1-8.
+	91: Hum-a-song: a subsequence matching with gaps-range-tolerances query-by-humming system
+		Google Scholar citation: 14; Published year: 2012; Published venue: Proceedings of the VLDB Endowment 5 (12), 1930-1933.
+	92: IBSM: Interval-based sequence matching
+		Google Scholar citation: 20; Published year: 2013; Published venue: Proceedings of the 2013 SIAM International Conference on Data Mining, 596-604.
+	93: Improving the accuracy of the cognilearn system for cognitive behavior assessment
+		Google Scholar citation: 2; Published year: 2017; Published venue: Proceedings of the 10th International Conference on PErvasive Technologies ….
+	94: Integrating analysis of context and image content
+		Google Scholar citation: 2; Published year: 2001; Published venue: Principles of visual information retrieval, 279-296.
+	95: Intelligent modification of colors in digitized paintings for enhancing the visual perception of color-blind viewers
+		Google Scholar citation: 34; Published year: 2009; Published venue: IFIP International Conference on Artificial Intelligence Applications and ….
+	96: Large lexicon project: American sign language video corpus and sign language indexing/retrieval algorithms
+		Google Scholar citation: 29; Published year: 2010; Published venue: Workshop on the Representation and Processing of Sign Languages: Corpora and ….
+	97: Learning Embeddings for Fast Approximate Nearest Neighbor Retrieval
+		Google Scholar citation: 2; Published year: 2005; Published venue: Nearest-neighbor Methods in Learning and Vision: Theory and Practice, 143.
+	98: Learning Euclidean embeddings for indexing and classification
+		Google Scholar citation: 8; Published year: 2004; Published venue: BOSTON UNIV MA DEPT OF COMPUTER SCIENCE.
+	99: Learning embeddings for indexing, retrieval, and classification, with applications to object and shape recognition in image databases
+		Google Scholar citation: 16; Published year: 2006; Published venue: Boston University Computer Science Department.
+	100: Leveraging intra-class variations to improve large vocabulary gesture recognition
+		Google Scholar citation: 1; Published year: 2016; Published venue: 2016 23rd International Conference on Pattern Recognition (ICPR), 907-912.
+	101: Local frame match distance: A novel approach for exemplar gesture recognition
+		Google Scholar citation: 1; Published year: 2017; Published venue: 2017 25th European Signal Processing Conference (EUSIPCO), 788-792.
+	102: Low dose abdominal ct image reconstruction: An unsupervised learning based approach
+		Google Scholar citation: 11; Published year: 2019; Published venue: 2019 IEEE International Conference on Image Processing (ICIP), 1351-1355.
+	103: Magni: A real-time robot-aided game-based tele-rehabilitation system
+		Google Scholar citation: 3; Published year: 2016; Published venue: International Conference on Universal Access in Human-Computer Interaction ….
+	104: Model-based search in large time series databases
+		Google Scholar citation: 6; Published year: 2011; Published venue: Proceedings of the 4th International Conference on PErvasive Technologies ….
+	105: Multi-modal gesture recognition challenge 2013: Dataset and results
+		Google Scholar citation: 181; Published year: 2013; Published venue: Proceedings of the 15th ACM on International conference on multimodal ….
+	106: Multi-modal object of interest detection using eye gaze and RGB-D cameras
+		Google Scholar citation: 3; Published year: 2012; Published venue: Proceedings of the 4th Workshop on Eye Gaze in Intelligent Human Machine ….
+	107: Multimodal sparse representation classification with fisher discriminative sample reduction
+		Google Scholar citation: 3; Published year: 2014; Published venue: 2014 IEEE International Conference on Image Processing (ICIP), 5192-5196.
+	108: NSF III-2010 PI Workshop Report on “Future Directions for III”
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	109: NSF III-2010 Workshop: PI Reports
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	110: Nearest neighbor retrieval using distance-based hashing
+		Google Scholar citation: 128; Published year: 2008; Published venue: 2008 IEEE 24th International Conference on Data Engineering, 327-336.
+	111: Nearest neighbor search methods for handshape recognition
+		Google Scholar citation: 43; Published year: 2008; Published venue: Proceedings of the 1st international conference on PErvasive Technologies ….
+	112: Non-invasive analysis of sleep patterns via multimodal sensor input
+		Google Scholar citation: 46; Published year: 2014; Published venue: Personal and ubiquitous computing 18 (1), 19-26.
+	113: Object Detection at the Optimal Scale with Hidden State Shape Models
+		Google Scholar citation: 0; Published year: 2006; Published venue: Boston University Computer Science Department.
+	114: Online and offline character recognition using alignment to prototypes
+		Google Scholar citation: 22; Published year: 2005; Published venue: Eighth International Conference on Document Analysis and Recognition (ICDAR ….
+	115: Optimizing hashing functions for similarity indexing in arbitrary metric and nonmetric spaces
+		Google Scholar citation: 3; Published year: 2015; Published venue: Proceedings of the 2015 SIAM International Conference on Data Mining, 828-836.
+	116: Orion: Enabling suggestions in a visual query builder for ultra-heterogeneous graphs
+		Google Scholar citation: 2; Published year: 2016; Published venue: arXiv preprint arXiv:1605.06856.
+	117: PCI 2012 General Co-Chairs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	118: Pre-processing of video streams for extracting queryable representation of its contents
+		Google Scholar citation: 1; Published year: 2016; Published venue: International Symposium on Visual Computing, 301-311.
+	119: Principal motion components for gesture recognition using a single-example
+		Google Scholar citation: 14; Published year: 2013; Published venue: arXiv preprint arXiv:1310.4822.
+	120: Principal motion components for gesture recognition using a single-example
+		Google Scholar citation: 14; Published year: 2013; Published venue: arXiv preprint arXiv:1310.4822.
+	121: Principal motion components for one-shot gesture recognition
+		Google Scholar citation: 0; Published year: 2017; Published venue: Null.
+	122: Principal motion components for one-shot gesture recognition
+		Google Scholar citation: 0; Published year: 2017; Published venue: Null.
+	123: Providing Meaningful Alignments for Periodic Signs
+		Google Scholar citation: 0; Published year: 2017; Published venue: Proceedings of the 10th International Conference on PErvasive Technologies ….
+	124: Query-sensitive distance measure selection for time series nearest neighbor classification
+		Google Scholar citation: 9; Published year: 2016; Published venue: Intelligent Data Analysis 20 (1), 5-27.
+	125: Query-sensitive embeddings
+		Google Scholar citation: 50; Published year: 2007; Published venue: ACM Transactions on Database Systems (TODS) 32 (2), 8-es.
+	126: Reducing jointboost-based multiclass classification to proximity search
+		Google Scholar citation: 13; Published year: 2009; Published venue: 2009 IEEE Conference on Computer Vision and Pattern Recognition, 589-596.
+	127: Reference-based alignment in large sequence databases
+		Google Scholar citation: 32; Published year: 2009; Published venue: Proceedings of the VLDB Endowment 2 (1), 205-216.
+	128: Relevance feedback for image retrieval: A comprehensive review
+		Google Scholar citation: 0; Published year: 2017; Published venue: Experiment and Evaluation in Information Retrieval Models 39 (1), 1-8.
+	129: Results and analysis of the chalearn gesture challenge 2012
+		Google Scholar citation: 59; Published year: 2012; Published venue: International Workshop on Depth Image Analysis and Applications, 186-204.
+	130: Rotation invariant indexing of shapes and line drawings
+		Google Scholar citation: 59; Published year: 2005; Published venue: Proceedings of the 14th ACM international conference on Information and ….
+	131: Selective unsupervised feature learning with convolutional neural network (S-CNN)
+		Google Scholar citation: 13; Published year: 2016; Published venue: 2016 23rd International Conference on Pattern Recognition (ICPR), 2486-2490.
+	132: Sign language recognition using dynamic time warping and hand shape distance based on histogram of oriented gradient features
+		Google Scholar citation: 38; Published year: 2014; Published venue: Proceedings of the 7th International Conference on PErvasive Technologies ….
+	133: SignStream: A tool for linguistic and computer vision research on visual-gestural language data
+		Google Scholar citation: 120; Published year: 2001; Published venue: Behavior Research Methods, Instruments, & Computers 33 (3), 311-320.
+	134: Simultaneous localization and recognition of dynamic hand gestures
+		Google Scholar citation: 104; Published year: 2005; Published venue: 2005 Seventh IEEE Workshops on Applications of Computer Vision (WACV/MOTION ….
+	135: Skin color-based video segmentation under time-varying illumination
+		Google Scholar citation: 350; Published year: 2004; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence 26 (7), 862-877.
+	136: Study of Small Scale Fisheries and Analyzing Catch Lengths Relating to Minimum Landing Sizes in Eastern Coastal Mediterranean Samos, Greece
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	137: Supplementary Material for “λ-net: Reconstruct Hyperspectral Images from a Snapshot Measurement”
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	138: System and method for detecting and tracking a guidewire in a fluoroscopic image sequence
+		Google Scholar citation: 78; Published year: 2010; Published venue: US Patent 7,792,342.
+	139: System and method for online optimization of guidewire visibility in fluoroscopic systems
+		Google Scholar citation: 11; Published year: 2011; Published venue: US Patent 8,050,482.
+	140: System and method for simultaneously subsampling fluoroscopic images and enhancing guidewire visibility
+		Google Scholar citation: 4; Published year: 2011; Published venue: US Patent 7,970,191.
+	141: Technical Report BU-CS-TR-2001-021
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	142: Technical Report BU-CS-TR-2001-022
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	143: The ChaLearn gesture dataset (CGD 2011)
+		Google Scholar citation: 82; Published year: 2014; Published venue: Machine Vision and Applications 25 (8), 1929-1951.
+	144: The american sign language lexicon video dataset
+		Google Scholar citation: 82; Published year: 2008; Published venue: 2008 IEEE Computer Society Conference on Computer Vision and Pattern ….
+	145: The move-split-merge metric for time series
+		Google Scholar citation: 97; Published year: 2012; Published venue: IEEE transactions on Knowledge and Data Engineering 25 (6), 1425-1438.
+	146: The role of dictionary learning on sparse representation-based classification
+		Google Scholar citation: 10; Published year: 2013; Published venue: Proceedings of the 6th International Conference on PErvasive Technologies ….
+	147: ThunderNet: A turbo unified network for real-time semantic segmentation
+		Google Scholar citation: 10; Published year: 2019; Published venue: 2019 IEEE Winter Conference on Applications of Computer Vision (WACV), 1789-1796.
+	148: Toward a 3D body part detection video dataset and hand tracking benchmark
+		Google Scholar citation: 14; Published year: 2013; Published venue: Proceedings of the 6th International Conference on PErvasive Technologies ….
+	149: Towards automated large vocabulary gesture search
+		Google Scholar citation: 14; Published year: 2009; Published venue: Proceedings of the 2nd International Conference on PErvasive Technologies ….
+	150: Towards deep learning based hand keypoints detection for rapid sequential movements from rgb images
+		Google Scholar citation: 2; Published year: 2018; Published venue: Proceedings of the 11th PErvasive Technologies Related to Assistive ….
+	151: Towards faster activity search using embedding-based subsequence matching
+		Google Scholar citation: 0; Published year: 2009; Published venue: Proceedings of the 2nd International Conference on PErvasive Technologies ….
+	152: Tracking with dynamic hidden-state shape models
+		Google Scholar citation: 7; Published year: 2008; Published venue: European Conference on Computer Vision, 643-656.
+	153: Tracking, analysis, and recognition of human gestures in video
+		Google Scholar citation: 18; Published year: 2005; Published venue: Eighth International Conference on Document Analysis and Recognition (ICDAR ….
+	154: Translation and scale-invariant gesture recognition in complex scenes
+		Google Scholar citation: 40; Published year: 2008; Published venue: Proceedings of the 1st international conference on PErvasive Technologies ….
+	155: Use of RSSI and time-of-flight wireless signal characteristics for location tracking
+		Google Scholar citation: 4; Published year: 2011; Published venue: Proceedings of the 4th International Conference on PErvasive Technologies ….
+	156: Webseer: An image search engine for the world wide web
+		Google Scholar citation: 109; Published year: 1997; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+	157: Webseer: An image search engine for the world wide web
+		Google Scholar citation: 109; Published year: 1997; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+	158: Webseer: An image search engine for the world wide web
+		Google Scholar citation: 109; Published year: 1997; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern Recognition.
+	159: l-Net: Reconstruct Hyperspectral Images From a Snapshot Measurement
+		Google Scholar citation: 1; Published year: 2019; Published venue: Proceedings of the IEEE International Conference on Computer Vision, 4059-4069.
+	160: lambda-Net: Reconstruct Hyperspectral Images From a Snapshot Measurement
+		Google Scholar citation: 20; Published year: 2019; Published venue: 2019 IEEE/CVF International Conference on Computer Vision (ICCV), 4058-4068.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+

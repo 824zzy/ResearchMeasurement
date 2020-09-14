@@ -1,0 +1,663 @@
+There are 266 papers in Google Scholar and 285 papers in Microsoft Academic
+Total citations from Google Scholar is 8641, Microsoft Academic is 7,455
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 56 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: 3d segmentation of rodent brain structures using active volume model with shape priors; conference paper
+		Microfost Academic citation: 1; Published year: 2011; Published venue: International Symposium on Biomedical Imaging.
+	2: A Restricted Black-box Adversarial Framework Towards Attacking Graph Embedding Models.
+		Microfost Academic citation: 0; Published year: 2019; Published venue: arXiv: Social and Information Networks.
+	3: Adaptive Graph Convolutional Neural Networks
+		Microfost Academic citation: 134; Published year: 2018; Published venue: National Conference on Artificial Intelligence.
+	4: Advanced sparsity techniques in magnetic resonance imaging
+		Microfost Academic citation: 0; Published year: 2016; Published venue: Machine Learning and Medical Imaging.
+	5: Adversarial Representation Learning on Large-Scale Bipartite Graphs.
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	6: An Efficient Approach to Informative Feature Extraction from Multimodal Data
+		Microfost Academic citation: 12; Published year: 2019; Published venue: National Conference on Artificial Intelligence.
+	7: Analysis of thorium and uranium based nuclear fuel options in Fluoride salt-cooled High-temperature Reactor
+		Microfost Academic citation: 18; Published year: 2015; Published venue: Progress in Nuclear Energy.
+	8: Breaking the Curse of Space Explosion: Towards Efficient NAS with Curriculum Search.
+		Microfost Academic citation: 2; Published year: 2020; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	9: Click-rate prediction model construction method, click-rate prediction method and device
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	10: Collaborative Unsupervised Domain Adaptation for Medical Image Diagnosis
+		Microfost Academic citation: 14; Published year: 2020; Published venue: IEEE Transactions on Image Processing.
+	11: Controllable Image-to-Video Translation: A Case Study on Facial Expression Generation
+		Microfost Academic citation: 8; Published year: 2019; Published venue: National Conference on Artificial Intelligence.
+	12: Cost-Sensitive Portfolio Selection via Deep Reinforcement Learning
+		Microfost Academic citation: 5; Published year: 2020; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	13: Design and Research of Service Platform for Protection and Dissemination of Cultural Heritage Resources of The Silk Road in the Territory of China
+		Microfost Academic citation: 0; Published year: 2015; Published venue: ISPRS Annals of the Photogrammetry, Remote Sensing and Spatial Information Sciences.
+	14: DropEdge: Towards Deep Graph Convolutional Networks on Node Classification.
+		Microfost Academic citation: 5; Published year: 2019; Published venue: arXiv: Learning.
+	15: End-to-End Learning of Motion Representation for Video Understanding
+		Microfost Academic citation: 87; Published year: 2018; Published venue: Computer Vision and Pattern Recognition.
+	16: Error Compensated Quantized SGD and its Applications to Large-scale Distributed Optimization
+		Microfost Academic citation: 53; Published year: 2018; Published venue: International Conference on Machine Learning.
+	17: Exploring Fast and Communication-Efficient Algorithms in Large-scale Distributed Networks
+		Microfost Academic citation: 0; Published year: 2019; Published venue: International Conference on Artificial Intelligence and Statistics.
+	18: Fast iteratively reweighted least squares algorithms for analysis-based sparse reconstruction.
+		Microfost Academic citation: 8; Published year: 2018; Published venue: Medical Image Analysis.
+	19: Fast multi-contrast MRI reconstruction.
+		Microfost Academic citation: 120; Published year: 2014; Published venue: Magnetic Resonance Imaging.
+	20: Graph Convolutional Networks for Temporal Action Localization
+		Microfost Academic citation: 66; Published year: 2019; Published venue: International Conference on Computer Vision.
+	21: Graph Few-shot Learning via Knowledge Transfer
+		Microfost Academic citation: 5; Published year: 2020; Published venue: National Conference on Artificial Intelligence.
+	22: Graph Representation Learning via Graphical Mutual Information Maximization
+		Microfost Academic citation: 4; Published year: 2020; Published venue: The Web Conference.
+	23: Group-driven Reinforcement Learning for Personalized mHealth Intervention
+		Microfost Academic citation: 2; Published year: 2017; Published venue: arXiv: Learning.
+	24: Hyperparameter Learning via Distributional Transfer
+		Microfost Academic citation: 4; Published year: 2019; Published venue: Neural Information Processing Systems.
+	25: Improving Generative Adversarial Networks with Local Coordinate Coding.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: IEEE Transactions on Pattern Analysis and Machine Intelligence.
+	26: Intra-protein binding peptide fragments have specific and intrinsic sequence patterns
+		Microfost Academic citation: 0; Published year: 2017; Published venue: bioRxiv.
+	27: Intra-protein binding peptide fragments have specific and intrinsic sequence patterns
+		Microfost Academic citation: 0; Published year: 2017; Published venue: bioRxiv.
+	28: Learning with Forest Sparsity
+		Microfost Academic citation: 2; Published year: 2012; Published venue: arXiv: Learning.
+	29: Learning with structured sparsity
+		Microfost Academic citation: 200; Published year: 2009; Published venue: International Conference on Machine Learning.
+	30: Learning with structured sparsity
+		Microfost Academic citation: 200; Published year: 2009; Published venue: International Conference on Machine Learning.
+	31: Method, apparatus, computer device and storage medium for predicting click rate
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	32: Model generation method and device and server
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	33: NAT: Neural Architecture Transformer for Accurate and Compact Architectures
+		Microfost Academic citation: 21; Published year: 2019; Published venue: Neural Information Processing Systems.
+	34: Neural network structure obtaining method and device, and storage medium
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	35: Noise removal and impainting model for iris image
+		Microfost Academic citation: 18; Published year: 2004; Published venue: International Conference on Image Processing.
+	36: Nonparametric Topic Modeling with Neural Inference
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Neurocomputing.
+	37: Object detection model training method and target object detection method
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Null.
+	38: Online Adaptive Asymmetric Active Learning with Limited Budgets
+		Microfost Academic citation: 5; Published year: 2019; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	39: Polyp Tracking in Video Colonoscopy Using Optical Flow With an On-The-Fly Trained CNN
+		Microfost Academic citation: 2; Published year: 2019; Published venue: International Symposium on Biomedical Imaging.
+	40: RaFM: Rank-Aware Factorization Machines.
+		Microfost Academic citation: 2; Published year: 2019; Published venue: arXiv: Learning.
+	41: Rectified Cross-Entropy and Upper Transition Loss for Weakly Supervised Whole Slide Image Classifier
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Medical Image Computing and Computer-Assisted Intervention.
+	42: Robust Actor-Critic Contextual Bandit for Mobile Health (mHealth) Interventions
+		Microfost Academic citation: 2; Published year: 2018; Published venue: International Conference on Bioinformatics.
+	43: Robust Contextual Bandit via the Capped-$$\ell _{2}$$ Norm for Mobile Health Intervention
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Workshop on Machine Learning in Medical Imaging.
+	44: Robust Contextual Bandit via the Capped-$\ell_{2}$ norm
+		Microfost Academic citation: 0; Published year: 2017; Published venue: arXiv: Learning.
+	45: Rumor Detection on Social Media with Bi-Directional Graph Convolutional Networks
+		Microfost Academic citation: 4; Published year: 2020; Published venue: National Conference on Artificial Intelligence.
+	46: SU-E-J-122: The CBCT Dose Calculation Using a Patient Specific CBCT Number to Mass Density Conversion Curve Based On a Novel Image Registration and Organ Mapping Method in Head-And-Neck Radiation Therapy
+		Microfost Academic citation: 0; Published year: 2015; Published venue: Medical Physics.
+	47: Semi-Supervised Graph Classification: A Hierarchical Graph Perspective
+		Microfost Academic citation: 12; Published year: 2019; Published venue: The Web Conference.
+	48: Seq3seq fingerprint: towards end-to-end semi-supervised deep drug discovery
+		Microfost Academic citation: 0; Published year: 2018; Published venue: ACM Sigbio Newsletter.
+	49: Sparsity Driven Background Modeling and Foreground Detection
+		Microfost Academic citation: 0; Published year: 2014; Published venue: Null.
+	50: Specific and intrinsic sequence patterns extracted by deep learning from intra-protein binding and non-binding peptide fragments.
+		Microfost Academic citation: 0; Published year: 2017; Published venue: Scientific Reports.
+	51: Supervised Augmentation: Leverage Strong Annotation for Limited Data
+		Microfost Academic citation: 0; Published year: 2020; Published venue: International Symposium on Biomedical Imaging.
+	52: Tackling Over-Smoothing for General Graph Convolutional Networks.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: arXiv: Learning.
+	53: The Benefit of Group Sparsity
+		Microfost Academic citation: 491; Published year: 2010; Published venue: Annals of Statistics.
+	54: Track facial points in unconstrained videos
+		Microfost Academic citation: 4; Published year: 2016; Published venue: British Machine Vision Conference.
+	55: Vacuum-plasma sprayed nanostructured titanium oxide films
+		Microfost Academic citation: 32; Published year: 1999; Published venue: Journal of Thermal Spray Technology.
+	56: Weakly Supervised Dense Event Captioning in Videos
+		Microfost Academic citation: 18; Published year: 2018; Published venue: Neural Information Processing Systems.
+There are 37 Papers appear in Google Schoolar but not in MS Academic
+	1: 2016 IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+		Google Scholar citation: 55; Published year: 2016; Published venue: IEEE.
+	2: 3D Tumor Shape Reconstruction from 2D Bioluminescence Images and Registration with CT Images
+		Google Scholar citation: 2; Published year: 2006; Published venue: Microscopic Image Analysis with Applications in Biology Workshop Proceedings ….
+	3: Accelerated parallel magnetic resonance imaging with combined gradient and wavelet sparsity
+		Google Scholar citation: 3; Published year: 2012; Published venue: In Proc. of the 26th Annual Conference on Neural Information Processing ….
+	4: Adversarial Domain Adaptation for Cell Segmentation
+		Google Scholar citation: 0; Published year: 2020; Published venue: Medical Imaging with Deep Learning.
+	5: An efficient algorithm for dynamic MRI using low-rank and total variation regularizations
+		Google Scholar citation: 19; Published year: 2018; Published venue: Medical image analysis 44, 14-27.
+	6: Automatic Image Annotation and Retrieval Using Group Sparsity, Systems, Man, and Cybernetics, Part B: Cybernetics
+		Google Scholar citation: 5; Published year: 2012; Published venue: IEEE Transactions on 42 (3), 838-849.
+	7: Background subtraction using group sparsity and low rank constraint
+		Google Scholar citation: 12; Published year: 2012; Published venue: Proc. 12th European Conf. Computer Vision (ECCV).
+	8: Clinical Imaging Biomarker Discovery for Survival Prediction on Lung Cancer Imaging Genetic Data
+		Google Scholar citation: 3; Published year: None; Published venue: Proc. of the 19th Annual International Conference on Medical Image Computing ….
+	9: Design and Analysis of Algorithms
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	10: Dual Message Passing Neural Network for Molecular Property Prediction
+		Google Scholar citation: 1; Published year: 2020; Published venue: arXiv preprint arXiv:2005.13607.
+	11: Efficient sparse representation classification using adaptive clustering
+		Google Scholar citation: 7; Published year: 2013; Published venue: Proceedings of the International Conference on Image Processing, Computer ….
+	12: Energy disaggregation via hierarchical factorial hmm
+		Google Scholar citation: 20; Published year: 2014; Published venue: Proceedings of the 2nd International Workshop on Non-Intrusive Load ….
+	13: Eﬃcient MR Image Reconstruction for Compressed MR Imaging
+		Google Scholar citation: 0; Published year: 2010; Published venue: Medical Image Computing and Computer-Assisted Intervention--MICCAI 2010 ….
+	14: Graph Ordering: Towards the Optimal by Learning
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv, arXiv: 2001.06631.
+	15: Hyper-parameter Optimizers
+		Google Scholar citation: 0; Published year: 2018; Published venue: Null.
+	16: IEEE Conference on Computer Vision and Pattern Recognition (CVPR)
+		Google Scholar citation: 11; Published year: 2010; Published venue: Null.
+	17: Image reconstruction
+		Google Scholar citation: 8; Published year: 2013; Published venue: US Patent 8,548,218.
+	18: Image reconstruction
+		Google Scholar citation: 8; Published year: 2013; Published venue: US Patent 8,548,218.
+	19: Imaging genomics
+		Google Scholar citation: 2; Published year: 2018; Published venue: Null.
+	20: Introduction to Deep Learning
+		Google Scholar citation: 0; Published year: 2020; Published venue: Deep Reinforcement Learning, 3-46.
+	21: Iris model based on local orientation description
+		Google Scholar citation: 57; Published year: 2004; Published venue: Proc. Asian Conf. Comput. Vision, 954-959.
+	22: M2CAI surgical tool detection challenge report
+		Google Scholar citation: 14; Published year: 2016; Published venue: Workshop and Challenges on Modeling and Monitoring of Computer Assisted ….
+	23: MICCAI 2012 International Workshop, chapter 3D Anatomical Shape Atlas Construction Using Mesh Quality Preserved Deformable Models
+		Google Scholar citation: 1; Published year: 2012; Published venue: Springer Berlin Heidelberg, Berlin, Heidelberg.
+	24: MolAICal: a soft tool for 3D drug design of protein targets by artificial intelligence and classical algorithm
+		Google Scholar citation: 0; Published year: 2020; Published venue: Briefings in bioinformatics.
+	25: On the acceleration of l-bfgs with second-order information and stochastic batches
+		Google Scholar citation: 2; Published year: 2018; Published venue: arXiv preprint arXiv:1807.05328.
+	26: Real-Time Semantic Segmentation via Auto Depth, Downsampling Joint Decision and Feature Aggregation
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2003.14226.
+	27: RetroXpert: Decompose Retrosynthesis Prediction like A Chemist
+		Google Scholar citation: 1; Published year: 2020; Published venue: ChemRxiv.
+	28: Robust Contextual Bandit via the Capped-  Norm for Mobile Health Intervention
+		Google Scholar citation: 0; Published year: 2018; Published venue: International Workshop on Machine Learning in Medical Imaging, 10-18.
+	29: Robust Contextual Bandit via the Capped-  norm
+		Google Scholar citation: 0; Published year: 2017; Published venue: arXiv preprint arXiv:1708.05446.
+	30: Robust low-dose CT perfusion deconvolution via non-local tensor total variation
+		Google Scholar citation: 1; Published year: 2015; Published venue: Biomedical Engineering Society Annual Meeting, BMES 4.
+	31: SIRF: Simultaneous image registration and fusion in a unified framework
+		Google Scholar citation: 3; Published year: 2014; Published venue: arXiv preprint arXiv:1411.5065.
+	32: Sparse deformable models with applications to mouse lv motion analysis using tagged mri
+		Google Scholar citation: 1; Published year: 2012; Published venue: First International Workshop on Sparsity Techniques in Medical Imaging.
+	33: Tencent ml-images: A large-scale multi-label image database for visual representation learning
+		Google Scholar citation: 30; Published year: 2019; Published venue: IEEE Access 7, 172683-172693.
+	34: The truly deep graph convolutional networks for node classification
+		Google Scholar citation: 8; Published year: 2019; Published venue: arXiv preprint arXiv:1907.10903.
+	35: Towards robust and effective shape modeling: Sparse shape composition
+		Google Scholar citation: 259; Published year: 2012; Published venue: Medical image analysis 16 (1), 265-277.
+	36: Transformation-invariant Collaborative Sub-representation
+		Google Scholar citation: 11; Published year: 2014; Published venue: Pattern Recognition (ICPR), 2014 22nd International Conference on, 3738-3743.
+	37: User-Guided Domain Adaptation for Rapid Annotation from User Interactions: A Study on Pathological Liver Segmentation
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2009.02455.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+3D segmentation of rodent brain structures using active volume model with shape priors
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+3D segmentation of rodent brain structures using hierarchical shape priors and deformable models
+google scholar citation: 16, microsoft academic citation: 10
+------------------------------------------------------------
+3D tumor shape reconstruction from 2D bioluminescence images
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+4D cardiac reconstruction using high resolution CT images
+google scholar citation: 23, microsoft academic citation: 17
+------------------------------------------------------------
+A 3D Laplacian-driven parametric deformable model
+google scholar citation: 19, microsoft academic citation: 10
+------------------------------------------------------------
+Accelerated dynamic MRI reconstruction with total variation and nuclear norm regularization
+google scholar citation: 29, microsoft academic citation: 21
+------------------------------------------------------------
+Accelerated sparse optimization for missing data completion
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Active volume models with probabilistic object boundary prediction module
+google scholar citation: 11, microsoft academic citation: 10
+------------------------------------------------------------
+Adaptive cost-sensitive online classification
+google scholar citation: 16, microsoft academic citation: 11
+------------------------------------------------------------
+Adaptive Proximal Average Approximation for Composite Convex Minimization.
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Adversarial learning with local coordinate coding
+google scholar citation: 24, microsoft academic citation: 13
+------------------------------------------------------------
+A general efficient hyperparameter-free algorithm for convolutional sparse learning
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+A Generalized Locally Linear Factorization Machine with Supervised Variational Encoding
+google scholar citation: 1, microsoft academic citation: 2
+------------------------------------------------------------
+An effective approach for robust lung cancer cell detection
+google scholar citation: 18, microsoft academic citation: 10
+------------------------------------------------------------
+A new iris segmentation method for recognition
+google scholar citation: 175, microsoft academic citation: 180
+------------------------------------------------------------
+An iris image synthesis method based on PCA and super-resolution
+google scholar citation: 148, microsoft academic citation: 150
+------------------------------------------------------------
+A Restricted Black-Box Adversarial Framework Towards Attacking Graph Embedding Models.
+google scholar citation: 10, microsoft academic citation: 0
+------------------------------------------------------------
+A Spatio-Temporal Low-rank Total Variation Approach for Denoising Arterial Spin Labeling MRI Data
+google scholar citation: 11, microsoft academic citation: 10
+------------------------------------------------------------
+Automated compromised right lung segmentation method using a robust atlas-based active volume model with sparse shape composition prior in CT
+google scholar citation: 16, microsoft academic citation: 8
+------------------------------------------------------------
+Automatic extraction of cell nuclei from H&E-stained histopathological images
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Automatic image annotation and retrieval using group sparsity
+google scholar citation: 104, microsoft academic citation: 107
+------------------------------------------------------------
+Automatic image annotation using group sparsity
+google scholar citation: 215, microsoft academic citation: 221
+------------------------------------------------------------
+Background subtraction using low rank and group sparsity constraints
+google scholar citation: 100, microsoft academic citation: 102
+------------------------------------------------------------
+Bipartite Graph Neural Networks for Efficient Node Representation Learning
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Calibrationless parallel MRI with joint total variation regularization
+google scholar citation: 44, microsoft academic citation: 39
+------------------------------------------------------------
+Cell detection with deep learning accelerated by sparse kernel
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Cervigram image segmentation based on reconstructive sparse representations
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Cohesion-based online actor-critic reinforcement learning for mhealth intervention
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Cohesion-driven Online Actor-Critic Reinforcement Learning for mHealth Intervention
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Co-Heterogeneous and Adaptive Segmentation from Multi-Source and Multi-Phase CT Imaging Data: A Study on Pathological Liver and Lesion Segmentation
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Collaborative channel pruning for deep networks
+google scholar citation: 23, microsoft academic citation: 17
+------------------------------------------------------------
+Complexities in projection-free stochastic non-convex minimization
+google scholar citation: 14, microsoft academic citation: 6
+------------------------------------------------------------
+Composite splitting algorithms for convex optimization
+google scholar citation: 94, microsoft academic citation: 95
+------------------------------------------------------------
+Comprehensive computational pathological image analysis predicts lung cancer prognosis
+google scholar citation: 55, microsoft academic citation: 54
+------------------------------------------------------------
+Compressed magnetic resonance imaging based on wavelet sparsity and nonlocal total variation
+google scholar citation: 55, microsoft academic citation: 56
+------------------------------------------------------------
+Compressive sensing MRI with wavelet tree sparsity
+google scholar citation: 112, microsoft academic citation: 114
+------------------------------------------------------------
+Computer-assisted diagnosis of lung cancer using quantitative topology features
+google scholar citation: 18, microsoft academic citation: 16
+------------------------------------------------------------
+Construction of left ventricle 3D shape atlas from cardiac MRI
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+COVID-DA: Deep Domain Adaptation from Typical Pneumonia to COVID-19
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+Deep convolutional neural network for survival analysis with pathological images
+google scholar citation: 60, microsoft academic citation: 56
+------------------------------------------------------------
+Deep correlational learning for survival prediction from multi-modality data
+google scholar citation: 39, microsoft academic citation: 29
+------------------------------------------------------------
+Deep learning based multi-label classification for surgical tool presence detection in laparoscopic videos
+google scholar citation: 19, microsoft academic citation: 11
+------------------------------------------------------------
+Deep Multi-instance Learning for Survival Prediction from Whole Slide Images
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Deep multi-instance learning with dynamic pooling
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Deep Sparse Representation for Robust Image Registration
+google scholar citation: 22, microsoft academic citation: 12
+------------------------------------------------------------
+Deformable segmentation via sparse shape representation
+google scholar citation: 49, microsoft academic citation: 34
+------------------------------------------------------------
+Detecting 10,000 cells in one second
+google scholar citation: 30, microsoft academic citation: 16
+------------------------------------------------------------
+Diffuse optical tomography enhanced by clustered sparsity for functional brain imaging
+google scholar citation: 24, microsoft academic citation: 21
+------------------------------------------------------------
+Discrimination-aware network pruning for deep model compression
+google scholar citation: 4, microsoft academic citation: 5
+------------------------------------------------------------
+Discriminative sparse representations for cervigram image segmentation
+google scholar citation: 34, microsoft academic citation: 25
+------------------------------------------------------------
+Distributed inexact Newton-type pursuit for non-convex sparse learning
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+Dropedge: Towards deep graph convolutional networks on node classification
+google scholar citation: 30, microsoft academic citation: 5
+------------------------------------------------------------
+DTWNet: a dynamic time warping network
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Dual reconstruction nets for image super-resolution with gradient sensitive loss
+google scholar citation: 13, microsoft academic citation: 9
+------------------------------------------------------------
+Dynamic texture based heart localization and segmentation in 4-D cardiac images
+google scholar citation: 20, microsoft academic citation: 12
+------------------------------------------------------------
+Early triage of critically ill COVID-19 patients using deep learning
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Efficient lung cancer cell detection with deep convolution neural network
+google scholar citation: 21, microsoft academic citation: 10
+------------------------------------------------------------
+Efficient optimization for linear dynamical systems with applications to clustering and sparse coding
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Efficient preconditioning in joint total variation regularized parallel MRI reconstruction
+google scholar citation: 19, microsoft academic citation: 13
+------------------------------------------------------------
+Explicit occlusion detection based deformable fitting for facial landmark localization
+google scholar citation: 16, microsoft academic citation: 11
+------------------------------------------------------------
+Exploiting both intra-quadtree and inter-spatial structures for multi-contrast MRI
+google scholar citation: 5, microsoft academic citation: 6
+------------------------------------------------------------
+Exploiting the wavelet structure in compressed sensing MRI
+google scholar citation: 49, microsoft academic citation: 32
+------------------------------------------------------------
+Eye localization through multiscale sparse dictionaries
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+Face landmark fitting via optimized part mixtures and cascaded deformable model
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+Fast iteratively reweighted least squares algorithms for analysis-based sparsity reconstruction
+google scholar citation: 15, microsoft academic citation: 2
+------------------------------------------------------------
+Fast multi-contrast MRI reconstruction
+google scholar citation: 101, microsoft academic citation: 120
+------------------------------------------------------------
+Fast optimization for mixture prior models
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+Fast preconditioning for accelerated multi-contrast MRI reconstruction
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+Fast regions-of-interest detection in whole slide histopathology images
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+Feature matching with affine-function transformation models
+google scholar citation: 13, microsoft academic citation: 7
+------------------------------------------------------------
+Forest sparsity for multi-channel compressive sensing
+google scholar citation: 28, microsoft academic citation: 23
+------------------------------------------------------------
+From whole slide imaging to microscopy: Deep microscopy adaptation network for histopathology cancer image classification
+google scholar citation: 17, microsoft academic citation: 16
+------------------------------------------------------------
+Graph CNN for survival analysis on whole slide pathological images
+google scholar citation: 15, microsoft academic citation: 13
+------------------------------------------------------------
+Graph convolutional nets for tool presence detection in surgical videos
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Group-driven reinforcement learning for personalized mhealth intervention
+google scholar citation: 13, microsoft academic citation: 2
+------------------------------------------------------------
+Group sparsity based classification for cervigram segmentation
+google scholar citation: 17, microsoft academic citation: 13
+------------------------------------------------------------
+Guest Editorial: Special issue on advances in computing techniques for big medical image data
+google scholar citation: 2, microsoft academic citation: 3
+------------------------------------------------------------
+Head pose estimation by instance parameterization
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+Hierarchical sparse representation for robust image registration
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+Image fusion with local spectral consistency and dynamic gradient sparsity
+google scholar citation: 92, microsoft academic citation: 96
+------------------------------------------------------------
+Imaging biomarker discovery for lung cancer survival prediction
+google scholar citation: 39, microsoft academic citation: 29
+------------------------------------------------------------
+Imaging-genetic data mapping for clinical outcome prediction via supervised conditional gaussian graphical model
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+Instrument Tracking via Online Learning in Retinal Microsurgery
+google scholar citation: 26, microsoft academic citation: 15
+------------------------------------------------------------
+Integrating 3d geometry of organ for improving medical image segmentation
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Integrating shape and texture in 3D deformable models: from Metamorphs to Active Volume Models
+google scholar citation: 11, microsoft academic citation: 5
+------------------------------------------------------------
+Is Interactional Dissynchrony a Clue to Deception: Insights from Automated Analysis of Nonverbal Visual Cues
+google scholar citation: 32, microsoft academic citation: 16
+------------------------------------------------------------
+Joint kernel-based supervised hashing for scalable histopathological image analysis
+google scholar citation: 26, microsoft academic citation: 24
+------------------------------------------------------------
+Label-Driven Reconstruction for Domain Adaptation in Semantic Segmentation
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Large-scale multi-view spectral clustering via bipartite graph
+google scholar citation: 189, microsoft academic citation: 190
+------------------------------------------------------------
+Learning active facial patches for expression analysis
+google scholar citation: 302, microsoft academic citation: 305
+------------------------------------------------------------
+Learning Based Resolution Enhancement of Iris Images.
+google scholar citation: 62, microsoft academic citation: 27
+------------------------------------------------------------
+Learning graph while training: An evolving graph convolutional neural network
+google scholar citation: 8, microsoft academic citation: 2
+------------------------------------------------------------
+Learning Joint Wasserstein Auto-Encoders for Joint Distribution Matching
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Learning multiscale active facial patches for expression analysis
+google scholar citation: 117, microsoft academic citation: 121
+------------------------------------------------------------
+Learning with dynamic group sparsity
+google scholar citation: 178, microsoft academic citation: 183
+------------------------------------------------------------
+Learning with Structured Sparsity.
+google scholar citation: 588, microsoft academic citation: 200
+------------------------------------------------------------
+Left endocardium segmentation using spatio-temporal Metamorphs
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Leveraging Other Datasets for Medical Imaging Classification: Evaluation of Transfer, Multi-task and Semi-supervised Learning
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Method and apparatus for image registration in the gradient domain
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Molecular Graph Enhanced Transformer for Retrosynthesis Prediction
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Multi-frequency diffuse optical tomography for cancer detection
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Multimodal sparse representation classification with fisher discriminative sample reduction
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Multi-view matrix decomposition: a new scheme for exploring discriminative information
+google scholar citation: 21, microsoft academic citation: 14
+------------------------------------------------------------
+O (1) algorithms for overlapping group sparsity
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+On exploring sparsity in widely separated MIMO radar
+google scholar citation: 21, microsoft academic citation: 16
+------------------------------------------------------------
+Online adaptive asymmetric active learning for budgeted imbalanced data
+google scholar citation: 17, microsoft academic citation: 12
+------------------------------------------------------------
+Online compact convexified factorization machine
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Optimal object matching via convexification and composition
+google scholar citation: 18, microsoft academic citation: 12
+------------------------------------------------------------
+Optimization and learning for registration of moving dynamic textures
+google scholar citation: 10, microsoft academic citation: 5
+------------------------------------------------------------
+Order Matters: Semantic-Aware Neural Networks for Binary Code Similarity Detection
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Papillary muscles analysis from high resolution CT using spatial-temporal skeleton extraction
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Phase correlation based iris image registration model
+google scholar citation: 34, microsoft academic citation: 20
+------------------------------------------------------------
+Pose-free facial landmark fitting via optimized part mixtures and cascaded deformable shape model
+google scholar citation: 264, microsoft academic citation: 266
+------------------------------------------------------------
+Preconditioning for accelerated iteratively reweighted least squares in structured sparsity reconstruction
+google scholar citation: 42, microsoft academic citation: 30
+------------------------------------------------------------
+Prim: An efficient preconditioning iterative reweighted least squares method for parallel brain mri reconstruction
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Rafm: Rank-aware factorization machines
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Real time dynamic MRI by exploiting spatial and temporal sparsity
+google scholar citation: 22, microsoft academic citation: 16
+------------------------------------------------------------
+Real time dynamic MRI with dynamic total variation
+google scholar citation: 23, microsoft academic citation: 16
+------------------------------------------------------------
+Re-balancing Variational Autoencoder Loss for Molecule Sequence Generation
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Robust and fast collaborative tracking with two stage sparse optimization
+google scholar citation: 262, microsoft academic citation: 269
+------------------------------------------------------------
+Robust eyelid tracking for fatigue detection
+google scholar citation: 37, microsoft academic citation: 20
+------------------------------------------------------------
+Robust face tracking with a consumer depth camera
+google scholar citation: 12, microsoft academic citation: 10
+------------------------------------------------------------
+Robust mesh editing using Laplacian coordinates
+google scholar citation: 26, microsoft academic citation: 14
+------------------------------------------------------------
+Robust tracking using local sparse appearance model and k-selection
+google scholar citation: 536, microsoft academic citation: 548
+------------------------------------------------------------
+Robust visual tracking using local sparse appearance model and k-selection
+google scholar citation: 152, microsoft academic citation: 154
+------------------------------------------------------------
+RSPIRIT: Robust self-consistent parallel imaging reconstruction based on generalized Lasso
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Scalable histopathological image analysis via supervised hashing with multiple features
+google scholar citation: 24, microsoft academic citation: 21
+------------------------------------------------------------
+Scalable sequential spectral clustering
+google scholar citation: 18, microsoft academic citation: 13
+------------------------------------------------------------
+Semi-supervised group sparse representation: model, algorithm and applications
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Seq2seq fingerprint: An unsupervised deep molecular embedding for drug discovery
+google scholar citation: 52, microsoft academic citation: 22
+------------------------------------------------------------
+Seq3seq fingerprint: towards end-to-end semi-supervised deep drug discovery
+google scholar citation: 11, microsoft academic citation: 0
+------------------------------------------------------------
+Sequential Face Alignment via Person-Specific Modeling in the Wild
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Simultaneous image transformation and sparse representation recovery
+google scholar citation: 139, microsoft academic citation: 144
+------------------------------------------------------------
+SIRF: Simultaneous satellite image registration and fusion in a unified framework
+google scholar citation: 62, microsoft academic citation: 63
+------------------------------------------------------------
+SMILES-BERT: large scale unsupervised pre-training for molecular property prediction
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Sparse deformable models with application to cardiac motion analysis
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Sparse shape composition: A new framework for shape prior modeling
+google scholar citation: 69, microsoft academic citation: 73
+------------------------------------------------------------
+Sparse shape registration for occluded facial feature localization
+google scholar citation: 19, microsoft academic citation: 15
+------------------------------------------------------------
+Structured sparsity: theorems, algorithms and applications
+google scholar citation: 13, microsoft academic citation: 10
+------------------------------------------------------------
+Sub-selective quantization for large-scale image search
+google scholar citation: 14, microsoft academic citation: 8
+------------------------------------------------------------
+Sub-selective quantization for learning binary codes in large-scale image search
+google scholar citation: 12, microsoft academic citation: 9
+------------------------------------------------------------
+Subtype cell detection with an accelerated deep convolution neural network
+google scholar citation: 49, microsoft academic citation: 34
+------------------------------------------------------------
+Tag separation in cardiac tagged MRI
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+TENDER: Tensor non-local deconvolution enabled radiation reduction in CT perfusion
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+The benefit of tree sparsity in accelerated MRI
+google scholar citation: 50, microsoft academic citation: 52
+------------------------------------------------------------
+The General Black-box Attack Method for Graph Neural Networks
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+The role of dictionary learning on sparse representation-based classification
+google scholar citation: 10, microsoft academic citation: 8
+------------------------------------------------------------
+Three Dimensional Head Pose Estimation in-the-Wild
+google scholar citation: 17, microsoft academic citation: 9
+------------------------------------------------------------
+Towards fast adaptation of neural architectures with meta learning
+google scholar citation: 6, microsoft academic citation: 8
+------------------------------------------------------------
+Track facial points in unconstrained videos
+google scholar citation: 9, microsoft academic citation: 4
+------------------------------------------------------------
+Transfer learning via learning to transfer
+google scholar citation: 42, microsoft academic citation: 50
+------------------------------------------------------------
+Unsupervised Adversarial Graph Alignment with Graph Embedding
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Weakly supervised deep learning for thoracic disease classification and localization on chest x-rays
+google scholar citation: 36, microsoft academic citation: 19
+------------------------------------------------------------
+Weakly supervised mitosis detection in breast histopathology images using concentric loss
+google scholar citation: 21, microsoft academic citation: 18
+------------------------------------------------------------
+Weakly supervised region proposal network and object detection
+google scholar citation: 85, microsoft academic citation: 88
+------------------------------------------------------------
+Wsisa: Making survival prediction from whole slide histopathological images
+google scholar citation: 68, microsoft academic citation: 61
+------------------------------------------------------------

@@ -1,0 +1,45 @@
+There are 20 papers in Google Scholar and 13 papers in Microsoft Academic
+Total citations from Google Scholar is 101, Microsoft Academic is 52
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 6 Papers appear in Google Schoolar but not in MS Academic
+	1: A Matrix Completion Approach for Predicting lncRNA-disease association
+		Google Scholar citation: 1; Published year: 2019; Published venue: Proceedings of the International Conference on Bioinformatics ….
+	2: COMPUTATIONAL APPROACHES FOR FINDING DISEASE RELATED GENES AND RNAS
+		Google Scholar citation: 0; Published year: 2019; Published venue: Null.
+	3: Graph Regularized Matrix Factorization for MiRNA-Disease Association Prediction
+		Google Scholar citation: 0; Published year: 2018; Published venue: The 2018 World Congress in Computer Science, Computer Engineering, & Applied ….
+	4: High intake of folate provides anti-parkinsonism effects: no role for plasma level of homocysteine
+		Google Scholar citation: 0; Published year: 2012; Published venue: European Journal of Neurology 19, 337.
+	5: K+ CHANNEL BLOCKER OF TETRAETHYLAMMONIUM AND B VITAMINS INCREASE EFFICACY OF CELL REPLACEMENT THERAPY IN THE TREATMENT OF PARKINSON'S DISEASE
+		Google Scholar citation: 0; Published year: 2013; Published venue: Null.
+	6: Themes: Title: K+ channel blocker of tetraethylammonium and B vitamins increase efficacy of cell replacement therapy in the treatment of Parkinson's disease
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A correlation based matrix completion approach to gene expression prediction
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A Robust Principal Component Analysis via Alternating Direction Method of Multipliers to Gene-Expression Prediction
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Blockade of fast A-type and TEA-sensitive potassium channels provide an antiparkinsonian effect in a 6-OHDA animal model
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+Evaluation of the association between blood homocysteine concentration and the degree of behavioral symptoms in the 6-hydroxydopamine-induced Parkinsonism in rat
+google scholar citation: 17, microsoft academic citation: 5
+------------------------------------------------------------
+High intake of folic acid or complex of B vitamins provides anti-Parkinsonism effect: no role for serum level of homocysteine
+google scholar citation: 20, microsoft academic citation: 11
+------------------------------------------------------------
+Sexual function and associated factors in Iranian patients with chronic low back pain
+google scholar citation: 21, microsoft academic citation: 6
+------------------------------------------------------------
+Significant effects of 4-aminopyridine and tetraethylammonium in the treatment of 6-hydroxydopamine-induced Parkinson's disease
+google scholar citation: 16, microsoft academic citation: 14
+------------------------------------------------------------
+The Anti-Parkinsonism Effects of KATP Channel Blockade in the 6-Hydroxydopamine-Induced Animal Model: The Role of Oxidative Stress
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------

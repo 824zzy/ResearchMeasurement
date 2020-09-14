@@ -1,0 +1,40 @@
+There are 14 papers in Google Scholar and 12 papers in Microsoft Academic
+Total citations from Google Scholar is 61, Microsoft Academic is 35
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 2 Papers appear in Google Schoolar but not in MS Academic
+	1: Color Detection of Smoke in Aerial Images of Forest Fires
+		Google Scholar citation: 0; Published year: 2012; Published venue: Null.
+	2: Integration of Multimodal Sensor Data for Targeted Assessment and Intervention
+		Google Scholar citation: 0; Published year: 2017; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A survey of sensing modalities for human activity, behavior, and physiological monitoring
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Comparing Objective and Subjective Metrics Between Physical and Virtual Tasks
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Evaluation of a Low Cost EMG Sensor as a Modality for Use in Virtual Reality Applications
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+MAGNI: A Real-Time Robot-Aided Game-Based Tele-Rehabilitation System
+google scholar citation: 3, microsoft academic citation: 4
+------------------------------------------------------------
+Pot hunter: A virtual reality game for analyzing range of motion
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Quantitative evaluation of the Kinect skeleton tracker for physical rehabilitation exercises
+google scholar citation: 9, microsoft academic citation: 5
+------------------------------------------------------------
+Real-Time Static Gesture Recognition for Upper Extremity Rehabilitation Using the Leap Motion
+google scholar citation: 19, microsoft academic citation: 11
+------------------------------------------------------------
+Self-managed patient-game interaction using the barrett WAM arm for motion analysis
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+Using CAVE in physical rehabilitation exercises for rheumatoid arthritis
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------

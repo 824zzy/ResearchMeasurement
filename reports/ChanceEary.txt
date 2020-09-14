@@ -1,0 +1,10 @@
+There are 5 papers in Google Scholar and 4 papers in Microsoft Academic
+Total citations from Google Scholar is 5, Microsoft Academic is 4
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 1 Papers appear in Google Schoolar but not in MS Academic
+	1: Distributed Data Management in Opportunistic Networks
+		Google Scholar citation: 0; Published year: 2016; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:

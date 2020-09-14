@@ -1,0 +1,379 @@
+There are 160 papers in Google Scholar and 137 papers in Microsoft Academic
+Total citations from Google Scholar is 4496, Microsoft Academic is 4,994
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 27 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: A Combinatorial Approach to Detecting Buffer Overflow Vulnerabilities | NIST
+		Microfost Academic citation: 0; Published year: 2011; Published venue: ACM Transactions on Software Engineering and Methodology.
+	2: A Survey of Binary Covering Arrays | NIST
+		Microfost Academic citation: 0; Published year: 2011; Published venue: Electronic Journal of Combinatorics.
+	3: A general model for reachability testing of concurrent programs
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+	4: Alternating Pointwise-Pairwise Learning for Personalized Item Ranking
+		Microfost Academic citation: 9; Published year: 2017; Published venue: Conference on Information and Knowledge Management.
+	5: An evaluation of e-business metamodels
+		Microfost Academic citation: 0; Published year: 2005; Published venue: Software Engineering and Knowledge Engineering.
+	6: Combinatorial Methods for Event Sequence Testing
+		Microfost Academic citation: 81; Published year: 2012; Published venue: International Conference on Software Testing, Verification, and Validation.
+	7: Content-based Influence Modeling for Opinion Behavior Prediction
+		Microfost Academic citation: 6; Published year: 2016; Published venue: International Conference on Computational Linguistics.
+	8: Cross-Lingual Sentiment Relation Capturing for Cross-Lingual Sentiment Analysis
+		Microfost Academic citation: 0; Published year: 2017; Published venue: European Conference on Information Retrieval.
+	9: Geom-GCN: Geometric Graph Convolutional Networks
+		Microfost Academic citation: 14; Published year: 2020; Published venue: International Conference on Learning Representations.
+	10: Geom-GCN: Geometric Graph Convolutional Networks
+		Microfost Academic citation: 14; Published year: 2020; Published venue: International Conference on Learning Representations.
+	11: Interactive Recommendation with User-Specific Deep Reinforcement Learning
+		Microfost Academic citation: 1; Published year: 2019; Published venue: ACM Transactions on Knowledge Discovery From Data.
+	12: Learning to Adapt Credible Knowledge in Cross-lingual Sentiment Analysis
+		Microfost Academic citation: 14; Published year: 2015; Published venue: International Joint Conference on Natural Language Processing.
+	13: MirrorDroid: A framework to detect sensitive information leakage in Android by duplicate program execution
+		Microfost Academic citation: 0; Published year: 2017; Published venue: Conference on Information Sciences and Systems.
+	14: Neighborhood Attention Networks With Adversarial Learning for Link Prediction.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: IEEE Transactions on Neural Networks.
+	15: Neighborhood Interaction Attention Network for Link Prediction
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Conference on Information and Knowledge Management.
+	16: Reachability testing of monitor-based programs
+		Microfost Academic citation: 3; Published year: 2004; Published venue: IASTED Conference on Software Engineering and Applications.
+	17: Reachability testing of semaphore-based programs
+		Microfost Academic citation: 12; Published year: 2004; Published venue: Computer Software and Applications Conference.
+	18: Reinforcement Learning based Recommendation with Graph Convolutional Q-network
+		Microfost Academic citation: 0; Published year: 2020; Published venue: International ACM SIGIR Conference on Research and Development in Information Retrieval.
+	19: STUDENT PAPER: Reusing Existing Test Cases for Security Testing
+		Microfost Academic citation: 0; Published year: 2008; Published venue: Null.
+	20: Social Attentive Deep Q-network for Recommendation
+		Microfost Academic citation: 1; Published year: 2019; Published venue: International ACM SIGIR Conference on Research and Development in Information Retrieval.
+	21: Social Attentive Deep Q-networks for Recommender Systems
+		Microfost Academic citation: 0; Published year: 2020; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	22: Social collaborative filtering by trust
+		Microfost Academic citation: 380; Published year: 2013; Published venue: International Joint Conference on Artificial Intelligence.
+	23: Social collaborative filtering by trust
+		Microfost Academic citation: 380; Published year: 2013; Published venue: International Joint Conference on Artificial Intelligence.
+	24: The tail at scale: how to predict it?
+		Microfost Academic citation: 8; Published year: 2016; Published venue: IEEE International Conference on Cloud Computing Technology and Science.
+	25: User Preference Modeling by Trust Propagation for Rating Prediction
+		Microfost Academic citation: 0; Published year: 2015; Published venue: IEEE International Conference on Smart City/SocialCom/SustainCom.
+	26: Variational Recurrent Model for Session-based Recommendation
+		Microfost Academic citation: 2; Published year: 2018; Published venue: Conference on Information and Knowledge Management.
+	27: When Collaborative Filtering Meets Reinforcement Learning.
+		Microfost Academic citation: 1; Published year: 2019; Published venue: arXiv: Learning.
+There are 50 Papers appear in Google Schoolar but not in MS Academic
+	1: 1 Evolution from Design of Experiments (R. Kacker)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	2: 9th International Workshop on Combinatorial Testing (IWCT 2020) March 23th, 2020, Porto, Portugal
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	3: A Blocking-Based Agproach to Pr 1 li i 11
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	4: A Blocking-Based Mroach to mm
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	5: A comparison of workflow metamodels
+		Google Scholar citation: 100; Published year: 1997; Published venue: Proceedings of the ER-97 Workshop on Behavioral Modeling and Design ….
+	6: A small-sample, bi-directional scattering measurement system from 200-500 GHz
+		Google Scholar citation: 3; Published year: 2012; Published venue: Null.
+	7: A test generation for pairwise testing
+		Google Scholar citation: 2; Published year: 2001; Published venue: North Carolina State University. Dept. of Computer Science.
+	8: Abstraction of multiple executions of object-oriented programs
+		Google Scholar citation: 3; Published year: 2009; Published venue: Proceedings of the 2009 ACM symposium on Applied Computing, 549-550.
+	9: Advanced combinatorial test methods for system reliability
+		Google Scholar citation: 7; Published year: 2010; Published venue: 2010 Annual Technical Report of the IEEE Reliability Society, Jan. 2011.
+	10: Applying combinatorial testing to the siemens suite
+		Google Scholar citation: 27; Published year: 2013; Published venue: 2013 IEEE Sixth International Conference on Software Testing, Verification ….
+	11: CCM: A tool for measuring combinatorial coverage of system state space
+		Google Scholar citation: 9; Published year: 2013; Published venue: 2013 ACM/IEEE International Symposium on Empirical Software Engineering and ….
+	12: Combinatorial Testing for Software used in Metrology
+		Google Scholar citation: 0; Published year: 2012; Published venue: Null.
+	13: Combinatorial Testing: Theory and Practice, Section 8.
+		Google Scholar citation: 0; Published year: 2015; Published venue: Advances in Computing.
+	14: Combinatorial and random testing effectiveness for a grid computer simulator
+		Google Scholar citation: 11; Published year: 2008; Published venue: NIST Tech. Rpt 24.
+	15: CrossTalk: The Journal of Defense Software Engineering. Volume 19, Number 6
+		Google Scholar citation: 1; Published year: 2006; Published venue: SOFTWARE TECHNOLOGY SUPPORT CENTER HILL AFB UT.
+	16: DCMTs: Supporting Dynamically Created Migratory Threads
+		Google Scholar citation: 0; Published year: 2010; Published venue: 2010 13th IEEE International Conference on Computational Science and ….
+	17: Department of Computer Science North Carolina State University Raleigh, NC 27695-7534, USA
+		Google Scholar citation: 0; Published year: 2001; Published venue: Null.
+	18: Distributed reachability testing of concurrent programs
+		Google Scholar citation: 28; Published year: 2010; Published venue: Concurrency and Computation: Practice and Experience 22 (18), 2445-2466.
+	19: Efficient methods for interoperability testing using event sequences
+		Google Scholar citation: 5; Published year: 2012; Published venue: FLIGHT TEST SQUADRON (46TH) EGLIN AFB FL.
+	20: Efficient verification of equivalence classes and simultaneous testing using two-layer covering arrays
+		Google Scholar citation: 2; Published year: 2015; Published venue: Proceedings of the 4th International Workshop on Combinatorial Testing.
+	21: Estimating fault detection effectiveness
+		Google Scholar citation: 6; Published year: 2014; Published venue: 2014 IEEE Seventh International Conference on Software Testing, Verification ….
+	22: Evolution From Design of Experiments
+		Google Scholar citation: 0; Published year: 2013; Published venue: Introduction to Combinatorial Testing.
+	23: ICST 2012 Program Committee
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	24: IWCT 2018 Committees
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	25: Identifying failure-causing schemas in the presence of multiple faults
+		Google Scholar citation: 6; Published year: 2018; Published venue: IEEE Transactions on Software Engineering.
+	26: Improved delta debugging based on combinatorial testing
+		Google Scholar citation: 11; Published year: 2012; Published venue: 2012 12th International Conference on Quality Software, 102-105.
+	27: In_Parameter_Oder: A test generation strategy for pairwise testing. Department of Computer Science, North Carolina State University, Raleigh
+		Google Scholar citation: 13; Published year: 2001; Published venue: North Carolina: Technical Report TR-2001-03.
+	28: Introduction to Combinatorial Testing: Preface, Appendix A (Mathematics Review), and Appendix B (Empirical Data on Software Failures)
+		Google Scholar citation: 1; Published year: 2013; Published venue: Introduction to Combinatorial Testing.
+	29: Maintenance
+		Google Scholar citation: 0; Published year: 2019; Published venue: Null.
+	30: Measuring Combinatorial Coverage
+		Google Scholar citation: 0; Published year: 2013; Published venue: Introduction to Combinatorial Testing.
+	31: Message from the IWCT 2019 Chairs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	32: MonitorExplorer: A State Exploration-Based Approach to Testing Java Monitors
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	33: Program Committee Chair
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	34: Program Committees
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	35: Pseudo-Exhaustive Verification of Rule Based Systems.
+		Google Scholar citation: 2; Published year: 2018; Published venue: SEKE, 586-585.
+	36: Reachability analysis and testing of asynchronous message-passing programs
+		Google Scholar citation: 0; Published year: 2002; Published venue: Null.
+	37: Secure Systems and Applications Group
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	38: Test and Diagnostics
+		Google Scholar citation: 0; Published year: 2015; Published venue: CrossTalk.
+	39: The End of the PC
+		Google Scholar citation: 0; Published year: 2012; Published venue: CrossTalk.
+	40: Welcome from the Chairs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	41: Workshop Organization
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	42: Zoomer: An Automated Web Application Change Localization Tool
+		Google Scholar citation: 2; Published year: 2012; Published venue: Journal of Communication and Computer 9 (8), 913-919.
+	43: ■ Algorithms for Covering Array Construction
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 270-283.
+	44: ■ Assertion-Based Testing
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 226-235.
+	45: ■ Combinatorial Testing and Random Test Generation
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 202-215.
+	46: ■ Configuration Testing
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 60-73.
+	47: ■ Fault Localization
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 250-259.
+	48: ■ Input Testing
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 74-93.
+	49: ■ Model-Based Testing
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 236-249.
+	50: ■ Sequence-Covering Arrays
+		Google Scholar citation: 0; Published year: 2016; Published venue: Introduction to Combinatorial Testing, 216-225.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A carbon 2.0 framework based on cloud computing
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+A class library for implementing, testing, and debugging concurrent programs
+google scholar citation: 10, microsoft academic citation: 6
+------------------------------------------------------------
+A combinatorial approach to analyzing cross-site scripting (XSS) vulnerabilities in web application security testing
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+A combinatorial approach to building navigation graphs for dynamic web applications
+google scholar citation: 46, microsoft academic citation: 39
+------------------------------------------------------------
+A combinatorial approach to detecting buffer overflow vulnerabilities
+google scholar citation: 24, microsoft academic citation: 17
+------------------------------------------------------------
+A combinatorial testing-based approach to fault localization
+google scholar citation: 17, microsoft academic citation: 11
+------------------------------------------------------------
+A combinatorial testing strategy for concurrent programs
+google scholar citation: 60, microsoft academic citation: 63
+------------------------------------------------------------
+Acts: A combinatorial test generation tool
+google scholar citation: 117, microsoft academic citation: 119
+------------------------------------------------------------
+A distributed framework for demand-driven software vulnerability detection
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+A Dynamic Approach to Isolating Erroneous Event Patterns in Concurrent Program Executions
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+A general conformance testing framework for IEEE 11073 PHD's communication model
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+A general model for reachability testing of concurrent programs
+google scholar citation: 49, microsoft academic citation: 0
+------------------------------------------------------------
+An efficient algorithm for constraint handling in combinatorial test generation
+google scholar citation: 76, microsoft academic citation: 79
+------------------------------------------------------------
+An empirical comparison of combinatorial and random testing
+google scholar citation: 30, microsoft academic citation: 17
+------------------------------------------------------------
+A new algorithm for reachability testing of concurrent programs
+google scholar citation: 18, microsoft academic citation: 11
+------------------------------------------------------------
+An improved image file storage method using data deduplication
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+An input space modeling methodology for combinatorial testing
+google scholar citation: 20, microsoft academic citation: 13
+------------------------------------------------------------
+An interaction-based test sequence generation approach for testing web applications
+google scholar citation: 41, microsoft academic citation: 33
+------------------------------------------------------------
+An interleaving approach to combinatorial testing and failure-inducing interaction identification
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+A novel framework for non-deterministic testing of message-passing programs
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+Applying combinatorial test data generation to big data applications
+google scholar citation: 22, microsoft academic citation: 11
+------------------------------------------------------------
+Applying combinatorial testing to data mining algorithms
+google scholar citation: 12, microsoft academic citation: 5
+------------------------------------------------------------
+Applying combinatorial testing to high-speed railway track circuit receiver
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+A Spark-based study on the massive video-receive IO issues
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A state exploration-based approach to testing Java monitors
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+A survey of binary covering arrays
+google scholar citation: 59, microsoft academic citation: 61
+------------------------------------------------------------
+A test generation strategy for pairwise testing
+google scholar citation: 452, microsoft academic citation: 460
+------------------------------------------------------------
+A time-series based precopy approach for live migration of virtual machines
+google scholar citation: 79, microsoft academic citation: 82
+------------------------------------------------------------
+Automated combinatorial test methods: Beyond pairwise testing
+google scholar citation: 15, microsoft academic citation: 12
+------------------------------------------------------------
+BEN: A combinatorial testing-based fault localization tool
+google scholar citation: 19, microsoft academic citation: 13
+------------------------------------------------------------
+Blocking-based simultaneous reachability analysis of asynchronous message-passing programs
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+CCM: A tool for measuring combinatorial coverage of system state space
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+Combinatorial coverage as an aspect of test quality
+google scholar citation: 15, microsoft academic citation: 11
+------------------------------------------------------------
+Combinatorial coverage measurement
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+Combinatorial coverage measurement concepts and applications
+google scholar citation: 41, microsoft academic citation: 27
+------------------------------------------------------------
+Combinatorial software testing
+google scholar citation: 135, microsoft academic citation: 139
+------------------------------------------------------------
+Combinatorial testing for software: An adaptation of design of experiments
+google scholar citation: 52, microsoft academic citation: 55
+------------------------------------------------------------
+Combinatorial testing: Theory and practice
+google scholar citation: 38, microsoft academic citation: 28
+------------------------------------------------------------
+Constraint handling in combinatorial test generation using forbidden tuples
+google scholar citation: 31, microsoft academic citation: 28
+------------------------------------------------------------
+Detecting vulnerabilities in c programs using trace-based testing
+google scholar citation: 17, microsoft academic citation: 9
+------------------------------------------------------------
+Effective and Scalable Uncertainty Evaluation for Large-Scale Complex System Applications
+google scholar citation: 0, microsoft academic citation: 5
+------------------------------------------------------------
+Effective generation of test sequences for structural testing of concurrent programs
+google scholar citation: 39, microsoft academic citation: 60
+------------------------------------------------------------
+Efficient algorithms for t-way test sequence generation
+google scholar citation: 11, microsoft academic citation: 9
+------------------------------------------------------------
+Efficient reachability testing of asynchronous message-passing programs
+google scholar citation: 42, microsoft academic citation: 28
+------------------------------------------------------------
+Estimating t-way fault profile evolution during testing
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+Identifying failure-inducing combinations in a combinatorial test set
+google scholar citation: 56, microsoft academic citation: 59
+------------------------------------------------------------
+Identifying failure-inducing combinations using tuple relationship
+google scholar citation: 20, microsoft academic citation: 13
+------------------------------------------------------------
+In-parameter-order: A test generation strategy for pairwise testing
+google scholar citation: 436, microsoft academic citation: 444
+------------------------------------------------------------
+Introduction to combinatorial testing
+google scholar citation: 196, microsoft academic citation: 197
+------------------------------------------------------------
+IPOG: A general strategy for t-way software testing
+google scholar citation: 341, microsoft academic citation: 344
+------------------------------------------------------------
+IPSO: A Scaling Model for Data-Intensive Applications
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Isolating failure-inducing combinations in combinatorial testing using test augmentation and classification
+google scholar citation: 23, microsoft academic citation: 1
+------------------------------------------------------------
+Measuring and specifying combinatorial coverage of test input configurations
+google scholar citation: 17, microsoft academic citation: 10
+------------------------------------------------------------
+M-PCM-OFFD: An effective output statistics estimation method for systems of high dimensional uncertainties subject to low-order parameter interactions
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+Optimizing ipog's vertical growth with constraints based on hypergraph coloring
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Practical combinatorial testing
+google scholar citation: 147, microsoft academic citation: 145
+------------------------------------------------------------
+Practical combinatorial testing: Beyond pairwise
+google scholar citation: 195, microsoft academic citation: 198
+------------------------------------------------------------
+Pseudo-exhaustive testing of attribute based access control rules
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+Random vs. combinatorial methods for discrete event simulation of a grid computer network
+google scholar citation: 19, microsoft academic citation: 14
+------------------------------------------------------------
+Reachability graph-based test sequence generation for concurrent programs
+google scholar citation: 17, microsoft academic citation: 14
+------------------------------------------------------------
+Reachability testing of concurrent programs
+google scholar citation: 159, microsoft academic citation: 161
+------------------------------------------------------------
+Refining the in-parameter-order strategy for constructing covering arrays
+google scholar citation: 154, microsoft academic citation: 157
+------------------------------------------------------------
+Reusing existing test cases for security testing
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+SimFuzz: Test case similarity directed deep fuzzing
+google scholar citation: 13, microsoft academic citation: 7
+------------------------------------------------------------
+Social trust prediction using heterogeneous networks
+google scholar citation: 22, microsoft academic citation: 18
+------------------------------------------------------------
+Social trust prediction using rank-k matrix recovery
+google scholar citation: 52, microsoft academic citation: 54
+------------------------------------------------------------
+Sp 800-142. practical combinatorial testing
+google scholar citation: 18, microsoft academic citation: 128
+------------------------------------------------------------
+Stateless techniques for generating global and local test oracles for message-passing concurrent programs
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Testing TLS using planning-based combinatorial methods and execution framework
+google scholar citation: 6, microsoft academic citation: 5
+------------------------------------------------------------
+The relationship between software bug type and number of factors involved in failures
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------
+Towards an evaluation framework for assistive environments
+google scholar citation: 37, microsoft academic citation: 29
+------------------------------------------------------------
+Using combinatorial testing to build navigation graphs for dynamic web applications
+google scholar citation: 13, microsoft academic citation: 5
+------------------------------------------------------------

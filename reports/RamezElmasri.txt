@@ -1,0 +1,504 @@
+There are 245 papers in Google Scholar and 207 papers in Microsoft Academic
+Total citations from Google Scholar is 17058, Microsoft Academic is 15,607
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 81 Papers appear in Google Schoolar but not in MS Academic
+	1: 5-SCHEMA ARCHITECTURE EXTENDS DBMS TO DISTRIBUTED APPLICATIONS-ADDING 2 MORE SCHEMA LEVELS TO A CENTRALIZED 3-SCHEMA INFORMATION ARCHITECTURE MAY FACILITATE TRANSACTION …
+		Google Scholar citation: 12; Published year: 1982; Published venue: Electronic Design 30 (6), SS27-SS32.
+	2: A Dual Search Engine for Business Employees and Customers
+		Google Scholar citation: 0; Published year: 2009; Published venue: Services and Business Computing Solutions with XML: Applications for Quality, 57.
+	3: A Survey of Mobile Transaction Models
+		Google Scholar citation: 0; Published year: 1996; Published venue: Null.
+	4: A consensus glossary of temporal database concepts
+		Google Scholar citation: 397; Published year: 1994; Published venue: SIGMOD record 23 (1).
+	5: A consensus glossary of temporal database concepts
+		Google Scholar citation: 397; Published year: 1994; Published venue: SIGMOD record 23 (1).
+	6: A prototype relational database of functional genomics and proteomics information concerning the process of aging
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	7: A temporal query language for a conceptual model
+		Google Scholar citation: 2; Published year: 1994; Published venue: Lecture Notes in Computer Science 1 (759), 175-175.
+	8: A user-friendly interface for specifying hierarchical queries on an ER graph database
+		Google Scholar citation: 12; Published year: 1982; Published venue: Tutorial: End User Facilities in the 1980's, IEEE Computer Society Press ….
+	9: Abiteboul, S. 41 Aggarwal, CC 261,593 Agrawal, D 93, 274,496,639 Agrawal, S. 5
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	10: Adaptation of Problem Presentation and Feedback in an Intelligent Mathematics Tutor
+		Google Scholar citation: 74; Published year: 2005; Published venue: Information Technology Journal 5 (5), 167-207.
+	11: An ER Interface for An Object-Oriented System
+		Google Scholar citation: 2; Published year: 1990; Published venue: Department of Computer Science, University of Houston.
+	12: An Evaluation of Distributed Database Tools
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	13: Analytical performance studies of the IVTT bitemporal access structure
+		Google Scholar citation: 3; Published year: 1995; Published venue: Department of Computer Science and Engineering, Southern Methodist University.
+	14: Análisis de las nuevas prerrogativas del autor sobre las obras derivadas de la suya—a la luz del artículo 21 del TRLPI en España
+		Google Scholar citation: 1; Published year: 2014; Published venue: Vniversitas, 81-102.
+	15: Balancing Loads in Mobile Ad hoc Networks* Damla Turgut School of Electrical Engineering and Computer Science The University of Central Florida Orlando, FL 32816-2450
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	16: Benchmarking temporal databases: A research agenda
+		Google Scholar citation: 9; Published year: 1995; Published venue: Department of Computer Science and Engineering, Southern Methodist University.
+	17: BioSO: Bioinformatic Service Ontology for
+		Google Scholar citation: 0; Published year: 2007; Published venue: Proceedings of the fourth Biotechnology and Bioinformatics Symposium, 60.
+	18: Bioso: Bioinformatic service ontology for dynamic biomedical web services integration
+		Google Scholar citation: 6; Published year: 2007; Published venue: Proc. of the Fourth Biotechnology and Bioinformatics Symposium (BIOT 2007 ….
+	19: Conception et architecture des bases de données
+		Google Scholar citation: 14; Published year: 2004; Published venue: Pearson Éducation.
+	20: Conceptual Analysis and Mining of Big Data Using Ontologies and EER
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	21: Conceptual Modeling Using and Extended ER Model
+		Google Scholar citation: 0; Published year: 1991; Published venue: VLDB, 67.
+	22: Conference Organisers
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	23: DSM-5: Evolución conceptual
+		Google Scholar citation: 10; Published year: 2012; Published venue: Null.
+	24: Database Research at UT Arlington (ITLab@ CSE. UTA)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	25: Database Systems: Pearson New International Edition
+		Google Scholar citation: 1; Published year: 2013; Published venue: Pearson Education Limited.
+	26: Datu-base sistemak: oinarriak
+		Google Scholar citation: 2; Published year: 2009; Published venue: Universidad del País Vasco, Servicio Editorial= Euskal Herriko ….
+	27: Detecting meaningful places and predicting locations using varied k-means and hidden Markov model
+		Google Scholar citation: 4; Published year: 2017; Published venue: Conference: 17th SIAM International Conference on Data Mining (SDM 2017 ….
+	28: EFFICIENT INDEXING OF TEMPORAL DATABASES VIA B+-TREES
+		Google Scholar citation: 0; Published year: 1996; Published venue: Null.
+	29: Employees and Customers
+		Google Scholar citation: 0; Published year: 2009; Published venue: Services and Business Computing Solutions with XML: Applications for Quality ….
+	30: Fundamentals of Database Management and Versaware Cd Package
+		Google Scholar citation: 0; Published year: 2002; Published venue: Pearson Higher Education.
+	31: Fundamentals of Database Systems 3rd ed, Sep. 30, 1999
+		Google Scholar citation: 57; Published year: None; Published venue: Addison-Wesley.
+	32: Fundamentals of Database Systems, with E-book
+		Google Scholar citation: 6; Published year: 2001; Published venue: Addison-Wesley, New York.
+	33: Fundamentals of Database Systems. 1994
+		Google Scholar citation: 18; Published year: 1992; Published venue: Bright MW, Hurson A. and Pakzad S., A Taxonomy and Current Issues in ….
+	34: Fundamentals of Database Systems</Title
+		Google Scholar citation: 0; Published year: 2015; Published venue: Advances in Databases and Information Systems: 24th European Conference ….
+	35: Fundamentals of database management systems
+		Google Scholar citation: 19; Published year: 1989; Published venue: Benjamin/Cummings, New York.
+	36: Fundamentos de base de datos
+		Google Scholar citation: 14; Published year: 2007; Published venue: Madrid: lavel sa.
+	37: Fundamentos de sistemas de bases de datos. Fundamentos de sistemas de bases de datos
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	38: GMB: an efficient query processor for biological data
+		Google Scholar citation: 1; Published year: 2011; Published venue: Journal of integrative bioinformatics 8 (2), 130-147.
+	39: Gio Wiederhold, Earl Sacerdoti, Daniel Sagalowicz
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	40: Global Marketing, Global Edition
+		Google Scholar citation: 0; Published year: 2016; Published venue: Pearson Education Limited.
+	41: Grundlagen von Datenbanksystemen
+		Google Scholar citation: 98; Published year: 2009; Published venue: Pearson Deutschland GmbH.
+	42: IVTT: A Bitemporal Indexing Structure Based on Incremental Valid Time Trees
+		Google Scholar citation: 1; Published year: 1995; Published venue: Department of Computer Science and Engineering, Southern Methodist University.
+	43: Integrating relational databases with support for updates
+		Google Scholar citation: 19; Published year: 1988; Published venue: Proceedings International Symposium on Databases in Parallel and Distributed ….
+	44: Integrating user views in database design
+		Google Scholar citation: 321; Published year: 1986; Published venue: Computer, 50-62.
+	45: Integration of Object-Oriented Databases with
+		Google Scholar citation: 0; Published year: 2012; Published venue: OOIS 2001: 7th International Conference on Object-Oriented Information ….
+	46: Interview with Jim Gray
+		Google Scholar citation: 6; Published year: 2003; Published venue: SIGMOD Record 32 (1), 53-61.
+	47: Intuitive and Interactive Query Formulation to Improve the Usability of Query Systems for Heterogeneous Graphs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	48: M-IVTT: An index for bitemporal databases
+		Google Scholar citation: 35; Published year: 1996; Published venue: International Conference on Database and Expert Systems Applications, 779-790.
+	49: Mapping of 2-D temporal extended ER models into temporal FNF and NFNF relational models
+		Google Scholar citation: 8; Published year: 1991; Published venue: Proceedings of the Tenth International Conference on Entity-Relationship ….
+	50: OMNIBASE: Design and implementation of a multidatabase system
+		Google Scholar citation: 56; Published year: 1989; Published venue: Proceedings of the 1st Annual Symposium in Parallel and Distributed ….
+	51: Operating Systems
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	52: Optimizing Clustering Algorithm in Mobile Ad hoc
+		Google Scholar citation: 0; Published year: 2002; Published venue: Conference Record, 62.
+	53: Partitioning of time index for optical disks
+		Google Scholar citation: 53; Published year: 1992; Published venue: 1992 Eighth International Conference on Data Engineering, 574,575,576,577 ….
+	54: Performance of the MAP21 access structure for temporal ranges
+		Google Scholar citation: 4; Published year: 1996; Published venue: Technical Report 96-CSE-02, Southern Methodist University, January 1996 ….
+	55: Performance of the MAP21 access structure for temporal ranges
+		Google Scholar citation: 4; Published year: 1996; Published venue: Technical Report 96-CSE-02, Southern Methodist University, January 1996 ….
+	56: RELATIOESBIP HERGIEG II SCEEMA IItTEoRATIOII
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	57: Recuperación de información: un enfoque práctico y multidisciplinar
+		Google Scholar citation: 19; Published year: 2011; Published venue: Ra-Ma.
+	58: Representing retroactive and proactive versions in bi-temporal databases (2tdb)
+		Google Scholar citation: 8; Published year: 1996; Published venue: Proceedings of the Twelfth International Conference on Data Engineering, 85-94.
+	59: SNOOP EVENT SPECIFICATION: FORMALIZATION ALGORITHMS, AND IMPLEMENTATION USING INTERVAL-BASED SEMANTICS
+		Google Scholar citation: 0; Published year: 2002; Published venue: Null.
+	60: Schema integration algorithms for federated databases and logical database design
+		Google Scholar citation: 39; Published year: 1986; Published venue: Honeywell Computer Sciences Center.
+	61: Shamkant B. Navathe
+		Google Scholar citation: 4; Published year: 2000; Published venue: Fundamentals of Database Sys—tem Third Edition.
+	62: Sistemas de banco de dados
+		Google Scholar citation: 48; Published year: 2005; Published venue: Sham, Addison. Ribeirão Preto SP.
+	63: Sistemas de banco de dados
+		Google Scholar citation: 48; Published year: 2005; Published venue: Sham, Addison. Ribeirão Preto SP.
+	64: Sistemas de banco de dados: fundamentos e aplicações
+		Google Scholar citation: 109; Published year: 2002; Published venue: LTC.
+	65: Sistemas operativos: un enfoque en espiral
+		Google Scholar citation: 8; Published year: 2010; Published venue: McGraw-Hill Interamericana.
+	66: Sistemi di basi di dati
+		Google Scholar citation: 5; Published year: 2018; Published venue: Pearson Addison Wesley.
+	67: Sistemi di basi di dati. Complementi
+		Google Scholar citation: 8; Published year: 2005; Published venue: Pearson Italia Spa.
+	68: Sistemi di basi di dati. Fondamenti
+		Google Scholar citation: 27; Published year: 2004; Published venue: Pearson Italia Spa.
+	69: Study and comparison of schema versioning and database conversion techniques for bi-temporal databases
+		Google Scholar citation: 19; Published year: 1999; Published venue: Proceedings. Sixth International Workshop on Temporal Representation and ….
+	70: Survey of Three Types of XML Indexing Techniques
+		Google Scholar citation: 4; Published year: 2005; Published venue: ACM Trans. on Computational Logic 37 (4), 1-24.
+	71: Technical Report List
+		Google Scholar citation: 0; Published year: 1994; Published venue: Null.
+	72: Technical correspondence
+		Google Scholar citation: 0; Published year: 2012; Published venue: IEEE TRANSACTIONS ON SYSTEMS, MAN, AND CYBERNETICS—PART C: APPLICATIONS AND ….
+	73: The CLASSIG Model: An Object-oriented View of Data Schema
+		Google Scholar citation: 0; Published year: 1990; Published venue: Department of Computer Science, University of Houston.
+	74: The role of meta models in federating system modelling techniques
+		Google Scholar citation: 27; Published year: 1993; Published venue: International Conference on Conceptual Modeling, 315-326.
+	75: Towards an Infrastructure for Temporal Databases: Report of an International ARPA/NSF Workshop [held in Arlington, TX, 14-16.06. 1993]
+		Google Scholar citation: 0; Published year: 1994; Published venue: University of Arizona. Department of Computer Science.
+	76: USING INCREMENTAL TREES FOR SPACE EFFICIENT INDEXING OF BITEMPORAL DATABASES
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	77: Wprowadzenie do systemów baz danych
+		Google Scholar citation: 49; Published year: 2005; Published venue: Helion.
+	78: XML with Recursive Querying
+		Google Scholar citation: 1; Published year: 2009; Published venue: 2009 International Conference on Computational Science and Engineering 1 ….
+	79: and Kalpana Subramanian The Agile Aerospace Manufacturing Research Center, The Automation & Robotics Research Institute, The University of Texas at Arlington
+		Google Scholar citation: 0; Published year: 1995; Published venue: Information systems development for decentralized organizations: proceedings ….
+	80: infrastructure for the supply chain
+		Google Scholar citation: 0; Published year: 2013; Published venue: Information Infrastructure Systems for Manufacturing II: IFIP TC5 WG5. 3/5.7 ….
+	81: “Fundamentals of Database Systems”, Pearson Education, 2008.
+		Google Scholar citation: 0; Published year: 2015; Published venue: BHARATHIDASAN ENGINEERING COLLEGE.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A classification and modeling of the quality of contextual information in smart spaces
+google scholar citation: 18, microsoft academic citation: 20
+------------------------------------------------------------
+A conflict resolution architecture for the comfort of occupants in intelligent office
+google scholar citation: 21, microsoft academic citation: 19
+------------------------------------------------------------
+Adaptive transaction scheduling
+google scholar citation: 16, microsoft academic citation: 10
+------------------------------------------------------------
+A direction based framework for trajectory data analysis
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+ADTP: a new protocol for data processing over the internet
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Advances in Conceptual Modeling-Theory and Practice: ER 2006 Workshops BP-UML, CoMoGIS, COSS, ECDM, OIS, QoIS, SemWAT, Tucson, AZ, USA, November 6-9, 2006, Proceedings
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+A dynamic evidential network for multisensor context reasoning in home-based care
+google scholar citation: 4, microsoft academic citation: 3
+------------------------------------------------------------
+A dynamic normalized weighting based context reasoning in home-based care
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+AeroWEB: an information infrastructure for the supply chain
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+A Framework for Enhancing Non Context-Driven XML Search.
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A graphical data manipulation language for an extended entity-relationship model
+google scholar citation: 155, microsoft academic citation: 160
+------------------------------------------------------------
+A graphical query facility for ER databases
+google scholar citation: 107, microsoft academic citation: 103
+------------------------------------------------------------
+An algebraic language for graphical query formulation using an extended entity-relationship model
+google scholar citation: 28, microsoft academic citation: 14
+------------------------------------------------------------
+An EER-based conceptual model and query language for time-series data
+google scholar citation: 22, microsoft academic citation: 12
+------------------------------------------------------------
+An integrated temporal data model incorporating time series concept
+google scholar citation: 22, microsoft academic citation: 16
+------------------------------------------------------------
+A novel approach to trajectory analysis using string matching and clustering
+google scholar citation: 11, microsoft academic citation: 7
+------------------------------------------------------------
+Architectures for streaming data processing in sensor networks
+google scholar citation: 15, microsoft academic citation: 10
+------------------------------------------------------------
+Archiving Techniques for Temporal Databases.
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A Reference Model for Information Infrastructures
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+A Reliable Data Capture in Multi-RFID Reader Environments
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A resilient application-level failure detection system for distributed computing environments
+google scholar citation: 1, microsoft academic citation: 4
+------------------------------------------------------------
+A Survey of Spatio-Temporal Database Research
+google scholar citation: 3, microsoft academic citation: 0
+------------------------------------------------------------
+A survey on trajectory data warehouse
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+A temporal algebra for an ER-based temporal data model
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+A temporal model and query language for ER databases
+google scholar citation: 212, microsoft academic citation: 215
+------------------------------------------------------------
+A temporal object query language
+google scholar citation: 25, microsoft academic citation: 18
+------------------------------------------------------------
+A temporal query language based on conceptual entities and roles
+google scholar citation: 16, microsoft academic citation: 4
+------------------------------------------------------------
+A theory of attributed equivalence in databases with application to schema integration
+google scholar citation: 537, microsoft academic citation: 549
+------------------------------------------------------------
+A tsql2 tutorial
+google scholar citation: 44, microsoft academic citation: 25
+------------------------------------------------------------
+Automatic class and method generation for object-oriented databases
+google scholar citation: 21, microsoft academic citation: 9
+------------------------------------------------------------
+Balancing loads in mobile ad hoc networks
+google scholar citation: 21, microsoft academic citation: 14
+------------------------------------------------------------
+BusSEngine: a business search engine
+google scholar citation: 22, microsoft academic citation: 16
+------------------------------------------------------------
+Comparative Presentation of Machine Learning Algorithms in Flood Prediction Using Spatio-Temporal Data
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Complete storm identification algorithms from big raw rainfall data using mapreduce framework
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+CXLEngine: A comprehensive XML loosely structured search engine
+google scholar citation: 26, microsoft academic citation: 17
+------------------------------------------------------------
+Database systems
+google scholar citation: 113, microsoft academic citation: 128
+------------------------------------------------------------
+Declustering techniques for parallelizing temporal access structures
+google scholar citation: 13, microsoft academic citation: 11
+------------------------------------------------------------
+Effects of storage architecture on performance of sensor network queries
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+Efficient implementation techniques for the time index
+google scholar citation: 43, microsoft academic citation: 27
+------------------------------------------------------------
+Efficient temporal join processing using time index
+google scholar citation: 37, microsoft academic citation: 23
+------------------------------------------------------------
+Energy balanced in-network aggregation using multiple trees in wireless sensor networks
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Energy efficient spatial query processing in wireless sensor networks
+google scholar citation: 21, microsoft academic citation: 12
+------------------------------------------------------------
+Entity-Relationship Approach-ER'93: 12th International Conference on the Entity-Relationship Approach, Arlington, Texas, USA, December 15-17, 1993. Proceedings
+google scholar citation: 8, microsoft academic citation: 1
+------------------------------------------------------------
+Extending eer modeling concepts for biological data
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Extracting dense regions from hurricane trajectory data
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Extracting storm-centric characteristics from raw rainfall data for storm analysis and mining
+google scholar citation: 10, microsoft academic citation: 11
+------------------------------------------------------------
+Flood prediction and mining influential spatial features on future flood with causal discovery
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Fundamentals of Database Systems with Cdrom and Book
+google scholar citation: 206, microsoft academic citation: 208
+------------------------------------------------------------
+Fundamentos de sistemas de bases de datos
+google scholar citation: 597, microsoft academic citation: 435
+------------------------------------------------------------
+Fusion techniques for reliable information: A survey
+google scholar citation: 33, microsoft academic citation: 24
+------------------------------------------------------------
+GOcSim: GO context-driven similarity
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+GORDAS: a formal high-level query language for the entity-relationship model
+google scholar citation: 111, microsoft academic citation: 116
+------------------------------------------------------------
+GQBE: Querying knowledge graphs by example entity tuples
+google scholar citation: 26, microsoft academic citation: 90
+------------------------------------------------------------
+Graphical query languages for semantic database models
+google scholar citation: 3, microsoft academic citation: 7
+------------------------------------------------------------
+Integrating relational databases with support for updates
+google scholar citation: 19, microsoft academic citation: 21
+------------------------------------------------------------
+Integration of Object-Oriented Databases with VRML in Virtual Environments
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+Investigation of impact factors for various performances of passive UHF RFID system
+google scholar citation: 23, microsoft academic citation: 11
+------------------------------------------------------------
+Issues in data fusion for healthcare monitoring
+google scholar citation: 79, microsoft academic citation: 84
+------------------------------------------------------------
+K-DBSCAN: Identifying spatial clusters with differing density levels
+google scholar citation: 12, microsoft academic citation: 5
+------------------------------------------------------------
+KSRQuerying: XML Keyword with Recursive Querying
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Learning rules for conceptual structure on the web
+google scholar citation: 32, microsoft academic citation: 20
+------------------------------------------------------------
+Local and global constraints in database integration
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+Localization systems using passive UHF RFID
+google scholar citation: 81, microsoft academic citation: 75
+------------------------------------------------------------
+Modelling concepts and database implementation techniques for complex biological data
+google scholar citation: 20, microsoft academic citation: 7
+------------------------------------------------------------
+Multi-level conceptual modeling for biomedical data and ontologies integration
+google scholar citation: 9, microsoft academic citation: 8
+------------------------------------------------------------
+Notes on DDTS: an apparatus for experimental research in distributed database management systems
+google scholar citation: 10, microsoft academic citation: 5
+------------------------------------------------------------
+Object integration in logical database design
+google scholar citation: 58, microsoft academic citation: 54
+------------------------------------------------------------
+Ontology extraction and conceptual modeling for web information
+google scholar citation: 8, microsoft academic citation: 9
+------------------------------------------------------------
+OOXKSearch: A search engine for answering XML keyword and loosely structured queries using OO techniques
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+OOXsearch: a search engine for answering loosely structured XML queries using OO programming
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Operating systems: a spiral approach
+google scholar citation: 10, microsoft academic citation: 0
+------------------------------------------------------------
+Optimizing clustering algorithm in mobile ad hoc networks using genetic algorithmic approach
+google scholar citation: 172, microsoft academic citation: 182
+------------------------------------------------------------
+Optimizing clustering algorithm in mobile ad hoc networks using simulated annealing
+google scholar citation: 64, microsoft academic citation: 68
+------------------------------------------------------------
+Passive UHF RFID-based localization using detection of tag interference on smart shelf
+google scholar citation: 56, microsoft academic citation: 70
+------------------------------------------------------------
+Personalization with Dynamic Group Profile
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+PMTV: A schema versioning approach for bi-temporal databases
+google scholar citation: 4, microsoft academic citation: 9
+------------------------------------------------------------
+Preference-aware poi recommendation with temporal and spatial influence
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Preference-aware successive POI recommendation with spatial and temporal influence
+google scholar citation: 13, microsoft academic citation: 4
+------------------------------------------------------------
+Preference aware travel route recommendation with temporal influence
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Quantitative analysis of scalable NoSQL databases
+google scholar citation: 21, microsoft academic citation: 9
+------------------------------------------------------------
+Query Classification and Storage Evaluation inWireless Sensor Networks
+google scholar citation: 12, microsoft academic citation: 6
+------------------------------------------------------------
+Query engines for web-accessible XML data
+google scholar citation: 54, microsoft academic citation: 60
+------------------------------------------------------------
+Reducing energy consumption through the Union of Disjoint Set Forests Algorithm in sensor networks
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Relationship merging in schema integration
+google scholar citation: 63, microsoft academic citation: 70
+------------------------------------------------------------
+Robust and Dynamic Bin Slotted Anti-Collision Algorithms in RFID System
+google scholar citation: 20, microsoft academic citation: 14
+------------------------------------------------------------
+Scalable deep traffic flow neural networks for urban traffic congestion prediction
+google scholar citation: 60, microsoft academic citation: 59
+------------------------------------------------------------
+Schema versioning and database conversion techniques for bi-temporal databases
+google scholar citation: 23, microsoft academic citation: 13
+------------------------------------------------------------
+SEEC: A Dual Search Engine for Business Employees and Customers
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Semantics of temporal data in an extended ER model
+google scholar citation: 61, microsoft academic citation: 54
+------------------------------------------------------------
+Senddata: an agent for data processing systems using email
+google scholar citation: 3, microsoft academic citation: 6
+------------------------------------------------------------
+Sensor data fusion using dsm theory for activity recognition under uncertainty in home-based care
+google scholar citation: 23, microsoft academic citation: 0
+------------------------------------------------------------
+Singular race models: addressing bias and accuracy in predicting prisoner recidivism
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Specification of calendars and time series for temporal databases
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+SPGProfile: Speak group profile
+google scholar citation: 14, microsoft academic citation: 10
+------------------------------------------------------------
+Study and comparison of schema versioning and database conversion techniques for bi-temporal databases
+google scholar citation: 19, microsoft academic citation: 16
+------------------------------------------------------------
+Temporal database modeling: an object-oriented approach
+google scholar citation: 31, microsoft academic citation: 16
+------------------------------------------------------------
+The category concept: an extension to the entity-relationship model
+google scholar citation: 393, microsoft academic citation: 403
+------------------------------------------------------------
+The Structural Model for Database Design.
+google scholar citation: 106, microsoft academic citation: 13
+------------------------------------------------------------
+The time index: An access structure for temporal data
+google scholar citation: 235, microsoft academic citation: 241
+------------------------------------------------------------
+The time index and the monotonic B+-tree
+google scholar citation: 70, microsoft academic citation: 66
+------------------------------------------------------------
+The time index  an incremental access structure for temporal databases
+google scholar citation: 45, microsoft academic citation: 31
+------------------------------------------------------------
+The TI/R--Tree: a temporal--spatial access structure
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+The virtual manufacturing workbench: representation and interface issues
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Time index access structure for temporal databases having concurrent multiple versions
+google scholar citation: 168, microsoft academic citation: 173
+------------------------------------------------------------
+Towards an infrastructure for temporal databases: report of an invitational ARPA/NSF workshop
+google scholar citation: 110, microsoft academic citation: 113
+------------------------------------------------------------
+Towards a query-by-example system for knowledge graphs
+google scholar citation: 15, microsoft academic citation: 6
+------------------------------------------------------------
+TSQL2 language specification
+google scholar citation: 242, microsoft academic citation: 262
+------------------------------------------------------------
+Using mapreduce to speed up storm identification from big raw rainfall data
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Web data cleansing and preparation for ontology extraction using WordNet
+google scholar citation: 31, microsoft academic citation: 11
+------------------------------------------------------------
+XCDSearch: An XML context-driven search engine
+google scholar citation: 31, microsoft academic citation: 18
+------------------------------------------------------------
+XPCache: An Efficient Query Processor for Client-Server Architecture
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------

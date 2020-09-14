@@ -1,0 +1,70 @@
+There are 31 papers in Google Scholar and 2 papers in Microsoft Academic
+Total citations from Google Scholar is 422, Microsoft Academic is 0
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 1 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Convolutional Sparse Coded Dynamic Brain Functional Connectivity
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Neural Processing Letters.
+There are 30 Papers appear in Google Schoolar but not in MS Academic
+	1: 3D motion reconstruction for real-world camera motion
+		Google Scholar citation: 44; Published year: 2011; Published venue: CVPR 2011, 1-8.
+	2: A Bayesian Disease Progression Model for Clinical Trajectories
+		Google Scholar citation: 0; Published year: 2018; Published venue: Graphs in Biomedical Image Analysis and Integrating Medical Imaging and Non ….
+	3: A Probabilistic Disease Progression Model for Predicting Future Clinical Outcome
+		Google Scholar citation: 3; Published year: 2018; Published venue: arXiv preprint arXiv:1803.05011.
+	4: A novel dynamic hyper-graph inference framework for computer assisted diagnosis of neuro-diseases
+		Google Scholar citation: 17; Published year: 2017; Published venue: International conference on information processing in medical imaging, 158-169.
+	5: A tensor statistical model for quantifying dynamic functional connectivity
+		Google Scholar citation: 4; Published year: 2017; Published venue: International Conference on Information Processing in Medical Imaging, 398-410.
+	6: COVID-19-CT-CXR: a freely accessible and weakly labeled chest X-ray and CT image collection on COVID-19 from biomedical literature
+		Google Scholar citation: 3; Published year: 2020; Published venue: arXiv preprint arXiv:2006.06177.
+	7: Camera-less articulated trajectory reconstruction
+		Google Scholar citation: 6; Published year: 2012; Published venue: Proceedings of the 21st International Conference on Pattern Recognition ….
+	8: Characterizing dynamic functional connectivity using data-driven approaches and its application in the diagnosis of alzheimer’s disease
+		Google Scholar citation: 0; Published year: 2019; Published venue: Connectomics, 181-197.
+	9: Complex non-rigid motion 3d reconstruction by union of subspaces
+		Google Scholar citation: 93; Published year: 2014; Published venue: Proceedings of the IEEE Conference on Computer Vision and Pattern ….
+	10: Convolutional sparse coding for trajectory reconstruction
+		Google Scholar citation: 97; Published year: 2013; Published venue: IEEE transactions on pattern analysis and machine intelligence 37 (3), 529-540.
+	11: Cross-domain medical image translation by shared latent Gaussian mixture model
+		Google Scholar citation: 2; Published year: 2020; Published venue: arXiv preprint arXiv:2007.07230.
+	12: Detecting Cannabis-Associated Cognitive Impairment Using Resting-State fNIRS
+		Google Scholar citation: 0; Published year: 2019; Published venue: International Conference on Medical Image Computing and Computer-Assisted ….
+	13: Dynamic Hyper-Graph Inference Framework for Computer-Assisted Diagnosis of Neurodegenerative Diseases
+		Google Scholar citation: 5; Published year: 2018; Published venue: IEEE transactions on medical imaging 38 (2), 608-616.
+	14: Dynamic fMRI networks predict success in a behavioral weight loss program among older adults
+		Google Scholar citation: 14; Published year: 2018; Published venue: Neuroimage 173, 421-433.
+	15: E Net: An Edge Enhanced Network for Accurate Liver and Tumor Segmentation on CT Scans
+		Google Scholar citation: 2; Published year: 2020; Published venue: arXiv preprint arXiv:2007.09791.
+	16: Early diagnosis of Alzheimer’s disease by joint feature selection and classification on temporally structured support vector machine
+		Google Scholar citation: 32; Published year: 2016; Published venue: International Conference on Medical Image Computing and Computer-Assisted ….
+	17: Editorial Note: Multi-Task Learning
+		Google Scholar citation: 0; Published year: 2018; Published venue: Multimedia Tools and Applications 77 (22), 29207-29207.
+	18: Editorial special issue on multiple-task learning for big data
+		Google Scholar citation: 0; Published year: 2019; Published venue: Pattern Recognition Letters.
+	19: Efficient articulated trajectory reconstruction using dynamic programming and filters
+		Google Scholar citation: 18; Published year: 2012; Published venue: European Conference on Computer Vision, 72-85.
+	20: Identifying high order brain connectome biomarkers via learning on hypergraph
+		Google Scholar citation: 5; Published year: 2016; Published venue: International Workshop on Machine Learning in Medical Imaging, 1-9.
+	21: Image Translation by Latent Union of Subspaces for Cross-Domain Plaque Detection
+		Google Scholar citation: 0; Published year: 2020; Published venue: arXiv preprint arXiv:2005.11384.
+	22: Joint discriminative and representative feature selection for Alzheimer’s disease diagnosis
+		Google Scholar citation: 5; Published year: 2016; Published venue: International Workshop on Machine Learning in Medical Imaging, 77-85.
+	23: Multi-modal classification of neurodegenerative disease by progressive graph-based transductive learning
+		Google Scholar citation: 17; Published year: 2017; Published venue: Medical image analysis 39, 218-230.
+	24: Multilevel UNet for pancreas segmentation from non-contrast CT scans through domain adaptation
+		Google Scholar citation: 3; Published year: 2020; Published venue: Medical Imaging 2020: Computer-Aided Diagnosis 11314, 113140K.
+	25: Personalized diagnosis for alzheimer’s disease
+		Google Scholar citation: 13; Published year: 2017; Published venue: International conference on medical image computing and computer-assisted ….
+	26: Progressive graph-based transductive learning for multi-modal classification of brain disorder disease
+		Google Scholar citation: 9; Published year: 2016; Published venue: International Conference on Medical Image Computing and Computer-Assisted ….
+	27: Reconstructing tree trunks by 3D bar filters
+		Google Scholar citation: 0; Published year: 2017; Published venue: Neurocomputing 253, 122-126.
+	28: Reveal consistent spatial-temporal patterns from dynamic functional connectivity for autism spectrum disorder identification
+		Google Scholar citation: 20; Published year: 2016; Published venue: International conference on medical image computing and computer-assisted ….
+	29: Scheduling with Freshness and Performance Guarantees for Web Applications in the Cloud.
+		Google Scholar citation: 8; Published year: 2011; Published venue: ADC, 133-142.
+	30: Self-representation and PCA embedding for unsupervised feature selection
+		Google Scholar citation: 2; Published year: 2018; Published venue: World Wide Web 21 (6), 1675-1688.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:

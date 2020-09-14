@@ -1,0 +1,267 @@
+There are 108 papers in Google Scholar and 82 papers in Microsoft Academic
+Total citations from Google Scholar is 2403, Microsoft Academic is 1,970
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 11 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: A query algebra for fragmented XML stream data
+		Microfost Academic citation: 117; Published year: 2004; Published venue: Lecture Notes in Computer Science.
+	2: A scalable and self-adapting notification framework for healthcare information systems
+		Microfost Academic citation: 2; Published year: 2011; Published venue: Universal Access in The Information Society.
+	3: An extensible self-adapting dissemination framework for high-speed continuous xml streaming data
+		Microfost Academic citation: 0; Published year: 2012; Published venue: Null.
+	4: Data stream management for historical XML data
+		Microfost Academic citation: 23; Published year: 2004; Published venue: International Conference on Management of Data.
+	5: Multi Person Identification and Localization in Pervasive Assistive Environments
+		Microfost Academic citation: 1; Published year: 2012; Published venue: Null.
+	6: Multi person tracking and querying with heterogeneous sensors
+		Microfost Academic citation: 0; Published year: 2012; Published venue: Multi person tracking and querying with heterogeneous sensors.
+	7: Revisiting catamorphisms over datatypes with embedded functions
+		Microfost Academic citation: 16; Published year: 1995; Published venue: Null.
+	8: Searching and ranking xml data in a distributed environment
+		Microfost Academic citation: 0; Published year: 2008; Published venue: Null.
+	9: Translation of array-based loops to distributed data-parallel programs
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Very Large Data Bases.
+	10: Using Type Transformation in Database Implementation.
+		Microfost Academic citation: 0; Published year: 1991; Published venue: Database Programming Languages.
+	11: XQuery processing with relevance ranking
+		Microfost Academic citation: 0; Published year: 2004; Published venue: Lecture Notes in Computer Science (including subseries Lecture Notes in Artificial Intelligence and Lecture Notes in Bioinformatics).
+There are 37 Papers appear in Google Schoolar but not in MS Academic
+	1: A GENERALIZED FRAMEWORK FOR MONITORING CHANGES TO DATABASE RELATIONS USING ACTIVE CAPABILITY
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	2: A Search Engine for Complex XML Queries
+		Google Scholar citation: 0; Published year: 2001; Published venue: Null.
+	3: A Uniform Framework for Collection Types
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	4: A polymorphic calculus for database languages
+		Google Scholar citation: 1; Published year: 1997; Published venue: Technical Report TR-CSE-97-005, University of Texas at Arlington.
+	5: A transformational approach to database system implementation.
+		Google Scholar citation: 9; Published year: 1994; Published venue: Null.
+	6: A uniform calculus for collection types
+		Google Scholar citation: 26; Published year: 1994; Published venue: Oregon Graduate Institute Technical Report, 94-030.
+	7: An experimental optimizer for OQL
+		Google Scholar citation: 21; Published year: 1997; Published venue: Null.
+	8: Automatic Depression Assessment from Speech Records
+		Google Scholar citation: 1; Published year: 2011; Published venue: ICICTH.
+	9: BigDataCongress 2018
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	10: Chris Eichelberger 291 Yuval Elovici 738 Dick Epema 622 Kyumars Sheykh Esmaili 246
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	11: Compile-Time Query Optimization for Big Data Analytics
+		Google Scholar citation: 0; Published year: 2019; Published venue: Open Journal of Big Data (OJBD) 5 (1), 35-61.
+	12: Database Programming Languages (DBPL-5)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	13: Database Research at UT Arlington (ITLab@ CSE. UTA)
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	14: Definition, Use and Properties
+		Google Scholar citation: 0; Published year: 1992; Published venue: Automated Deduction, CADE-11: 11th International Conference on Automated ….
+	15: Department of Computer Science and Engineering Oregon Graduate Institute of Science & Technology 20000 NW Walker Road PO Box 91000 Portland, OR 97291-1000
+		Google Scholar citation: 0; Published year: 1996; Published venue: Null.
+	16: Enhancing relational operators for querying over punctuated data streams. 2002
+		Google Scholar citation: 5; Published year: None; Published venue: Null.
+	17: Enhancing relational operators for querying over punctuated data streams. manuscript, 2002
+		Google Scholar citation: 4; Published year: None; Published venue: Null.
+	18: Exceeding the limits of polymorphism in database programming languages
+		Google Scholar citation: 47; Published year: 1990; Published venue: International Conference on Extending Database Technology, 269-285.
+	19: Fusion for free
+		Google Scholar citation: 5; Published year: 1996; Published venue: Oregon Graduate Institute School of Science & Engineering.
+	20: I12
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	21: IMPROVEMENTS TO CHANGE-DETECTION AND FETCHING TO HANDLE MULTIPLE URLs IN WEBVIGIL
+		Google Scholar citation: 0; Published year: 2004; Published venue: Null.
+	22: Interview with Jim Gray
+		Google Scholar citation: 6; Published year: 2003; Published venue: SIGMOD Record 32 (1), 53-61.
+	23: Locating XML Documents Using Content and Structure Synopses
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	24: Optimizing algebraic programs
+		Google Scholar citation: 9; Published year: 1994; Published venue: Technical Report 94-004.
+	25: Processing Continuous Historical Queries over XML Update Streams
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	26: Propagating Updates Through XML Views Using Static Lineage Tracing
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	27: Punctuated data streams
+		Google Scholar citation: 20; Published year: 2005; Published venue: OGI School of Science & Engineering at OHSU.
+	28: Punctuating continuous data streams
+		Google Scholar citation: 9; Published year: 2001; Published venue: Technical Report.
+	29: Tagging and Warehousing for Health Data
+		Google Scholar citation: 1; Published year: None; Published venue: Proceeding of the 8th International Conference on Information Communication ….
+	30: The ADABTPL type system
+		Google Scholar citation: 12; Published year: 1990; Published venue: Proceedings of the Second International Workshop on Database Programming ….
+	31: Transformation of Imperative Statements into Functional Expressions
+		Google Scholar citation: 0; Published year: 1989; Published venue: University of Massachusetts.
+	32: Type-safe linguistic reflection: a generator technology
+		Google Scholar citation: 68; Published year: 2000; Published venue: Fully Integrated Data Environments, 158-188.
+	33: Uniform Traversal Combinators: Deﬁnition, Use and Properties
+		Google Scholar citation: 2; Published year: None; Published venue: ln Proceedings of the 11th International Conference on Automated Deduction ….
+	34: Uniform traversal combinators: Definition, use and properties
+		Google Scholar citation: 29; Published year: 1992; Published venue: International Conference on Automated Deduction, 148-162.
+	35: Using compact data representations for languages based on catamorphisms
+		Google Scholar citation: 2; Published year: 1995; Published venue: Technical Report 95-025, Department of Computer Science and Engineering ….
+	36: Using the parametricity theorem for program fusion
+		Google Scholar citation: 2; Published year: 1996; Published venue: Null.
+	37: XQuery Evaluation with Relevance Ranking in Structured Peer-to-Peer Systems
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A fold for all seasons
+google scholar citation: 205, microsoft academic citation: 211
+------------------------------------------------------------
+A Fully Pipelined XQuery Processor.
+google scholar citation: 22, microsoft academic citation: 15
+------------------------------------------------------------
+A load shedding framework for XML stream joins
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+An Adaptable Framework for Integrating and Querying Sensor Data
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+An algebra for distributed Big Data analytics.
+google scholar citation: 8, microsoft academic citation: 9
+------------------------------------------------------------
+An algebraic framework for physical oodb design
+google scholar citation: 27, microsoft academic citation: 14
+------------------------------------------------------------
+A new heuristic for optimizing large queries
+google scholar citation: 52, microsoft academic citation: 56
+------------------------------------------------------------
+An optimization framework for map-reduce queries
+google scholar citation: 41, microsoft academic citation: 32
+------------------------------------------------------------
+Answering XPath queries with search predicates in structured P2P networks
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Applying data warehousing technique in pervasive assistive environment
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+Approximate XML query answers in DHT-based P2P networks
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+A Query Processing Framework for Large-Scale Scientific Data Analysis
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+A schema-based translation of XQuery updates
+google scholar citation: 5, microsoft academic citation: 7
+------------------------------------------------------------
+A temporal object query language
+google scholar citation: 25, microsoft academic citation: 18
+------------------------------------------------------------
+Compile-time code generation for embedded data-intensive query languages
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Complete storm identification algorithms from big raw rainfall data using mapreduce framework
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Delivering QoS in XML data stream processing using load shedding
+google scholar citation: 2, microsoft academic citation: 4
+------------------------------------------------------------
+Distributed Incremental Graph Analysis
+google scholar citation: 6, microsoft academic citation: 0
+------------------------------------------------------------
+Efficient optimization of iterative queries
+google scholar citation: 28, microsoft academic citation: 9
+------------------------------------------------------------
+Efficient processing of XML update streams
+google scholar citation: 8, microsoft academic citation: 3
+------------------------------------------------------------
+Estimation of the mismatch between admission and discharge diagnosis for respiratory patients, and implications on the length of stay and hospital charges
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Exploiting punctuation semantics in continuous data streams
+google scholar citation: 364, microsoft academic citation: 372
+------------------------------------------------------------
+Improving Programs Which Recurse over Multiple Inductive Structures.
+google scholar citation: 40, microsoft academic citation: 18
+------------------------------------------------------------
+Incremental query processing on big data streams
+google scholar citation: 20, microsoft academic citation: 19
+------------------------------------------------------------
+Incremental stream processing of nested-relational queries
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Indexing and searching XML documents based on content and structure synopses
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Linguistic reflection: A bridge from programming to database languages
+google scholar citation: 37, microsoft academic citation: 22
+------------------------------------------------------------
+Locating and ranking XML documents based on content and structure synopses
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Map-based graph analysis on MapReduce
+google scholar citation: 16, microsoft academic citation: 5
+------------------------------------------------------------
+Multi-person identification and localization using RFID and passive sensor technology
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+New ideas track: testing mapreduce-style programs
+google scholar citation: 45, microsoft academic citation: 22
+------------------------------------------------------------
+Optimizing large OODB queries
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Optimizing object queries using an effective calculus
+google scholar citation: 179, microsoft academic citation: 184
+------------------------------------------------------------
+Optimizing queries with object updates
+google scholar citation: 22, microsoft academic citation: 15
+------------------------------------------------------------
+Propagating updates through XML views using lineage tracing
+google scholar citation: 33, microsoft academic citation: 25
+------------------------------------------------------------
+Query engines for web-accessible XML data
+google scholar citation: 54, microsoft academic citation: 60
+------------------------------------------------------------
+Query processing of streamed XML data
+google scholar citation: 105, microsoft academic citation: 109
+------------------------------------------------------------
+Query unnesting in object-oriented databases
+google scholar citation: 49, microsoft academic citation: 51
+------------------------------------------------------------
+Revisiting catamorphisms over datatypes with embedded functions (or, programs from outer space)
+google scholar citation: 111, microsoft academic citation: 115
+------------------------------------------------------------
+Seasonality of discrepancies between admission and discharge diagnosis for Medicare patients
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Singular race models: addressing bias and accuracy in predicting prisoner recidivism
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Specifying rule-based query optimizers in a reflective framework
+google scholar citation: 18, microsoft academic citation: 10
+------------------------------------------------------------
+Supporting bulk synchronous parallelism in map-reduce queries
+google scholar citation: 10, microsoft academic citation: 5
+------------------------------------------------------------
+Synopsis based load shedding in XML streams
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Temporal Modification of Apriori to find Seasonal Variations between Symptoms and Diagnoses
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+The Joy of SAX.
+google scholar citation: 23, microsoft academic citation: 12
+------------------------------------------------------------
+Towards an effective calculus for object query languages
+google scholar citation: 167, microsoft academic citation: 170
+------------------------------------------------------------
+Using mapreduce to speed up storm identification from big raw rainfall data
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Using type transformation in database system implementation
+google scholar citation: 16, microsoft academic citation: 12
+------------------------------------------------------------
+VOODOO: a visual object-oriented database language for ODMG OQL
+google scholar citation: 25, microsoft academic citation: 16
+------------------------------------------------------------
+XFrag: A Query Processing Framework for Fragmented XML Data.
+google scholar citation: 78, microsoft academic citation: 81
+------------------------------------------------------------
+XML Query Optimization in Map-Reduce.
+google scholar citation: 46, microsoft academic citation: 28
+------------------------------------------------------------
+XML query routing in structured P2P systems
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+XQuery processing with relevance ranking
+google scholar citation: 7, microsoft academic citation: 0
+------------------------------------------------------------

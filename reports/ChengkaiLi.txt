@@ -1,0 +1,245 @@
+There are 92 papers in Google Scholar and 95 papers in Microsoft Academic
+Total citations from Google Scholar is 2979, Microsoft Academic is 2,667
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 17 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: A Benchmark Dataset of Check-worthy Factual Claims.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: arXiv: Computation and Language.
+	2: A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs.
+		Microfost Academic citation: 1; Published year: 2020; Published venue: Very Large Data Bases.
+	3: A holistic, similarity-based approach for personalized ranking in web databases
+		Microfost Academic citation: 0; Published year: 2011; Published venue: ProQuest LLC.
+	4: Continuous Monitoring of Pareto Frontiers on Partially Ordered Attributes for Many Users
+		Microfost Academic citation: 0; Published year: 2018; Published venue: Extending Database Technology.
+	5: Corrigendum to “Discovering and learning sensational episodes of news events” [Inf. Syst. 78 (2018) 68–80]
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Information Systems.
+	6: Corrigendum to “Discovering and learning sensational episodes of news events” [Information Systems 78 (2018) 68–80]
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Information Systems.
+	7: Cross-lingual Entity Alignment via Joint Attribute-Preserving Embedding
+		Microfost Academic citation: 10; Published year: 2017; Published venue: arXiv: Computation and Language.
+	8: Crowdsourcing Pareto-Optimal Object Finding by Pairwise Comparisons
+		Microfost Academic citation: 0; Published year: 2014; Published venue: arXiv: Artificial Intelligence.
+	9: Entity-relationship queries over wikipedia
+		Microfost Academic citation: 5; Published year: 2010; Published venue: Conference on Information and Knowledge Management.
+	10: Formalization of 2-D Spatial Ontology and OWL/Protégé Realization Kulsawasd Jitkajornwanich
+		Microfost Academic citation: 0; Published year: 2011; Published venue: Null.
+	11: Incremental discovery of prominent situational facts
+		Microfost Academic citation: 9; Published year: 2014; Published venue: International Conference on Data Engineering.
+	12: Novel methods for entity-centric information exploration
+		Microfost Academic citation: 0; Published year: 2013; Published venue: Null.
+	13: Querying Knowledge Graphs by Example Entity Tuples
+		Microfost Academic citation: 86; Published year: 2015; Published venue: IEEE Transactions on Knowledge and Data Engineering.
+	14: Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study.
+		Microfost Academic citation: 1; Published year: 2020; Published venue: International Conference on Management of Data.
+	15: Relaxing relationship queries on graph data
+		Microfost Academic citation: 2; Published year: 2020; Published venue: Journal of Web Semantics.
+	16: Session details: Research 10: Analytical Queries
+		Microfost Academic citation: 0; Published year: 2018; Published venue: International Conference on Management of Data.
+	17: XML Parsing, SAX/DOM.
+		Microfost Academic citation: 4; Published year: 2018; Published venue: Encyclopedia of Database Systems (2nd ed.).
+There are 14 Papers appear in Google Schoolar but not in MS Academic
+	1: Answering entity-relationship queries using shallow semantics
+		Google Scholar citation: 5; Published year: 2010; Published venue: CIKM, Oct.
+	2: Automated pop-up fact-checking: Challenges & progress
+		Google Scholar citation: 5; Published year: 2019; Published venue: Computation+ Journalism Symposium, 1-5.
+	3: Comparing automated factual claim detection against judgments of journalism organizations
+		Google Scholar citation: 17; Published year: 2016; Published venue: Computation+ Journalism Symposium, 1-5.
+	4: Continuous Monitoring of Pareto Frontiers over Partially Ordered Attributes for Many Users
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	5: Establishing a workload for ranking in web databases
+		Google Scholar citation: 5; Published year: 2010; Published venue: Technical report, UT Arlington, http://cse. uta. edu/research/Publications ….
+	6: Fill-In-The-Functions: Towards Establishing A Workload For Ranking in Web Databases
+		Google Scholar citation: 1; Published year: 2010; Published venue: Null.
+	7: Finding, monitoring, and checking claims computationally based on structured data
+		Google Scholar citation: 11; Published year: 2014; Published venue: Computation+ Journalism Symposium.
+	8: Intuitive and Interactive Query Formulation to Improve the Usability of Query Systems for Heterogeneous Graphs
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	9: Modeling factual claims by frames
+		Google Scholar citation: 3; Published year: 2019; Published venue: Computation+ Journalism Symposium.
+	10: Progress Toward “the Holy Grail”: The Continued Quest to Automate Fact-Checking
+		Google Scholar citation: 5; Published year: 2017; Published venue: Computation+ Journalism Symposium,(September).
+	11: SIGMOD 2003 Demo Proposal: Relational On-Line Exchange with XML
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	12: The UIUC web integration repository
+		Google Scholar citation: 53; Published year: 2003; Published venue: Computer Science Department, University of Illinois at Urbana-Champaign ….
+	13: The human touch in automated fact-cheking
+		Google Scholar citation: 6; Published year: 2019; Published venue: Proceedings of the Computation+ Journalism Symposium.
+	14: The quest to automate fact-checking
+		Google Scholar citation: 77; Published year: 2015; Published venue: Proceedings of the 2015 Computation+ Journalism Symposium.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A Benchmarking Study of Embedding-based Entity Alignment for Knowledge Graphs
+google scholar citation: 0, microsoft academic citation: 1
+------------------------------------------------------------
+An empirical study on identifying sentences with salient factual statements
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+An optimization framework for map-reduce queries
+google scholar citation: 41, microsoft academic citation: 32
+------------------------------------------------------------
+A structure-driven yield-aware web form crawler: building a database of online databases
+google scholar citation: 10, microsoft academic citation: 3
+------------------------------------------------------------
+ClaimBuster: the first-ever end-to-end fact-checking system
+google scholar citation: 98, microsoft academic citation: 95
+------------------------------------------------------------
+ClaimPortal: Integrated Monitoring, Searching, Checking, and Analytics of Factual Claims on Twitter
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Composing XSL transformations with XML publishing views
+google scholar citation: 27, microsoft academic citation: 23
+------------------------------------------------------------
+Computational fact checking through query perturbations
+google scholar citation: 22, microsoft academic citation: 14
+------------------------------------------------------------
+Cross-lingual entity alignment via joint attribute-preserving embedding
+google scholar citation: 90, microsoft academic citation: 10
+------------------------------------------------------------
+Crowdsourcing pareto-optimal object finding by pairwise comparisons
+google scholar citation: 15, microsoft academic citation: 0
+------------------------------------------------------------
+Data in, fact out: automated monitoring of facts by FactWatcher
+google scholar citation: 38, microsoft academic citation: 23
+------------------------------------------------------------
+Detecting check-worthy factual claims in presidential debates
+google scholar citation: 99, microsoft academic citation: 97
+------------------------------------------------------------
+Discovering general prominent streaks in sequence data
+google scholar citation: 14, microsoft academic citation: 6
+------------------------------------------------------------
+Dynamic symbolic database application testing.
+google scholar citation: 31, microsoft academic citation: 25
+------------------------------------------------------------
+Efficient processing of ad-hoc top-k aggregate queries in OLAP
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Enabling data retrieval: by ranking and beyond
+google scholar citation: 11, microsoft academic citation: 10
+------------------------------------------------------------
+EntityEngine: Answering entity-relationship queries using shallow semantics
+google scholar citation: 15, microsoft academic citation: 16
+------------------------------------------------------------
+Entity-relationship queries over wikipedia
+google scholar citation: 26, microsoft academic citation: 5
+------------------------------------------------------------
+Extracting storm-centric characteristics from raw rainfall data for storm analysis and mining
+google scholar citation: 10, microsoft academic citation: 11
+------------------------------------------------------------
+Facetedpedia: dynamic generation of query-dependent faceted interfaces for wikipedia
+google scholar citation: 136, microsoft academic citation: 138
+------------------------------------------------------------
+Facetedpedia: enabling query-dependent faceted search for wikipedia
+google scholar citation: 18, microsoft academic citation: 9
+------------------------------------------------------------
+Generating preview tables for entity graphs
+google scholar citation: 9, microsoft academic citation: 6
+------------------------------------------------------------
+GQBE: Querying knowledge graphs by example entity tuples
+google scholar citation: 26, microsoft academic citation: 90
+------------------------------------------------------------
+Gradient-based adversarial training on transformer networks for detecting check-worthy factual claims
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Graph querying meets hci: State of the art and future directions
+google scholar citation: 13, microsoft academic citation: 7
+------------------------------------------------------------
+Human Interaction with Graphs: A Visual Querying Perspective
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+iCheck: computationally combating" lies, d--ned lies, and statistics"
+google scholar citation: 11, microsoft academic citation: 6
+------------------------------------------------------------
+Incremental discovery of prominent situational facts
+google scholar citation: 15, microsoft academic citation: 9
+------------------------------------------------------------
+Infobox suggestion for Wikipedia entities
+google scholar citation: 18, microsoft academic citation: 10
+------------------------------------------------------------
+Maverick: a system for discovering exceptional facts from knowledge graphs
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Maverick: Discovering exceptional facts from knowledge graphs
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Method and apparatus for composing XSL transformations with XML publishing views
+google scholar citation: 86, microsoft academic citation: 91
+------------------------------------------------------------
+Method and system for combining ranking and clustering in a database management system
+google scholar citation: 36, microsoft academic citation: 27
+------------------------------------------------------------
+New ideas track: testing mapreduce-style programs
+google scholar citation: 45, microsoft academic citation: 22
+------------------------------------------------------------
+One size does not fit all: Toward user-and query-dependent ranking for web databases
+google scholar citation: 36, microsoft academic citation: 26
+------------------------------------------------------------
+Online frequent episode mining
+google scholar citation: 26, microsoft academic citation: 17
+------------------------------------------------------------
+On" one of the few" objects
+google scholar citation: 18, microsoft academic citation: 13
+------------------------------------------------------------
+Orion: Enabling suggestions in a visual query builder for ultra-heterogeneous graphs
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Personalized ranking in web databases: establishing and utilizing an appropriate workload
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Prominent streak discovery in sequence data
+google scholar citation: 24, microsoft academic citation: 14
+------------------------------------------------------------
+Query-by-keywords (qbk): Query formulation using semantics and feedback
+google scholar citation: 8, microsoft academic citation: 4
+------------------------------------------------------------
+Querying for information integration: How to go from an imprecise intent to a precise query?
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Query routing: Finding ways in the maze of the DeepWeb
+google scholar citation: 34, microsoft academic citation: 24
+------------------------------------------------------------
+RankSQL: query algebra and optimization for relational top-k queries
+google scholar citation: 335, microsoft academic citation: 342
+------------------------------------------------------------
+RankSQL: supporting ranking queries in relational database management systems
+google scholar citation: 36, microsoft academic citation: 25
+------------------------------------------------------------
+Realistic Re-evaluation of Knowledge Graph Completion Methods: An Experimental Study
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Re-evaluating embedding-based knowledge graph completion methods
+google scholar citation: 12, microsoft academic citation: 14
+------------------------------------------------------------
+ROLEX: relational on-line exchange with XML
+google scholar citation: 4, microsoft academic citation: 0
+------------------------------------------------------------
+Structured databases on the web: Observations and implications
+google scholar citation: 582, microsoft academic citation: 595
+------------------------------------------------------------
+Structured querying of annotation-rich web text with shallow semantics
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Supporting ad-hoc ranking aggregates
+google scholar citation: 88, microsoft academic citation: 90
+------------------------------------------------------------
+Supporting ranking and clustering as generalized order-by and group-by
+google scholar citation: 50, microsoft academic citation: 51
+------------------------------------------------------------
+Toward automated fact-checking: Detecting check-worthy factual claims by ClaimBuster
+google scholar citation: 106, microsoft academic citation: 108
+------------------------------------------------------------
+Toward computational fact-checking
+google scholar citation: 102, microsoft academic citation: 105
+------------------------------------------------------------
+Towards a query-by-example system for knowledge graphs
+google scholar citation: 15, microsoft academic citation: 6
+------------------------------------------------------------
+VIIQ: auto-suggestion enabled visual interface for interactive graph query formulation
+google scholar citation: 24, microsoft academic citation: 17
+------------------------------------------------------------
+Wiki3C: exploiting wikipedia for context-aware concept categorization
+google scholar citation: 10, microsoft academic citation: 7
+------------------------------------------------------------
+XML Query Optimization in Map-Reduce.
+google scholar citation: 46, microsoft academic citation: 28
+------------------------------------------------------------

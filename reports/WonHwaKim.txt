@@ -1,0 +1,86 @@
+There are 40 papers in Google Scholar and 35 papers in Microsoft Academic
+Total citations from Google Scholar is 261, Microsoft Academic is 174
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 4 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Classification of the urinary metabolome using machine learning and potential applications to diagnosing interstitial cystitis.
+		Microfost Academic citation: 0; Published year: 2020; Published venue: Bladder (San Francisco, Calif.).
+	2: Conditional Recurrent Flow: Conditional Generation of Longitudinal Samples with Applications to Neuroimaging
+		Microfost Academic citation: 1; Published year: 2018; Published venue: arXiv: Computer Vision and Pattern Recognition.
+	3: MISSING VALUE IMPUTATION VIA GRAPH COMPLETION IN QUESTIONNAIRE SCORES FROM PERSONS WITH DEMENTIA
+		Microfost Academic citation: 0; Published year: 2019; Published venue: Innovation in Aging.
+	4: Utilizing machine learning to discern hidden clinical values from big data in urology.
+		Microfost Academic citation: 1; Published year: 2020; Published venue: Investigative and Clinical Urology.
+There are 9 Papers appear in Google Schoolar but not in MS Academic
+	1: 3D terrain Reconstruction Using 2D Laser Range Finder and Camera Based on Cubic Grid
+		Google Scholar citation: 3; Published year: 2008; Published venue: International Conference on Ubiquitous Robots and Ambient Intelligence.
+	2: A Multi-resolution Framework for Statistical Analysis of Neuroimaging Data
+		Google Scholar citation: 1; Published year: 2017; Published venue: The University of Wisconsin-Madison.
+	3: Associations between PET Amyloid Pathology and DTI Brain Connectivity in Preclinical Alzheimer's Disease
+		Google Scholar citation: 3; Published year: 2018; Published venue: Brain Connect. https://doi. org/10.1089/brain.
+	4: Multi-modal Robot Emotion/Intention Expression using Editing Toolkit
+		Google Scholar citation: 0; Published year: 2009; Published venue: Proceedings of the KIEE Conference, 1819-1820.
+	5: Online graph completion: Multivariate signal recovery in computer vision
+		Google Scholar citation: 5; Published year: 2017; Published venue: 2017 IEEE Conference on Computer Vision and Pattern Recognition (CVPR), 5019 ….
+	6: Research Statement - Won Hwa Kim
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	7: STAT768 Final Project Report: Graph Structure Smoothing via wavelet on non-Euclidean Space for Group Analysis of Networks
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	8: Statistical Analysis of Longitudinally and Conditionally Generated Neuroimaging Measures via Conditional Recurrent Flow
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	9: Toward Unbiased Facial Expression Recognition in the Wild via Cross-dataset Adaptation
+		Google Scholar citation: 0; Published year: 2020; Published venue: IEEE Access.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Adaptive signal recovery on graphs via harmonic analysis for experimental design in neuroimaging
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+A robot simulator'FRESi'for dynamic facial expression
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Associations Between Positron Emission Tomography Amyloid Pathology and Diffusion Tensor Imaging Brain Connectivity in Pre-Clinical Alzheimer's Disease
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Conditional recurrent flow: Conditional generation of longitudinal samples with applications to neuroimaging
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Lifelike facial expression of mascot-type robot based on emotional boundaries
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Multi-resolutional brain network filtering and analysis via wavelets on non-Euclidean space
+google scholar citation: 18, microsoft academic citation: 9
+------------------------------------------------------------
+Multi-resolutional shape features via non-Euclidean wavelets: Applications to statistical analysis of cortical thickness
+google scholar citation: 32, microsoft academic citation: 20
+------------------------------------------------------------
+Multi-resolution shape analysis via non-euclidean wavelets: Applications to mesh segmentation and surface alignment problems
+google scholar citation: 23, microsoft academic citation: 16
+------------------------------------------------------------
+Multi-resolution statistical analysis of brain connectivity graphs in preclinical Alzheimer's disease
+google scholar citation: 32, microsoft academic citation: 23
+------------------------------------------------------------
+Multi-resolution statistical analysis on graph structured data in neuroimaging
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Online graph completion: Multivariate signal recovery in computer vision
+google scholar citation: 5, microsoft academic citation: 1
+------------------------------------------------------------
+On Statistical Analysis of Neuroimages With Imperfect Registration
+google scholar citation: 2, microsoft academic citation: 1
+------------------------------------------------------------
+Statistical Inference Models for Image Datasets With Systematic Variations
+google scholar citation: 9, microsoft academic citation: 2
+------------------------------------------------------------
+Stochastic approach on a simplified OCC model for uncertainty and believability
+google scholar citation: 7, microsoft academic citation: 4
+------------------------------------------------------------
+Synchronized multimodal expression generation using editing toolkit for a human-friendly robot
+google scholar citation: 6, microsoft academic citation: 3
+------------------------------------------------------------
+The 4D hyperspherical diffusion wavelet: A new method for the detection of localized anatomical variation
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Wavelet based multi-scale shape features on arbitrary surfaces for cortical thickness discrimination
+google scholar citation: 41, microsoft academic citation: 40
+------------------------------------------------------------

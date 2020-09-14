@@ -1,0 +1,227 @@
+There are 114 papers in Google Scholar and 108 papers in Microsoft Academic
+Total citations from Google Scholar is 2025, Microsoft Academic is 1,867
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 0 Papers appear in Microsoft Academic but not in Google Scholar:
+There are 10 Papers appear in Google Schoolar but not in MS Academic
+	1: Axonal fiber terminations concentrate on gyri
+		Google Scholar citation: 75; Published year: 2012; Published venue: Cerebral cortex 22 (12), 2831-2839.
+	2: Common brain landmarks reflecting consistent structural and functional archetecture
+		Google Scholar citation: 0; Published year: 2014; Published venue: uga.
+	3: Human-friendly attention models for video summarization
+		Google Scholar citation: 3; Published year: 2010; Published venue: ACM Conference on Multimodal Interfaces.
+	4: Individual functional ROI optimization via maximization of group-wise consistency of structural and functional profiles
+		Google Scholar citation: 25; Published year: 2012; Published venue: Neuroinformatics 10 (3), 225-242.
+	5: Intrinsic functional component analysis via sparse representation on Alzheimer's disease neuroimaging initiative database
+		Google Scholar citation: 14; Published year: 2014; Published venue: Brain connectivity 4 (8), 575-586.
+	6: Neural information processing systems (NIPS)
+		Google Scholar citation: 8; Published year: 2010; Published venue: Null.
+	7: On initial Brain Activity Mapping of associative memory code in the
+		Google Scholar citation: 0; Published year: 2013; Published venue: hippocampus 6, 7.
+	8: Predicting functional brain ROIs via fiber shape models
+		Google Scholar citation: 4; Published year: 2011; Published venue: International Conference on Medical Image Computing and Computer-Assisted ….
+	9: This file was downloaded from: http://eprints. qut. edu. au/94877
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	10: Towards Robust and Specific Causal Discovery from fMRI
+		Google Scholar citation: 2; Published year: 2015; Published venue: Preprint at http://arxiv. org/abs/1509.08056.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+A Cascaded Multi-modality Analysis in Mild Cognitive Impairment
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Activated fibers: fiber-centered activation detection in task-based fMRI
+google scholar citation: 7, microsoft academic citation: 6
+------------------------------------------------------------
+A functional model of cortical gyri and sulci
+google scholar citation: 32, microsoft academic citation: 24
+------------------------------------------------------------
+Anatomy-guided dense individualized and common connectivity-based cortical landmarks (A-DICCCOL)
+google scholar citation: 8, microsoft academic citation: 6
+------------------------------------------------------------
+Anatomy-Guided Discovery of Large-Scale Consistent Connectivity-Based Cortical Landmarks
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Assessing effects of prenatal alcohol exposure using group-wise sparse representation of fMRI data
+google scholar citation: 28, microsoft academic citation: 25
+------------------------------------------------------------
+Atomic connectomics signatures for characterization and differentiation of mild cognitive impairment
+google scholar citation: 12, microsoft academic citation: 7
+------------------------------------------------------------
+Atomic dynamic functional interaction patterns for characterization of ADHD
+google scholar citation: 30, microsoft academic citation: 27
+------------------------------------------------------------
+Automatic cortical surface parcellation based on fiber density information
+google scholar citation: 20, microsoft academic citation: 19
+------------------------------------------------------------
+Bezier Control Points image: A novel shape representation approach for medical imaging
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Bridging low-level features and high-level semantics via fMRI brain imaging for video classification
+google scholar citation: 36, microsoft academic citation: 25
+------------------------------------------------------------
+Characterization of task-free and task-performance brain states via functional connectome patterns
+google scholar citation: 28, microsoft academic citation: 20
+------------------------------------------------------------
+Characterization of task-free/task-performance brain states
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Characterizing and differentiating brain state dynamics via hidden Markov models
+google scholar citation: 46, microsoft academic citation: 37
+------------------------------------------------------------
+Connectomics signature for characterizaton of mild cognitive impairment and schizophrenia
+google scholar citation: 14, microsoft academic citation: 4
+------------------------------------------------------------
+Connectomics signatures of prenatal cocaine exposure affected adolescent brains
+google scholar citation: 38, microsoft academic citation: 33
+------------------------------------------------------------
+Construction of multi-scale brain networks via DICCCOL landmarks
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Construction of multi-scale consistent brain networks: methods and applications
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+Data-driven analysis of functional brain interactions during free listening to music and speech
+google scholar citation: 9, microsoft academic citation: 5
+------------------------------------------------------------
+Decoding auditory saliency from fMRI brain imaging
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Detecting cell assembly interaction patterns via Bayesian based change-point detection and graph inference model
+google scholar citation: 5, microsoft academic citation: 4
+------------------------------------------------------------
+DICCCOL: dense individualized and common connectivity-based cortical landmarks
+google scholar citation: 148, microsoft academic citation: 153
+------------------------------------------------------------
+Diffusion tensor imaging reveals evolution of primate brain architectures
+google scholar citation: 25, microsoft academic citation: 19
+------------------------------------------------------------
+Discovering common functional connectomics signatures
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Discovering dense and consistent landmarks in the brain
+google scholar citation: 26, microsoft academic citation: 21
+------------------------------------------------------------
+Discovering hierarchical common brain networks via multimodal deep belief network
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Dynamic functional connectomics signatures for characterization and differentiation of PTSD patients
+google scholar citation: 129, microsoft academic citation: 132
+------------------------------------------------------------
+Dynamic network partition via Bayesian connectivity bi-partition change point model
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Experimental comparisons of sparse dictionary learning and independent component analysis for brain network inference from fMRI data
+google scholar citation: 24, microsoft academic citation: 13
+------------------------------------------------------------
+Exploring functional brain dynamics via a Bayesian connectivity change point model
+google scholar citation: 16, microsoft academic citation: 12
+------------------------------------------------------------
+Exploring high-order functional interactions via structurally-weighted LASSO models
+google scholar citation: 9, microsoft academic citation: 7
+------------------------------------------------------------
+Exploring latent structures of Alzheimer's disease via structure learning
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Fine-granularity functional interaction signatures for characterization of brain conditions
+google scholar citation: 12, microsoft academic citation: 9
+------------------------------------------------------------
+FMRI signal analysis using empirical mean curve decomposition
+google scholar citation: 21, microsoft academic citation: 19
+------------------------------------------------------------
+Fusing DTI and fMRI data: a survey of methods and applications
+google scholar citation: 94, microsoft academic citation: 97
+------------------------------------------------------------
+Generalized fMRI activation detection via Bayesian magnitude change point model
+google scholar citation: 8, microsoft academic citation: 7
+------------------------------------------------------------
+Genetic analysis of structural brain connectivity using DICCCOL models of diffusion MRI in 522 twins
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Group-wise consistent cortical parcellation based on connectional profiles
+google scholar citation: 7, microsoft academic citation: 6
+------------------------------------------------------------
+Group-wise consistent fiber clustering based on multimodal connectional and functional profiles
+google scholar citation: 7, microsoft academic citation: 5
+------------------------------------------------------------
+Group-wise consistent parcellation of gyri via adaptive multi-view spectral clustering of fiber shapes
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Group-wise optimization and individualized prediction of structural connectomes
+google scholar citation: 4, microsoft academic citation: 1
+------------------------------------------------------------
+Group-Wise Optimization of Common Brain Landmarks with Joint Structural and Functional Regulations
+google scholar citation: 1, microsoft academic citation: 0
+------------------------------------------------------------
+Heritability of brain network topology in 853 twins and siblings
+google scholar citation: 6, microsoft academic citation: 4
+------------------------------------------------------------
+Holistic atlases of functional networks and interactions reveal reciprocal organizational architecture of cortical function
+google scholar citation: 116, microsoft academic citation: 120
+------------------------------------------------------------
+Human-centered attention models for video summarization
+google scholar citation: 11, microsoft academic citation: 5
+------------------------------------------------------------
+Identifying and characterizing resting state networks in temporally dynamic functional connectomes
+google scholar citation: 11, microsoft academic citation: 9
+------------------------------------------------------------
+Identifying consistent brain networks via maximizing predictability of functional connectome from structural connectome
+google scholar citation: 3, microsoft academic citation: 1
+------------------------------------------------------------
+Identifying functional connectomics abnormality in attention deficit hyperactivity disorder
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Identifying functional networks via sparse coding of whole brain FMRI signals
+google scholar citation: 8, microsoft academic citation: 5
+------------------------------------------------------------
+Individualized ROI optimization via maximization of group-wise consistency of structural and functional profiles
+google scholar citation: 34, microsoft academic citation: 51
+------------------------------------------------------------
+Inferring functional interaction and transition patterns via dynamic Bayesian variable partition models
+google scholar citation: 40, microsoft academic citation: 29
+------------------------------------------------------------
+Inferring functional network-based signatures via structurally-weighted LASSO model
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Integrating group-wise functional brain activities via point processes
+google scholar citation: 4, microsoft academic citation: 2
+------------------------------------------------------------
+Large-scale classification of major depressive disorder via distributed Lasso
+google scholar citation: 5, microsoft academic citation: 2
+------------------------------------------------------------
+Large-scale Feature Selection of Risk Genetic Factors for Alzheimer's Disease via Distributed Group Lasso Regression
+google scholar citation: 6, microsoft academic citation: 0
+------------------------------------------------------------
+Meta-analysis of functional roles of DICCCOLs
+google scholar citation: 30, microsoft academic citation: 28
+------------------------------------------------------------
+Modeling brain functional dynamics via hidden Markov models
+google scholar citation: 13, microsoft academic citation: 10
+------------------------------------------------------------
+On initial brain activity mapping of episodic and semantic memory code in the hippocampus
+google scholar citation: 26, microsoft academic citation: 19
+------------------------------------------------------------
+Population learning of structural connectivity by white matter encoding and decoding
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Predicting functional cortical ROIs via DTI-derived fiber shape models
+google scholar citation: 95, microsoft academic citation: 98
+------------------------------------------------------------
+Predictive models of resting state networks for assessment of altered functional connectivity in mild cognitive impairment
+google scholar citation: 7, microsoft academic citation: 6
+------------------------------------------------------------
+Representing and retrieving video shots in human-centric brain imaging space
+google scholar citation: 167, microsoft academic citation: 171
+------------------------------------------------------------
+Sparse representation of group-wise FMRI signals
+google scholar citation: 14, microsoft academic citation: 11
+------------------------------------------------------------
+Sparse representation of higher-order functional interaction patterns in task-based fMRI data
+google scholar citation: 17, microsoft academic citation: 14
+------------------------------------------------------------
+Sparse representation of whole-brain fMRI signals for identification of functional networks
+google scholar citation: 124, microsoft academic citation: 128
+------------------------------------------------------------
+Visual analytics of brain networks
+google scholar citation: 42, microsoft academic citation: 29
+------------------------------------------------------------

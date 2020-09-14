@@ -1,0 +1,98 @@
+There are 34 papers in Google Scholar and 33 papers in Microsoft Academic
+Total citations from Google Scholar is 774, Microsoft Academic is 586
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 3 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: Capturing the Persistence of Facial Expression Features for Deepfake Video Detection
+		Microfost Academic citation: 0; Published year: 2019; Published venue: International Conference on Information and Communication Security.
+	2: Towards Predicting Efficient and Anonymous Tor Circuits
+		Microfost Academic citation: 1; Published year: 2018; Published venue: USENIX Security Symposium.
+	3: Translingual Obfuscation
+		Microfost Academic citation: 9; Published year: 2016; Published venue: IEEE European Symposium on Security and Privacy.
+There are 4 Papers appear in Google Schoolar but not in MS Academic
+	1: Countering Double-Spend Attacks on Bitcoin Fast-Pay Transactions
+		Google Scholar citation: 8; Published year: 2017; Published venue: Workshop on Technology and Consumer Protection (ConPro'17).
+	2: Layered obfuscation: a taxonomy of software obfuscation techniques for layered security
+		Google Scholar citation: 0; Published year: 2020; Published venue: Cybersecurity 3, 1-18.
+	3: MetaHunt: Towards Taming Malware Mutation via Studying the Evolution of Metamorphic Virus
+		Google Scholar citation: 0; Published year: 2019; Published venue: Proceedings of the 3rd ACM Workshop on Software Protection, 15-26.
+	4: Poster: PredicTor: Predicting Fast Circuits For A Faster User Experience in Tor
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Automatic Building Information Model Query Generation
+google scholar citation: 12, microsoft academic citation: 8
+------------------------------------------------------------
+BIM Server Requirements to Support the Energy Efficient Building Lifecycle
+google scholar citation: 34, microsoft academic citation: 24
+------------------------------------------------------------
+BinSim: Trace-based Semantic Binary Diffing via System Call Sliced Segment Equivalence Checking
+google scholar citation: 40, microsoft academic citation: 20
+------------------------------------------------------------
+Cracking IoT device user account via brute-force attack to SMS authentication code
+google scholar citation: 9, microsoft academic citation: 3
+------------------------------------------------------------
+Cryptographic Function Detection in Obfuscated Binaries via Bit-precise Symbolic Loop Mapping
+google scholar citation: 43, microsoft academic citation: 29
+------------------------------------------------------------
+Denial-of-Service Attacks on Host-Based Generic Unpackers
+google scholar citation: 11, microsoft academic citation: 8
+------------------------------------------------------------
+Deviation-Based Obfuscation-Resilient Program Equivalence Checking with Application to Software Plagiarism Detection
+google scholar citation: 21, microsoft academic citation: 15
+------------------------------------------------------------
+Generalized Dynamic Opaque Predicates: A New Control Flow Obfuscation Method
+google scholar citation: 28, microsoft academic citation: 11
+------------------------------------------------------------
+iBinHunt: Binary Hunting with Inter-Procedural Control Flow
+google scholar citation: 70, microsoft academic citation: 71
+------------------------------------------------------------
+Impeding Behavior-based Malware Analysis via Replacement Attacks to Malware Specifications
+google scholar citation: 23, microsoft academic citation: 12
+------------------------------------------------------------
+" Jekyll and Hyde" is Risky: Shared-Everything Threat Mitigation in Dual-Instance Apps
+google scholar citation: 2, microsoft academic citation: 0
+------------------------------------------------------------
+Linear Obfuscation to Combat Symbolic Execution
+google scholar citation: 64, microsoft academic citation: 66
+------------------------------------------------------------
+LOOP: Logic-Oriented Opaque Predicate Detection in Obfuscated Binary Code
+google scholar citation: 51, microsoft academic citation: 54
+------------------------------------------------------------
+MalwareHunt: Semantics-Based Malware Diffing Speedup by Normalized Basic Block Memoization
+google scholar citation: 6, microsoft academic citation: 2
+------------------------------------------------------------
+Memoized Semantics-Based Binary Diffing with Application to Malware Lineage Inference
+google scholar citation: 21, microsoft academic citation: 6
+------------------------------------------------------------
+Program-object Level Data Flow Analysis with Applications to Data Leakage and Contamination Forensics
+google scholar citation: 7, microsoft academic citation: 3
+------------------------------------------------------------
+Replacement Attacks: Automatically Impeding Behavior-Based Malware Specifications
+google scholar citation: 14, microsoft academic citation: 8
+------------------------------------------------------------
+Resetting Your Password Is Vulnerable: A Security Study of Common SMS-Based Authentication in IoT Device
+google scholar citation: 5, microsoft academic citation: 3
+------------------------------------------------------------
+Semantics-based obfuscation-resilient binary code similarity comparison with applications to software and algorithm plagiarism detection
+google scholar citation: 42, microsoft academic citation: 26
+------------------------------------------------------------
+Semantics-Based Obfuscation-Resilient Binary Code Similarity Comparison with Applications to Software Plagiarism Detection
+google scholar citation: 131, microsoft academic citation: 134
+------------------------------------------------------------
+StraightTaint: Decoupled Offline Symbolic Taint Analysis
+google scholar citation: 29, microsoft academic citation: 21
+------------------------------------------------------------
+TaintPipe: Pipelined Symbolic Taint Analysis
+google scholar citation: 46, microsoft academic citation: 30
+------------------------------------------------------------
+Towards Ground Truthing Observations in Gray-Box Anomaly Detection
+google scholar citation: 3, microsoft academic citation: 2
+------------------------------------------------------------
+Towards Paving the Way for Large-Scale Windows Malware Analysis: Generic Binary Unpacking with Orders-of-Magnitude Performance Boost
+google scholar citation: 19, microsoft academic citation: 8
+------------------------------------------------------------
+VMHunt: A Verifiable Approach to Partial-Virtualized Binary Code Simplification
+google scholar citation: 14, microsoft academic citation: 9
+------------------------------------------------------------

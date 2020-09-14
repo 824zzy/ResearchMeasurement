@@ -1,0 +1,48 @@
+There are 17 papers in Google Scholar and 10 papers in Microsoft Academic
+Total citations from Google Scholar is 552, Microsoft Academic is 473
+------------------------------------------------------------------------------------------------------------------------
+Please note that the duplicated paper titles may appear in the other source
+There are 4 Papers appear in Microsoft Academic but not in Google Scholar:
+	1: DECENT: A decentralized architecture for enforcing privacy in online social networks
+		Microfost Academic citation: 121; Published year: 2012; Published venue: IEEE International Conference on Pervasive Computing and Communications.
+	2: Measuring and Characterizing Hate Speech on News Websites.
+		Microfost Academic citation: 1; Published year: 2020; Published venue: Web Science.
+	3: POISED: Spotting Twitter Spam Off the Beaten Paths
+		Microfost Academic citation: 21; Published year: 2017; Published venue: Computer and Communications Security.
+	4: Peer to Peer Hate: Hate Speech Instigators and Their Targets
+		Microfost Academic citation: 33; Published year: 2018; Published venue: International Conference on Weblogs and Social Media.
+There are 11 Papers appear in Google Schoolar but not in MS Academic
+	1: Craigslist scams and community composition: Investigating online fraud victimization
+		Google Scholar citation: 23; Published year: 2013; Published venue: 2013 IEEE Security and Privacy Workshops, 123-126.
+	2: Detecting deceptive reviews using generative adversarial networks
+		Google Scholar citation: 18; Published year: 2018; Published venue: 2018 IEEE Security and Privacy Workshops (SPW), 89-95.
+	3: DifFuzz: differential fuzzing for side-channel analysis
+		Google Scholar citation: 14; Published year: 2019; Published venue: 2019 IEEE/ACM 41st International Conference on Software Engineering (ICSE ….
+	4: In Search of a Toyota Sienna: Prevalence and Identification of Auto Scam on Craigslist
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	5: Lightning Talk-Think Outside the Dataset: Finding Fraudulent Reviews using Cross-Dataset Analysis
+		Google Scholar citation: 0; Published year: 2019; Published venue: Companion Proceedings of The 2019 World Wide Web Conference, 1288-1289.
+	6: Poornachandran, Prabaharan 258 Purl, Justin 197 Qi, Yanjun 50 R, Vinayakumar 258 Rigaki, Maria 70
+		Google Scholar citation: 0; Published year: None; Published venue: Null.
+	7: Privacy-‐Aware Decentralized Architectures for Socially Networked Systems
+		Google Scholar citation: 0; Published year: 2014; Published venue: faculty of the University Graduate School in partial fulfillment of the ….
+	8: Pythia: a privacy aware, peer-to-peer network for social search
+		Google Scholar citation: 12; Published year: 2011; Published venue: Proceedings of the 10th annual ACM workshop on Privacy in the electronic ….
+	9: Race and the beauty premium: Mechanical Turk workers’ evaluations of Twitter accounts
+		Google Scholar citation: 1; Published year: 2019; Published venue: Information, Communication & Society 22 (5), 709-716.
+	10: Think outside the dataset: Finding fraudulent reviews using cross-dataset analysis
+		Google Scholar citation: 3; Published year: 2019; Published venue: The World Wide Web Conference, 3108-3115.
+	11: Twitter's Glass Ceiling: The Effect of Perceived Gender on Online Visibility.
+		Google Scholar citation: 35; Published year: 2016; Published venue: ICWSM, 289-298.
+------------------------------------------------------------------------------------------------------------------------
+For the overlapped and not duplicated papers, those papers's citation are different:
+
+Cachet: a decentralized architecture for privacy preserving social networking with caching
+google scholar citation: 132, microsoft academic citation: 134
+------------------------------------------------------------
+Community-Enhanced De-anonymization of Online Social Networks
+google scholar citation: 102, microsoft academic citation: 104
+------------------------------------------------------------
+DECENT: A decentralized architecture for enforcing privacy in online social networks
+google scholar citation: 144, microsoft academic citation: 121
+------------------------------------------------------------
